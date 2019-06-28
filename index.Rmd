@@ -42,7 +42,7 @@ Links {#links}
 
 <i class="fa fa-github"></i> [github.com/mattansb](https://github.com/mattansb)  
 <i class="fa fa-globe"></i> [Website](https://sites.google.com/view/mattansb)  
-<i class="fa fa-rss"></i> [Blog](https://mattansb.blogspot.com/)  
+<i class="fa fa-rss"></i> [Blog](https://mattansb.github.io/blog/)  
 <i class="fa fa-twitter"></i> [\@mattansb](https://twitter.com/mattansb)  
 <i class="fa fa-id-badge"></i> [0000-0002-4287-4801](https://orcid.org/0000-0002-4287-4801)  
 <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)  
@@ -181,7 +181,7 @@ N/A
 2016 - Present
 
 - Active development of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing posterior distributions and Bayesian models (part of [easystats](https://github.com/easystats)).
-- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post.](https://mattansb.blogspot.com/2018/07/cheatr-r-package-for-catching-cheaters.html)  
+- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post.](https://mattansb.github.io/blog/posts/2018-07-29-cheatr/)  
 
 ### Event-related Brain Dynamics
 
