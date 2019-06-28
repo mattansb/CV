@@ -1,0 +1,463 @@
+---
+title: "Mattan S. Ben-Shachar's resume"
+author: Mattan S. Ben-Shachar
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    css: resume.css
+    paged-footnotes: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+# https://dktanwar.github.io/CV/ds.html
+# https://fontawesome.com/v4.7.0/icons/
+# https://github.com/jienagu/Jiena_McLellan_CV
+```
+
+Aside
+================================================================================
+
+
+![Mattan S. Ben-Shachar](headshots/BrainOrange.jpg){width=80%}
+<!-- ![Mattan S. Ben-Shachar](headshots/coat.jpg){width=80%} -->
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il  
+<!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com -->
+<i class="fa fa-phone"></i> +972 50-837-1566  
+<i class="fa fa-home"></i> 70 Abba Hillel Rd., apt 6, Ramat-Gan  
+
+Links {#links}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-github"></i> [github.com/mattansb](https://github.com/mattansb)  
+<i class="fa fa-globe"></i> [Website](https://sites.google.com/view/mattansb)  
+<i class="fa fa-rss"></i> [Blog](https://mattansb.blogspot.com/)  
+<i class="fa fa-twitter"></i> [\@mattansb](https://twitter.com/mattansb)  
+<i class="fa fa-id-badge"></i> [0000-0002-4287-4801](https://orcid.org/0000-0002-4287-4801)  
+<i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)  
+<i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)  
+
+Languages {#languages}
+--------------------------------------------------------------------------------
+
+English - native language  
+Hebrew - native language  
+
+Technical Skills
+--------------------------------------------------------------------------------
+
+<b>Programming:</b> R, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).
+<b>Documentation:</b> Office Suites, Google Docs/Sheets, (R)Markdown.
+
+
+
+Main
+================================================================================
+
+Mattan S. Ben-Shachar {#title}
+--------------------------------------------------------------------------------
+
+Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging techniques.
+
+I am an active R developer, who is very opinionated about data analysis, inferential statistics and reproducible science, and have provided support and consolation in these areas to numerous researchers.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Ph.D. in Psychology (Ongoing)
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2017 - Present
+
+<b>Thesis:</b> The Electrophysiological Basis of Processing Speed
+
+<b>Supervisor:</b> Prof. Andrea Berger
+
+<b>Courses:</b>
+
+::: concise
+ - Advanced EEG Methods
+ - Hierarchical Linear Models
+ - Linear Algebra for Neuroscience
+:::
+
+### M.A. in Experimental Cognitive Psychology
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2017
+
+<b>Thesis:</b> Electrophysiological Evidence for the Role of Processing Speed and Attentional Control in Visual Recognition Tasks
+
+<b>Supervisor:</b> Prof. Andrea Berger
+
+### B.A. in Behavioral Sciences
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2015
+
+Graduated <i>Magna Cum Laude</i>
+
+<!-- ### Entrance Test for Advanced Degrees in Psychology (MITAM) -->
+
+<!-- N/A -->
+
+<!-- N/A -->
+
+<!-- 2014 -->
+
+<!-- Received 138 (92th percentile) -->
+
+<!-- ### Psychometric Entrance Test (PET) -->
+
+<!-- N/A -->
+
+<!-- N/A -->
+
+<!-- 2011 -->
+
+<!-- Received 727 (94th percentile) -->
+
+<!-- ### Israeli Matriculation Certificate (Te'udat Bagrut) -->
+
+<!-- N/A -->
+
+<!-- N/A -->
+
+<!-- 2008 -->
+
+<!-- ::: concise -->
+<!-- - 5-unit level in English -->
+<!-- - 4-unit level in Mathematics -->
+<!-- - 5-unit elective in geography -->
+<!-- ::: -->
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Data Analyst for the Social Sciences
+
+N/A
+
+N/A
+
+2016 - Present
+
+Consultation and data analysis for social sciences, primarily in R; Deeply rooted in theory and methodology, while also keeping in mind the practical needs of researchers and academics. Among other things, specialize in the following subjects:
+
+::: concise
+- Generalized linear models (regression, AN(C)OVA)  
+- Hierarchical linear modeling (HLM)   
+- Structural equation modeling (SEM)  
+- Bayesian modeling and inference  
+:::
+
+### R / Shiny Developer
+
+N/A
+
+N/A
+
+2016 - Present
+
+- Active development of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing posterior distributions and Bayesian models (part of [easystats](https://github.com/easystats)).
+- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post.](https://mattansb.blogspot.com/2018/07/cheatr-r-package-for-catching-cheaters.html)  
+
+### Event-related Brain Dynamics
+
+N/A
+
+N/A
+
+2015 - Present
+
+Designing experiments and analyzing electroencephalography (EEG) / event-related potential (ERP) data using eeglab. Written Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
+
+Some experience with MEG signal processing.
+
+### Research Assistant
+
+ERP Lab for Developmental Studies
+
+Ben-Gurion University
+
+2013 - 2015
+
+::: concise
+- EEG data acquisition on preschool children.
+- Behavioural game-like tasks with children.
+:::
+
+### Quality Assurance Manager
+
+Groupon, Israel
+
+N/A
+
+2012 - 2013
+
+::: concise
+- Established the quality assurance division.
+- Examination of all daily deals.  
+- Checked for compliance with consumer protection laws.  
+:::
+
+Research Topics {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Processing Speed
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+N/A
+
+Focusing on individual differences in processing speed and its relation to higher cognitive abilities, using indirect measures of processing speed, such as: sensitivity to implicit temporal information, ERP latency, and EEG phase synchronicity
+
+### FASD
+
+University of Cape Town
+
+Cape Town, South Africa
+
+N/A
+
+Research focused on the effects of prenatal alcohol exposure on the ability to detect mathematical errors in basic arithmetic equations in infancy and adolescence, using EEG/ERP paradigms.
+
+In collaboration with Andrea Berger, Michael Shmueli, and Sandra and Joseph Jacobson
+
+### Numerical Cognition
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+N/A
+
+Research automatic processing of quantities and numbers among adults and children, and the development of numerical cognition before formal mathematical education, using both behavioral and electro-physiological (EEG) measures.
+
+In collaboration with Andrea Berger, Shachar Hochman, Avishai Henik, and Minna Hannula-Sormunen.
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+:::aside
+Teaching has been focused on B.A. and M.A. level statistics, research methods and R for beginners.
+:::
+
+### Lecturer
+
+Ben-Gurion University
+
+N/A
+
+N/A
+
+Department of Psychology:  
+- Experimental Psychology (Fall 2018)  
+
+### Workshops <!-- and Seminars -->
+
+Ben-Gurion University
+
+N/A
+
+N/A
+
+ - Trends in Open Science (2 hour workshop; Dec 2018, May 2019)  
+ - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
+ <!-- - Introduction to Bayesian statistics (2 hour workshop; ??? 2019) -->
+
+### Teaching Assistant
+
+Ben-Gurion University  
+
+N/A
+
+N/A
+
+Department of Psychology:  
+- Advanced Research Methods - Experimental Designs (Spring 2019)  
+- Experimental Psychology (Summer 2017; Fall 2017)  
+- Inferential Statistics (Spring 2017; Spring 2018)  
+- Introduction to Statistics (Fall 2015)  
+
+Department of Health Systems Management:  
+- Research Seminar (Fall 2016; Fall 2017)  
+  
+### Instructor
+
+Ofek Mitam
+
+N/A
+
+N/A
+
+MITAM Prep Course (Summer 2016)
+
+Military Service {data-icon=fighter-jet}
+--------------------------------------------------------------------------------
+
+### Discharged with Honor
+
+Israeli Air Force
+
+N/A
+
+2011
+
+Staff Sgt.
+
+### Technical Translator
+
+Depot 22, Israeli Air Force
+
+N/A
+
+2008 - 2011
+
+### 
+
+Technical Studies School, Israeli Air Force
+
+N/A
+
+2008
+
+
+Scholarships and Awards {data-icon=star-o}
+--------------------------------------------------------------------------------
+
+### Full academic scholarship for graduate studies
+
+Faculty of Humanities and Social Sciences, Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2015 - Present
+
+### Erasmus+ EU Travel Grant
+
+EU programme for education, training, youth and sport in Europe
+
+N/A
+
+2018
+
+### Radboud Summer School Scholarship
+
+Radboud University
+
+Nijmegen Netherlands
+
+2018
+
+:::aside
+Studied Linear Algebra for Neuroscience with Prof. Mike X. Cohen
+:::
+
+### Award for Academic Distinction
+
+Department of Sociology and Anthropology, Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2014
+
+Scientific Publications and Presentations {data-icon=file}
+--------------------------------------------------------------------------------
+
+:::aside
+In many of these works I was involved in the capacity of a statistical consultant or analyst.
+
+*\* Denotes equal contribution.*
+:::
+
+### Peer Reviewed Publications
+
+N/A
+
+N/A
+
+N/A
+
+- Lavro, D., <b>Ben-Shachar, M. S.</b>, Saville, C. W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. <i>Biological psychology, 138</i>, 81-90.
+
+### Book Chapters
+
+N/A
+
+N/A
+
+N/A
+
+- <b>Ben-Shachar, M. S.</b>, & Berger, A. (2018). An Introduction to Attention and Its Implication for Numerical Cognition. In A. Henik & W. Fias (Eds.), <i>Heterogeneity of Function in Numerical Cognition</i> (pp. 93-110). Academic Press.
+
+### Submitted Manuscripts
+
+N/A
+
+N/A
+
+N/A
+
+- <b>Ben-Shachar, M.S.</b>, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (<i>submitted</i>). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An EEG study.
+- Hochman, S., Cohen, Z.Z., <b>Ben-Shachar, M.S.</b>, & Henik, A. (<i>submitted</i>). Tactile Enumeration and Embodied Numerosity among the Deaf.
+- Berger, A., Shmueli, M., Lisson, S., <b>Ben-Shachar, M.S.</b>, Lindinger, N.M., Lewis, C.E., Dodge, N.C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (<i>submitted</i>). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study.
+
+### Manuscripts In-Preparation
+
+N/A
+
+N/A
+
+N/A
+
+- <b>Ben-Shachar, M. S.</b><sup>\*</sup>, Lisson, S.<sup>\*</sup>, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (<i>in preparation</i>). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
+- Shmueli, M., <b>Ben-Shachar, M. S.</b>, Berger, A., Jacobson, J. L., & Jacobson, S. W. (<i>in preparation</i>). Deficits in Automatic Processing of Symbolic Numbers in FASD.
+- Makowski, D., <b>Ben-Shachar M. S.</b>, Ludecke, D., & Chen, S.A. (<i>in preparation</i>). Bayesian Indices of Effect Existence.
+- Makowski, D., <b>Ben-Shachar M. S.</b>, & Ludecke, D. (<i>in preparation</i>). bayestestR: A package for understanding and describing Bayesian models and posterior distributions.
+<!-- - Pereg, M., ... <b>Ben-Shachar, M. S.</b>, ..., & Meiran, N. (<i>in preparation</i>). Learning an Abstract General Task Structure in a Rapidly Changing Task Content. -->
+
+
+### Talks
+
+N/A
+
+N/A
+
+N/A
+
+- <b>Ben-Shachar, M. S.</b> & Berger, A. (2019, May). <i>Impaired detection of erroneous arithmetic equations in adolescents with prenatal alcohol exposure: An EEG study</i> In Child Development. Symposium conducted at the Israeli Human Neuroimaging Conference, Jerusalem, Israel.
+
+### Poster Presentations
+
+N/A
+
+N/A
+
+N/A
+
+- <b>Ben-Shachar, M. S.</b>, Shmueli, M., Jacobson, J. L., Jacobson, S. W., & Berger, A. (2019, February). <i>Brain-level activity in response to perceived arithmetical errors reflects severity of Fetal alcohol spectrum disorders (FASD)</i>. Poster presented at the The 6th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
+- <b>Ben-Shachar, M. S.</b>, Jacobson, J. L., Jacobson, S. W., & Berger, A. (2018, May). <i>Neural Evidence for a Deficit in Numerosity Processing in Infants Prenatally Exposed to Alcohol</i>. Poster presented at the the 16th WAIMH World Congress, Rome, Italy.
+- <b>Ben-Shachar, M. S.</b>, Shotts-Peretz, D., & Berger, A. (2018, February). <i>Increased Acuity of the Analog Magnitude System is Related to Spontaneous Focusing on Numerosity in Children and Adults</i>. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
+- <b>Ben-Shachar, M. S.</b>, Lisson, S., Shotts-Peretz, D., & Berger, A. (2018, January). <i>Spontaneous Focusing on Numerosity is Related to Increased Acuity of the Analog Magnitude System</i>. Poster presented at the The 7th International Meeting of the Integrated Brain and Behavior Research Center, Haifa, Israel.
+- <b>Ben-Shachar, M. S.</b>, Berger, A., Mesika, D., Lewis, C. E., Lindinger, N. M., Dodge, N. C., . Jacobson, S. W. (2017, February). <i>Electrophysiological Evidence for the Role of Processing Speed in Visual Recognition Tasks</i>. Poster presented at the The 4th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
