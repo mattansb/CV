@@ -57,8 +57,8 @@ Hebrew - native language
 Technical Skills
 --------------------------------------------------------------------------------
 
-<b>Programming:</b> R, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).
-<b>Documentation:</b> Office Suites, Google Docs/Sheets, (R)Markdown.
+**Programming:** R, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).
+**Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.
 
 
 
@@ -84,11 +84,11 @@ Be'er Sheva, Israel
 
 2017 - Present
 
-<b>Thesis:</b> The Electrophysiological Basis of Processing Speed
+**Thesis:** The Electrophysiological Basis of Processing Speed
 
-<b>Supervisor:</b> Prof. Andrea Berger
+**Supervisor:** Prof. Andrea Berger
 
-<b>Courses:</b>
+**Courses:**
 
 ::: concise
  - Advanced EEG Methods
@@ -104,9 +104,9 @@ Be'er Sheva, Israel
 
 2017
 
-<b>Thesis:</b> Electrophysiological Evidence for the Role of Processing Speed and Attentional Control in Visual Recognition Tasks
+**Thesis:** Electrophysiological Evidence for the Role of Processing Speed and Attentional Control in Visual Recognition Tasks
 
-<b>Supervisor:</b> Prof. Andrea Berger
+**Supervisor:** Prof. Andrea Berger
 
 ### B.A. in Behavioral Sciences
 
@@ -116,7 +116,7 @@ Be'er Sheva, Israel
 
 2015
 
-Graduated <i>Magna Cum Laude</i>
+Graduated *Magna Cum Laude*
 
 <!-- ### Entrance Test for Advanced Degrees in Psychology (MITAM) -->
 
@@ -402,7 +402,7 @@ N/A
 
 N/A
 
-- Lavro, D., <b>Ben-Shachar, M. S.</b>, Saville, C. W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. <i>Biological psychology, 138</i>, 81-90.
+- Lavro, D., **Ben-Shachar, M. S.**, Saville, C. W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90.
 
 ### Book Chapters
 
@@ -412,7 +412,7 @@ N/A
 
 N/A
 
-- <b>Ben-Shachar, M. S.</b>, & Berger, A. (2018). An Introduction to Attention and Its Implication for Numerical Cognition. In A. Henik & W. Fias (Eds.), <i>Heterogeneity of Function in Numerical Cognition</i> (pp. 93-110). Academic Press.
+- **Ben-Shachar, M. S.**, & Berger, A. (2018). An Introduction to Attention and Its Implication for Numerical Cognition. In A. Henik & W. Fias (Eds.), *Heterogeneity of Function in Numerical Cognition* (pp. 93-110). Academic Press.
 
 ### Submitted Manuscripts
 
@@ -422,9 +422,9 @@ N/A
 
 N/A
 
-- <b>Ben-Shachar, M.S.</b>, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (<i>submitted</i>). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An EEG study.
-- Hochman, S., Cohen, Z.Z., <b>Ben-Shachar, M.S.</b>, & Henik, A. (<i>submitted</i>). Tactile Enumeration and Embodied Numerosity among the Deaf.
-- Berger, A., Shmueli, M., Lisson, S., <b>Ben-Shachar, M.S.</b>, Lindinger, N.M., Lewis, C.E., Dodge, N.C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (<i>submitted</i>). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study.
+- **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (*submitted*). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An EEG study.
+- Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*submitted*). Tactile Enumeration and Embodied Numerosity among the Deaf.
+- Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N.C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (*submitted*). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study.
 
 ### Manuscripts In-Preparation
 
@@ -434,11 +434,11 @@ N/A
 
 N/A
 
-- <b>Ben-Shachar, M. S.</b><sup>\*</sup>, Lisson, S.<sup>\*</sup>, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (<i>in preparation</i>). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
-- Shmueli, M., <b>Ben-Shachar, M. S.</b>, Berger, A., Jacobson, J. L., & Jacobson, S. W. (<i>in preparation</i>). Deficits in Automatic Processing of Symbolic Numbers in FASD.
-- Makowski, D., <b>Ben-Shachar M. S.</b>, Ludecke, D., & Chen, S.A. (<i>in preparation</i>). Bayesian Indices of Effect Existence.
-- Makowski, D., <b>Ben-Shachar M. S.</b>, & Ludecke, D. (<i>in preparation</i>). bayestestR: Understanding and Describing Effects and their Uncertainty, Existence and Significance in the Bayesian Framework.
-<!-- - Pereg, M., ... <b>Ben-Shachar, M. S.</b>, ..., & Meiran, N. (<i>in preparation</i>). Learning an Abstract General Task Structure in a Rapidly Changing Task Content. -->
+- **Ben-Shachar, M. S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*in preparation*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
+- Shmueli, M., **Ben-Shachar, M. S.**, Berger, A., Jacobson, J. L., & Jacobson, S. W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
+- Makowski, D., **Ben-Shachar M. S.**, Ludecke, D., & Chen, S.A. (*in preparation*). Bayesian Indices of Effect Existence.
+- Makowski, D., **Ben-Shachar M. S.**, & Ludecke, D. (*in preparation*). bayestestR: Understanding and Describing Effects and their Uncertainty, Existence and Significance in the Bayesian Framework.
+<!-- - Pereg, M., ... **Ben-Shachar, M. S.**, ..., & Meiran, N. (*in preparation*). Learning an Abstract General Task Structure in a Rapidly Changing Task Content. -->
 
 
 ### Talks
@@ -449,7 +449,7 @@ N/A
 
 N/A
 
-- <b>Ben-Shachar, M. S.</b> & Berger, A. (2019, May). <i>Impaired detection of erroneous arithmetic equations in adolescents with prenatal alcohol exposure: An EEG study</i> In Child Development. Symposium conducted at the Israeli Human Neuroimaging Conference, Jerusalem, Israel.
+- **Ben-Shachar, M. S.** & Berger, A. (2019, May). *Impaired detection of erroneous arithmetic equations in adolescents with prenatal alcohol exposure: An EEG study* In Child Development. Symposium conducted at the Israeli Human Neuroimaging Conference, Jerusalem, Israel.
 
 ### Poster Presentations
 
@@ -459,8 +459,8 @@ N/A
 
 N/A
 
-- <b>Ben-Shachar, M. S.</b>, Shmueli, M., Jacobson, J. L., Jacobson, S. W., & Berger, A. (2019, February). <i>Brain-level activity in response to perceived arithmetical errors reflects severity of Fetal alcohol spectrum disorders (FASD)</i>. Poster presented at the The 6th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
-- <b>Ben-Shachar, M. S.</b>, Jacobson, J. L., Jacobson, S. W., & Berger, A. (2018, May). <i>Neural Evidence for a Deficit in Numerosity Processing in Infants Prenatally Exposed to Alcohol</i>. Poster presented at the the 16th WAIMH World Congress, Rome, Italy.
-- <b>Ben-Shachar, M. S.</b>, Shotts-Peretz, D., & Berger, A. (2018, February). <i>Increased Acuity of the Analog Magnitude System is Related to Spontaneous Focusing on Numerosity in Children and Adults</i>. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
-- <b>Ben-Shachar, M. S.</b>, Lisson, S., Shotts-Peretz, D., & Berger, A. (2018, January). <i>Spontaneous Focusing on Numerosity is Related to Increased Acuity of the Analog Magnitude System</i>. Poster presented at the The 7th International Meeting of the Integrated Brain and Behavior Research Center, Haifa, Israel.
-- <b>Ben-Shachar, M. S.</b>, Berger, A., Mesika, D., Lewis, C. E., Lindinger, N. M., Dodge, N. C., . Jacobson, S. W. (2017, February). <i>Electrophysiological Evidence for the Role of Processing Speed in Visual Recognition Tasks</i>. Poster presented at the The 4th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
+- **Ben-Shachar, M. S.**, Shmueli, M., Jacobson, J. L., Jacobson, S. W., & Berger, A. (2019, February). *Brain-level activity in response to perceived arithmetical errors reflects severity of Fetal alcohol spectrum disorders (FASD)*. Poster presented at the The 6th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
+- **Ben-Shachar, M. S.**, Jacobson, J. L., Jacobson, S. W., & Berger, A. (2018, May). *Neural Evidence for a Deficit in Numerosity Processing in Infants Prenatally Exposed to Alcohol*. Poster presented at the the 16th WAIMH World Congress, Rome, Italy.
+- **Ben-Shachar, M. S.**, Shotts-Peretz, D., & Berger, A. (2018, February). *Increased Acuity of the Analog Magnitude System is Related to Spontaneous Focusing on Numerosity in Children and Adults*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
+- **Ben-Shachar, M. S.**, Lisson, S., Shotts-Peretz, D., & Berger, A. (2018, January). *Spontaneous Focusing on Numerosity is Related to Increased Acuity of the Analog Magnitude System*. Poster presented at the The 7th International Meeting of the Integrated Brain and Behavior Research Center, Haifa, Israel.
+- **Ben-Shachar, M. S.**, Berger, A., Mesika, D., Lewis, C. E., Lindinger, N. M., Dodge, N. C., . Jacobson, S. W. (2017, February). *Electrophysiological Evidence for the Role of Processing Speed in Visual Recognition Tasks*. Poster presented at the The 4th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
