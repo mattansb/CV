@@ -1,5 +1,5 @@
 ---
-title: "Mattan S. Ben-Shachar's resume"
+title: "Mattan S. Ben-Shachar's Resume"
 author: Mattan S. Ben-Shachar
 date: "`r Sys.Date()`"
 output:
@@ -31,8 +31,11 @@ Contact Info {#contact}
 
 <i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il  
 <!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com -->
-<i class="fa fa-phone"></i> +972 50-837-1566  
-<i class="fa fa-home"></i> 70 Abba Hillel Rd., apt 6, Ramat-Gan  
+<!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
+<!-- <i class="fa fa-home"></i> 70 Abba Hillel Rd., apt 6, Ramat-Gan   -->
+
+For more info, please contact me by sending me an email.
+
 
 Links {#links}
 --------------------------------------------------------------------------------
@@ -202,7 +205,7 @@ Ben-Gurion University
 
 ::: concise
 - EEG data acquisition on preschool children.
-- Behavioural game-like tasks with children.
+- Behavioral game-like tasks with children.
 :::
 
 ### Quality Assurance Manager
@@ -434,7 +437,7 @@ N/A
 - <b>Ben-Shachar, M. S.</b><sup>\*</sup>, Lisson, S.<sup>\*</sup>, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (<i>in preparation</i>). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
 - Shmueli, M., <b>Ben-Shachar, M. S.</b>, Berger, A., Jacobson, J. L., & Jacobson, S. W. (<i>in preparation</i>). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Makowski, D., <b>Ben-Shachar M. S.</b>, Ludecke, D., & Chen, S.A. (<i>in preparation</i>). Bayesian Indices of Effect Existence.
-- Makowski, D., <b>Ben-Shachar M. S.</b>, & Ludecke, D. (<i>in preparation</i>). bayestestR: A package for understanding and describing Bayesian models and posterior distributions.
+- Makowski, D., <b>Ben-Shachar M. S.</b>, & Ludecke, D. (<i>in preparation</i>). bayestestR: Understanding and Describing Effects and their Uncertainty, Existence and Significance in the Bayesian Framework.
 <!-- - Pereg, M., ... <b>Ben-Shachar, M. S.</b>, ..., & Meiran, N. (<i>in preparation</i>). Learning an Abstract General Task Structure in a Rapidly Changing Task Content. -->
 
 
