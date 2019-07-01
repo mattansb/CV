@@ -61,7 +61,6 @@ Technical Skills
 **Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.
 
 
-
 Main
 ================================================================================
 
@@ -424,6 +423,7 @@ N/A
 
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (*submitted*). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An EEG study.
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*submitted*). Tactile Enumeration and Embodied Numerosity among the Deaf.
+- Makowski, D., **Ben-Shachar M. S.**, & Ludecke, D. (*submitted*). bayestestR: Understanding and Describing Effects and their Uncertainty, Existence and Significance in the Bayesian Framework.
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N.C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (*submitted*). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study.
 
 ### Manuscripts In-Preparation
@@ -437,7 +437,6 @@ N/A
 - **Ben-Shachar, M. S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*in preparation*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
 - Shmueli, M., **Ben-Shachar, M. S.**, Berger, A., Jacobson, J. L., & Jacobson, S. W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Makowski, D., **Ben-Shachar M. S.**, Ludecke, D., & Chen, S.A. (*in preparation*). Bayesian Indices of Effect Existence.
-- Makowski, D., **Ben-Shachar M. S.**, & Ludecke, D. (*in preparation*). bayestestR: Understanding and Describing Effects and their Uncertainty, Existence and Significance in the Bayesian Framework.
 <!-- - Pereg, M., ... **Ben-Shachar, M. S.**, ..., & Meiran, N. (*in preparation*). Learning an Abstract General Task Structure in a Rapidly Changing Task Content. -->
 
 
