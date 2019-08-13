@@ -417,6 +417,8 @@ N/A
 - Makowski, D., **Ben-Shachar M. S.**, & Ludecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541")`
 - Lavro, D., **Ben-Shachar, M. S.**, Saville, C. W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`
 
+Ad hoc reviewer for: Cerebral Cortex, Frontiers in Psychology, Advances in Methods and Practices in Psychological Science.
+
 ### Book Chapters
 
 N/A
