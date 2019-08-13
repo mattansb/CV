@@ -402,8 +402,8 @@ N/A
 
 N/A
 
-<!-- - Makowski, D., **Ben-Shachar M. S.**, & Ludecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(39), 1537. https://doi.org/10.21105/joss.01537 -->
-- Lavro, D., **Ben-Shachar, M. S.**, Saville, C. W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90.
+- Makowski, D., **Ben-Shachar M. S.**, & Ludecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. [DOI:10.21105/joss.01541](https://doi.org/10.21105/joss.01541)
+- Lavro, D., **Ben-Shachar, M. S.**, Saville, C. W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. [DOI:10.1016/j.biopsycho.2018.08.010](https://doi.org/10.1016/j.biopsycho.2018.08.010)
 
 ### Book Chapters
 
@@ -413,7 +413,7 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M. S.**, & Berger, A. (2018). An Introduction to Attention and Its Implication for Numerical Cognition. In A. Henik & W. Fias (Eds.), *Heterogeneity of Function in Numerical Cognition* (pp. 93-110). Academic Press.
+- **Ben-Shachar, M. S.**, & Berger, A. (2018). An Introduction to Attention and Its Implication for Numerical Cognition. In A. Henik & W. Fias (Eds.), *Heterogeneity of Function in Numerical Cognition* (pp. 93-110). Academic Press. [DOI:10.1016/B978-0-12-811529-9.00005-4](https://doi.org/10.1016/B978-0-12-811529-9.00005-4)
 
 ### Submitted Manuscripts
 
@@ -425,7 +425,6 @@ N/A
 
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (*submitted*). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An EEG study.
 - **Ben-Shachar, M. S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*in preparation*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
-- Makowski, D., **Ben-Shachar M. S.**, & Ludecke, D. (*submitted*). bayestestR: Understanding and Describing Effects and their Uncertainty, Existence and Significance in the Bayesian Framework.
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*submitted*). Tactile Enumeration and Embodied Numerosity among the Deaf.
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N.C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (*submitted*). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study.
 
@@ -438,7 +437,7 @@ N/A
 N/A
 
 - Shmueli, M., **Ben-Shachar, M. S.**, Berger, A., Jacobson, J. L., & Jacobson, S. W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
-- Makowski, D., **Ben-Shachar M. S.**, Ludecke, D., & Chen, S.A. (*in preparation*). Bayesian Indices of Effect Existence.
+- Makowski, D., **Ben-Shachar M. S.**, Ludecke, D., & Chen, S.A. (*in preparation*). Indices of Effect Existence and Significance in the Bayesian Framework.
 <!-- - Pereg, M., ... **Ben-Shachar, M. S.**, ..., & Meiran, N. (*in preparation*). Learning an Abstract General Task Structure in a Rapidly Changing Task Context. -->
 
 
