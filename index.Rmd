@@ -195,6 +195,10 @@ N/A
 - Active development of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing posterior distributions and Bayesian models (part of [easystats](https://github.com/easystats)).
 - [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post.](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/)  
 
+:::aside
+List of additional packages I've contributed to: `afex`, `parameters`, `see`, `report`.
+:::
+
 ### Event-related Brain Dynamics
 
 N/A
@@ -310,12 +314,17 @@ N/A
 N/A
 
 Department of Psychology:  
-- Advanced Research Methods - Experimental Designs (Spring 2019)  
+
+- *Advanced Research Methods* graduate courses:  
+  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019*)  
+  - Structural equation modelling in R (Spring 2020*)  
+  - Analysis of factorial designs in R (Spring 2019; Spring 2020*)  
 - Experimental Psychology (Summer 2017; Fall 2017)  
 - Inferential Statistics (Spring 2017; Spring 2018)  
 - Introduction to Statistics (Fall 2015)  
 
 Department of Health Systems Management:  
+
 - Research Seminar (Fall 2016; Fall 2017)  
   
 ### Instructor
