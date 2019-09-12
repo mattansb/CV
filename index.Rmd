@@ -279,7 +279,9 @@ Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
 :::aside
-Teaching has been focused on B.A. and M.A. level statistics, research methods and R for beginners.
+Teaching has been focused on B.A. and M.A. level statistics, research methods and R.
+
+*\* Denotes upcoming courses.*
 :::
 
 ### Lecturer
