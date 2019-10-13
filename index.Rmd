@@ -19,14 +19,12 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 
 DOI_link <- function(doi, sci_hub = TRUE){
-  txt <- paste0("DOI:",doi)
   if (isTRUE(sci_hub)) {
-    link <- paste0("http://sci-hub.tw/",doi)
+    host <- "sci-hub.tw"
   } else {
-    link <- paste0("http://doi.org/",doi)
+    host <- "doi.org"
   }
-  
-  paste0("[",txt,"](",link,")")
+  glue::glue("[DOI:{doi}](https://{host}/{doi})")
 }
 ```
 
@@ -196,7 +194,7 @@ N/A
 - [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post.](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/)  
 
 :::aside
-List of additional packages I've contributed to: `afex`, `parameters`, `see`, `report`.
+List of additional packages I've contributed to: `afex`, `parameters`, `estimate`, `effectsize`, `see`, `report`.
 :::
 
 ### Event-related Brain Dynamics
@@ -317,17 +315,18 @@ N/A
 
 Department of Psychology:  
 
-- *Advanced Research Methods* graduate courses:  
+- Graduate level courses:  
   - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019*)  
   - Structural equation modelling in R (Spring 2020*)  
   - Analysis of factorial designs in R (Spring 2019; Spring 2020*)  
-- Experimental Psychology (Summer 2017; Fall 2017)  
-- Inferential Statistics (Spring 2017; Spring 2018)  
-- Introduction to Statistics (Fall 2015)  
+- Under-graduate level courses:  
+  - Experimental Psychology (Summer 2017; Fall 2017)  
+  - Inferential Statistics (Spring 2017; Spring 2018)  
+  - Introduction to Statistics (Fall 2015)  
 
 Department of Health Systems Management:  
 
-- Research Seminar (Fall 2016; Fall 2017)  
+- Research Seminar (*for Graduate Students*) (Fall 2016; Fall 2017)  
   
 ### Instructor
 
@@ -449,7 +448,8 @@ N/A
 N/A
 
 - **Ben-Shachar, M. S.**, Shmueli M., Meintjes, E. M., Molteno, C. D., Jacobson, J. L., Jacobson, S. W., & Berger A. (*submitted*). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An EEG study.
-- **Ben-Shachar, M. S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*in preparation*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
+- **Ben-Shachar, M. S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*submitted*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
+- Makowski, D., **Ben-Shachar, M. S.**, Chen, S. A., & Lüdecke, D. (*submitted*). Indices of Effect Existence and Significance in the Bayesian Framework. `r DOI_link("10.31234/osf.io/2zexr", sci_hub = FALSE)`
 - Hochman, S., Cohen, Z. Z., **Ben-Shachar, M. S.**, & Henik, A. (*submitted*). Tactile Enumeration and Embodied Numerosity among the Deaf.
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M. S.**, Lindinger, N. M., Lewis, C. E., Dodge, N. C., Molteno, C. D., Meintjes, E. M., Jacobson, J. L., & Jacobson, S. W. (*submitted*). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study.
 
@@ -462,8 +462,7 @@ N/A
 N/A
 
 - Shmueli, M., **Ben-Shachar, M. S.**, Berger, A., Jacobson, J. L., & Jacobson, S. W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
-- Makowski, D., **Ben-Shachar M. S.**, Ludecke, D., & Chen, S. A. (*in preparation*). Indices of Effect Existence and Significance in the Bayesian Framework.
-<!-- - Pereg, M., ... **Ben-Shachar, M. S.**, ..., & Meiran, N. (*in preparation*). Learning an Abstract General Task Structure in a Rapidly Changing Task Context. -->
+- Pereg, M., ..., **Ben-Shachar, M. S.**, ..., & Meiran, N. (*in preparation*). Learning an Abstract General Task Structure in a Rapidly Changing Task Context.
 
 
 ### Talks
