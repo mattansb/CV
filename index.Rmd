@@ -79,7 +79,7 @@ Mattan S. Ben-Shachar {#title}
 
 Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging techniques.
 
-I am an active R developer, who is very opinionated about data analysis, inferential statistics and reproducible science, and have provided support and consolation in these areas to numerous researchers.
+I am an active R developer, and am very opinionated about data analysis, inferential statistics and reproducible science. I have provided support and consolation in these areas to numerous researchers.
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -177,9 +177,9 @@ Consultation and data analysis for social sciences, primarily in R; Deeply roote
 ::: concise
 - Generalized linear models (regression, AN(C)OVA)  
 - Linear mixed-effects models (LMM / HLM / MLM)   
+- Bayesian modeling and inference  
 - Nonlinear models (NLM)
 - Structural equation modeling (SEM)  
-- Bayesian modeling and inference  
 :::
 
 ### R / Shiny Developer
@@ -282,32 +282,9 @@ Teaching has been focused on B.A. and M.A. level statistics, research methods an
 *\* Denotes upcoming courses.*
 :::
 
-### Lecturer
+### Lecturer & Teaching Fellow
 
 Ben-Gurion University
-
-N/A
-
-N/A
-
-Department of Psychology:  
-- Experimental Psychology (Fall 2018)  
-
-### Workshops <!-- and Seminars -->
-
-Ben-Gurion University
-
-N/A
-
-N/A
-
- - Trends in Open Science (2 hour workshop; Dec 2018, May 2019)  
- - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
- <!-- - Introduction to Bayesian statistics (2 hour workshop; ??? 2019) -->
-
-### Teaching Assistant
-
-Ben-Gurion University  
 
 N/A
 
@@ -319,10 +296,35 @@ Department of Psychology:
   - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019*)  
   - Structural equation modelling in R (Spring 2020*)  
   - Analysis of factorial designs in R (Spring 2019; Spring 2020*)  
+  
 - Under-graduate level courses:  
-  - Experimental Psychology (Summer 2017; Fall 2017)  
-  - Inferential Statistics (Spring 2017; Spring 2018)  
-  - Introduction to Statistics (Fall 2015)  
+  - Experimental Psychology (Fall 2018)  
+
+### Workshops <!-- and Seminars -->
+
+Ben-Gurion University
+
+N/A
+
+N/A
+
+ - Trends in Open Science (2 hour workshop; Dec 2018, May 2019, Nov 2019)  
+ - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
+ <!-- - Introduction to Bayesian statistics (2 hour workshop; ??? 2020) -->
+
+### Teaching Assistant
+
+Ben-Gurion University  
+
+N/A
+
+N/A
+
+Department of Psychology:  
+
+- Experimental Psychology (Summer 2017; Fall 2017)  
+- Inferential Statistics (Spring 2017; Spring 2018)  
+- Introduction to Statistics (Fall 2015)  
 
 Department of Health Systems Management:  
 
@@ -424,7 +426,8 @@ N/A
 
 N/A
 
-- Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (*accepted*). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience*.
+- **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (*accepted*). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An EEG study. *Alcoholism: Clinical and Experimental Research*.
+- Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (*in press*). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience*. `r DOI_link("10.1016/j.dcn.2019.100722")`
 - Makowski, D., **Ben-Shachar M.S.**, & Ludecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541")`
 - Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`
 
@@ -448,7 +451,6 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (*submitted*). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An EEG study.
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*submitted*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
 - Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (*submitted*). Indices of Effect Existence and Significance in the Bayesian Framework. `r DOI_link("10.31234/osf.io/2zexr", sci_hub = FALSE)`
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*submitted*). Tactile Enumeration and Embodied Numerosity among the Deaf.
