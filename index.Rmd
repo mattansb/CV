@@ -19,11 +19,8 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 
 DOI_link <- function(doi, sci_hub = TRUE){
-  if (isTRUE(sci_hub)) {
-    host <- "sci-hub.tw"
-  } else {
-    host <- "doi.org"
-  }
+  host <- if (sci_hub) "sci-hub.tw" else "doi.org"
+  
   glue::glue("[DOI:{doi}](https://{host}/{doi})")
 }
 ```
@@ -50,9 +47,9 @@ For more info, please contact me by sending me an email.
 Links {#links}
 --------------------------------------------------------------------------------
 
-<i class="fa fa-github"></i> [github.com/mattansb](https://github.com/mattansb)  
 <i class="fa fa-globe"></i> [Website](https://sites.google.com/view/mattansb)  
 <i class="fa fa-rss"></i> [Blog](https://shouldbewriting.netlify.com/)  
+<i class="fa fa-github"></i> [\@mattansb](https://github.com/mattansb)  
 <i class="fa fa-twitter"></i> [\@mattansb](https://twitter.com/mattansb)  
 <i class="fa fa-id-badge"></i> [0000-0002-4287-4801](https://orcid.org/0000-0002-4287-4801)  
 <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)  
