@@ -1,0 +1,145 @@
+---
+title: "Mattan S. Ben-Shachar's Resume"
+author: Mattan S. Ben-Shachar
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    css: my_css.css
+    paged-footnotes: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+# https://dktanwar.github.io/CV/ds.html
+# https://fontawesome.com/v4.7.0/icons/
+# https://github.com/jienagu/Jiena_McLellan_CV
+
+
+DOI_link <- function(doi, sci_hub = TRUE){
+  host <- if (sci_hub) "sci-hub.tw" else "doi.org"
+  
+  glue::glue("[DOI:{doi}](https://{host}/{doi})")
+}
+```
+
+Aside
+================================================================================
+
+
+<!-- ![Mattan S. Ben-Shachar](headshots/BrainOrange.jpg){width=80%} -->
+![Mattan S. Ben-Shachar](headshots/coat.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il  
+<!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com -->
+<!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
+<!-- <i class="fa fa-home"></i> 70 Abba Hillel Rd., apt 6, Ramat-Gan   -->
+<i class="fa fa-globe"></i> [Home Page](https://sites.google.com/view/mattansb)  
+<i class="fa fa-rss"></i> [Should Be Writing Blog](https://shouldbewriting.netlify.com/)  
+<i class="fa fa-github"></i> [github.com/mattansb](https://github.com/mattansb)  
+<i class="fa fa-twitter"></i> [\@mattansb](https://twitter.com/mattansb)  
+<!-- <i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801)   -->
+<i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)  
+<!-- <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)   -->
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+**Languages**: English (native), Hebrew (native).  
+**Programming:** R, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).  
+**Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.  
+**Data analysis**: Statistical modeling, inference and visualization of survey, behavioral, and EEG data. Proficient in generalized linear / nonlinear mixed models, structural equation modeling, and their Bayesian equivalents.  
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+See full [CV](https://mattansb.github.io/CV/).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Mattan S. Ben-Shachar {#title}
+--------------------------------------------------------------------------------
+
+Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging techniques.
+
+I am an active R developer, and am very opinionated about data analysis, inferential statistics and reproducible science. I have provided support and consolation in these areas to numerous researchers.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Ph.D. in Psychology (Ongoing)
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2017 - expected 2021
+
+**Thesis:** The Electrophysiological Basis of Processing Speed
+
+### M.A. in Experimental Cognitive Psychology
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2017
+
+**Thesis:** Electrophysiological Evidence for the Role of Processing Speed and Attentional Control in Visual Recognition Tasks
+
+### B.A. in Behavioral Sciences
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2015
+
+Graduated *Magna Cum Laude*
+
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Data Analyst for the Social Sciences
+
+N/A
+
+N/A
+
+2016 - Present
+
+Consultation and data analysis for social sciences, primarily in R; Deeply rooted in theory and methodology, while also keeping in mind the practical needs of researchers and academics.
+
+### R / Shiny Developer
+
+N/A
+
+N/A
+
+2016 - Present
+
+- Active development of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing posterior distributions and Bayesian models (part of [easystats](https://github.com/easystats)).
+- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post.](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/)  
+
+
+### Teaching Experience
+
+N/A
+
+N/A
+
+2015 - Present
+
+Teaching and instructing has been focused on B.A. and M.A. level statistics, research methods and R.

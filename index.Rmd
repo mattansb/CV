@@ -1,12 +1,12 @@
 ---
-title: "Mattan S. Ben-Shachar's Resume"
+title: "Mattan S. Ben-Shachar's CV"
 author: Mattan S. Ben-Shachar
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
-    css: resume.css
+    css: my_css.css
     paged-footnotes: true
 ---
 
@@ -40,18 +40,11 @@ Contact Info {#contact}
 <!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com -->
 <!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
 <!-- <i class="fa fa-home"></i> 70 Abba Hillel Rd., apt 6, Ramat-Gan   -->
-
-For more info, please contact me by sending me an email.
-
-
-Links {#links}
---------------------------------------------------------------------------------
-
-<i class="fa fa-globe"></i> [Website](https://sites.google.com/view/mattansb)  
-<i class="fa fa-rss"></i> [Blog](https://shouldbewriting.netlify.com/)  
-<i class="fa fa-github"></i> [\@mattansb](https://github.com/mattansb)  
+<i class="fa fa-globe"></i> [Home Page](https://sites.google.com/view/mattansb)  
+<i class="fa fa-rss"></i> [Should Be Writing Blog](https://shouldbewriting.netlify.com/)  
+<i class="fa fa-github"></i> [github.com/mattansb](https://github.com/mattansb)  
 <i class="fa fa-twitter"></i> [\@mattansb](https://twitter.com/mattansb)  
-<i class="fa fa-id-badge"></i> [0000-0002-4287-4801](https://orcid.org/0000-0002-4287-4801)  
+<i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801)  
 <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)  
 <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)  
 
@@ -64,9 +57,15 @@ Hebrew - native language
 Technical Skills
 --------------------------------------------------------------------------------
 
-**Programming:** R, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).
-**Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.
+**Programming:** R, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).  
+**Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.  
 
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+See full [resume](https://mattansb.github.io/CV/resume).
+
+Last updated on `r Sys.Date()`.
 
 Main
 ================================================================================
@@ -74,7 +73,7 @@ Main
 Mattan S. Ben-Shachar {#title}
 --------------------------------------------------------------------------------
 
-Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging techniques.
+Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
 
 I am an active R developer, and am very opinionated about data analysis, inferential statistics and reproducible science. I have provided support and consolation in these areas to numerous researchers.
 
@@ -82,13 +81,13 @@ I am an active R developer, and am very opinionated about data analysis, inferen
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Ph.D. in Psychology (Ongoing)
+### Ph.D. in Psychology
 
 Ben-Gurion University of the Negev
 
 Be'er Sheva, Israel
 
-2017 - Present
+2017 - expected 2021
 
 **Thesis:** The Electrophysiological Basis of Processing Speed
 
@@ -203,8 +202,6 @@ N/A
 2015 - Present
 
 Designing experiments and analyzing electroencephalography (EEG) / event-related potential (ERP) data using eeglab. Written Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
-
-Some experience with MEG signal processing.
 
 ### Research Assistant
 
