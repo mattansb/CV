@@ -63,7 +63,7 @@ Technical Skills
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-See full [resume](https://mattansb.github.io/CV/resume).
+See [short resume](https://mattansb.github.io/CV/resume).
 
 Last updated on `r Sys.Date()`.
 
@@ -89,11 +89,10 @@ Be'er Sheva, Israel
 
 2017 - expected 2021
 
-**Thesis:** The Electrophysiological Basis of Processing Speed
+**Thesis:** *The Electrophysiological Basis of Processing Speed.*  
+**Supervisor:** Prof. Andrea Berger  
 
-**Supervisor:** Prof. Andrea Berger
-
-**Courses:**
+**Courses:**  
 
 ::: concise
  - Advanced EEG Methods
@@ -109,8 +108,7 @@ Be'er Sheva, Israel
 
 2017
 
-**Thesis:** Electrophysiological Evidence for the Role of Processing Speed and Attentional Control in Visual Recognition Tasks
-
+**Thesis:** *Electrophysiological Evidence for the Role of Processing Speed and Attentional Control in Visual Recognition Tasks.*  
 **Supervisor:** Prof. Andrea Berger
 
 ### B.A. in Behavioral Sciences
@@ -187,10 +185,10 @@ N/A
 2016 - Present
 
 - Active development of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing posterior distributions and Bayesian models (part of [easystats](https://github.com/easystats)).
-- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post.](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/)  
+- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
 
 :::aside
-List of additional packages I've contributed to: `afex`, `parameters`, `estimate`, `effectsize`, `see`, `report`.
+List of additional packages I've contributed to: `afex`, `effectsize`, `estimate`, `parameters`, `report`, `see`.
 :::
 
 ### Event-related Brain Dynamics
@@ -201,7 +199,12 @@ N/A
 
 2015 - Present
 
-Designing experiments and analyzing electroencephalography (EEG) / event-related potential (ERP) data using eeglab. Written Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
+Designing experiments and analyzing electroencephalography (EEG) / event-related potential (ERP) data using `eeglab`.
+
+- Written Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
+- Instructed workshops for pre-processing of experimental EEG.
+
+
 
 ### Research Assistant
 
@@ -241,7 +244,7 @@ Be'er Sheva, Israel
 
 N/A
 
-Focusing on individual differences in processing speed and its relation to higher cognitive abilities, using indirect measures of processing speed, such as: sensitivity to implicit temporal information, ERP latency, and EEG phase synchronicity
+Focusing on individual differences in processing speed and its relation to higher cognitive abilities, using indirect measures of processing speed, such as: sensitivity to implicit temporal information, ERP latency, and EEG phase synchronicity.
 
 ### FASD
 
@@ -253,7 +256,7 @@ N/A
 
 Research focused on the effects of prenatal alcohol exposure on the ability to detect mathematical errors in basic arithmetic equations in infancy and adolescence, using EEG/ERP paradigms.
 
-In collaboration with Andrea Berger, Michael Shmueli, and Sandra and Joseph Jacobson
+*In collaboration with Andrea Berger, Michael Shmueli, and Sandra and Joseph Jacobson*
 
 ### Numerical Cognition
 
@@ -265,9 +268,9 @@ N/A
 
 Research automatic processing of quantities and numbers among adults and children, and the development of numerical cognition before formal mathematical education, using both behavioral and electro-physiological (EEG) measures.
 
-In collaboration with Andrea Berger, Shachar Hochman, Avishai Henik, and Minna Hannula-Sormunen.
+*In collaboration with Andrea Berger, Shachar Hochman, Avishai Henik, and Minna Hannula-Sormunen.*
 
-Teaching Experience {data-icon=chalkboard-teacher}
+Teaching Experience {data-icon=chalkboard-teacher #teaching}
 --------------------------------------------------------------------------------
 
 :::aside
@@ -305,7 +308,7 @@ N/A
  - Trends in Open Science (2 hour workshop; Dec 2018, May 2019, Nov 2019)  
  - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
  <!-- - Introduction to Bayesian statistics (2 hour workshop; ??? 2020) -->
-
+ <!-- - Pre-processing EEG data (12 hour workshop; ??? 2020) -->
 ### Teaching Assistant
 
 Ben-Gurion University  

@@ -59,7 +59,7 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-See full [CV](https://mattansb.github.io/CV/).
+See [full CV](https://mattansb.github.io/CV/).
 
 Last updated on `r Sys.Date()`.
 
@@ -131,8 +131,7 @@ N/A
 2016 - Present
 
 - Active development of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing posterior distributions and Bayesian models (part of [easystats](https://github.com/easystats)).
-- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post.](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/)  
-
+- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
 
 ### Teaching Experience
 
@@ -143,3 +142,5 @@ N/A
 2015 - Present
 
 Teaching and instructing has been focused on B.A. and M.A. level statistics, research methods and R.
+
+*For a list of teaching topics, see [full CV](https://mattansb.github.io/CV/#teaching).*
