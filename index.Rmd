@@ -309,6 +309,7 @@ N/A
  - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
  <!-- - Introduction to Bayesian statistics (2 hour workshop; ??? 2020) -->
  <!-- - Pre-processing EEG data (12 hour workshop; ??? 2020) -->
+ 
 ### Teaching Assistant
 
 Ben-Gurion University  
