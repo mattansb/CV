@@ -379,6 +379,18 @@ Be'er Sheva, Israel
 
 2015 - Present
 
+### M.H.R Publication Award
+
+Faculty of Humanities and Social Sciences, Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2020
+
+:::aside
+For *Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. `r DOI_link("10.1111/acer.14244")`*
+:::
+
 ### Erasmus+ EU Travel Grant
 
 EU programme for education, training, youth and sport in Europe
@@ -391,7 +403,7 @@ N/A
 
 Radboud University
 
-Nijmegen Netherlands
+Nijmegen, Netherlands
 
 2018
 
