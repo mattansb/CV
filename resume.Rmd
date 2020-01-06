@@ -72,41 +72,7 @@ Mattan S. Ben-Shachar {#title}
 
 Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
 
-I am an active R developer, and am very opinionated about data analysis, inferential statistics and reproducible science. I have provided support and consolation in these areas to numerous researchers.
-
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### Ph.D. in Psychology
-
-Ben-Gurion University of the Negev
-
-Be'er Sheva, Israel
-
-2017 - expected 2021
-
-**Thesis:** The Electrophysiological Basis of Processing Speed
-
-### M.A. in Experimental Cognitive Psychology
-
-Ben-Gurion University of the Negev
-
-Be'er Sheva, Israel
-
-2017
-
-**Thesis:** Electrophysiological Evidence for the Role of Processing Speed and Attentional Control in Visual Recognition Tasks
-
-### B.A. in Behavioral Sciences
-
-Ben-Gurion University of the Negev
-
-Be'er Sheva, Israel
-
-2015
-
-Graduated *Magna Cum Laude*
+I am an active R developer and science educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consolation in these areas to numerous researchers.
 
 
 Professional Experience {data-icon=laptop}
@@ -133,6 +99,16 @@ N/A
 - Active development of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing posterior distributions and Bayesian models (part of [easystats](https://github.com/easystats)).
 - [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
 
+### Research Management
+
+N/A
+
+N/A
+
+2013 - Present
+
+As part of [my research](https://mattansb.github.io/CV/#topics) I've had experience with planning and executing long-term research plans, working in- and managing teams, and conducting decision-guided statistical analyses.
+
 ### Teaching Experience
 
 N/A
@@ -144,3 +120,30 @@ N/A
 Teaching and instructing has been focused on B.A. and M.A. level statistics, research methods and R.
 
 *For a list of teaching topics, see [full CV](https://mattansb.github.io/CV/#teaching).*
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Ph.D. in Psychology
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2017 - expected 2021
+
+### M.A. in Experimental Cognitive Psychology
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2017
+
+### B.A. in Behavioral Sciences
+
+Ben-Gurion University of the Negev
+
+Be'er Sheva, Israel
+
+2015
