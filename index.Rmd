@@ -188,7 +188,7 @@ N/A
 - [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
 
 :::aside
-List of additional packages I've contributed to: `afex`, `effectsize`, `estimate`, `parameters`, `report`, `see`.
+List of additional packages I've contributed to: [`afex`](https://cran.r-project.org/package=afex), [`effectsize`](https://cran.r-project.org/package=effectsize), [`parameters`](https://cran.r-project.org/package=parameters), [`modelbased`](https://cran.r-project.org/package=modelbased), `report`, [`see`](https://cran.r-project.org/package=see).
 :::
 
 ### Research Management
