@@ -297,9 +297,9 @@ N/A
 Department of Psychology:  
 
 - Graduate level courses:  
-  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019*)  
-  - Structural equation modelling in R (Spring 2020*)  
-  - Analysis of factorial designs in R (Spring 2019; Spring 2020*)  
+  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019)  
+  - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2020)  
+  - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2019; Spring 2020)  
   
 - Under-graduate level courses:  
   - Experimental Psychology (Fall 2018)  
@@ -385,6 +385,16 @@ Faculty of Humanities and Social Sciences, Ben-Gurion University of the Negev
 Be'er Sheva, Israel
 
 2015 - Present
+
+<!-- ### SIPS Commendation -->
+
+<!-- Society for Improving Psychological Science (SIPS) -->
+
+<!-- N/A -->
+
+<!-- 2020 -->
+
+<!-- Awarded to the `bayestestR` package for improving the training and research practices of psychological scientists. -->
 
 ### M.H.R Publication Award
 
