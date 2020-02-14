@@ -98,6 +98,7 @@ Be'er Sheva, Israel
  - Advanced EEG Methods
  - Hierarchical Linear Models
  - Linear Algebra for Neuroscience
+ - Machine Learning
 :::
 
 ### M.A. in Experimental Cognitive Psychology
@@ -200,6 +201,7 @@ N/A
 2013 - Present
 
 As part of [my research](#topics) I've had experience with planning and executing long-term research plans, working in- and managing teams, and conducting decision-guided statistical analyses.
+
 ### Event-related Brain Dynamics
 
 N/A
@@ -212,6 +214,18 @@ Designing experiments and analyzing electroencephalography (EEG) / event-related
 
 - Written Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
 - Instructed workshops for pre-processing of experimental EEG.
+
+### Member of Editorial Board
+
+N/A
+
+N/A
+
+N/A
+
+- (2020 - Present) Review Editor for *Frontiers in Applied Mathematics and Statistics* and *Frontiers in Psychology*.  
+- Reviewer: *Cerebral Cortex*, *Frontiers in Psychology*, and *Advances in Methods and Practices in Psychological Science*.
+
 
 <!-- ### Research Assistant -->
 
@@ -263,7 +277,7 @@ N/A
 
 Research focused on the effects of prenatal alcohol exposure on the ability to detect mathematical errors in basic arithmetic equations in infancy and adolescence, using EEG/ERP paradigms.
 
-*In collaboration with Andrea Berger, Michael Shmueli, and Sandra and Joseph Jacobson*
+*In collaboration with Andrea Berger, Michael Shmueli, Sandra Jacobson, and Joseph Jacobson*
 
 ### Numerical Cognition
 
@@ -458,8 +472,6 @@ N/A
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (2019). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience*. `r DOI_link("10.1016/j.dcn.2019.100722")`
 - Makowski, D., **Ben-Shachar M.S.**, & Ludecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541")`
 - Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`
-
-Ad hoc reviewer for: Cerebral Cortex, Frontiers in Psychology, Advances in Methods and Practices in Psychological Science.
 
 ### Book Chapters
 
