@@ -473,6 +473,16 @@ N/A
 - Makowski, D., **Ben-Shachar M.S.**, & Ludecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541")`
 - Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`
 
+### Pre-Prints
+
+N/A
+
+N/A
+
+N/A
+
+- **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (2020). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`
+
 ### Book Chapters
 
 N/A
@@ -491,7 +501,6 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*submitted*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults.
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*submitted*). Tactile Enumeration and Embodied Numerosity among the Deaf.
 
 ### Manuscripts In-Preparation
