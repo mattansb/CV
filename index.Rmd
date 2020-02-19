@@ -359,38 +359,46 @@ N/A
 
 MITAM Prep Course (Summer 2016)
 
-Military Service {data-icon=fighter-jet}
---------------------------------------------------------------------------------
+<!-- Military Service {data-icon=fighter-jet} -->
+<!-- -------------------------------------------------------------------------------- -->
 
-### Discharged with Honor
+<!-- ### Discharged with Honor -->
 
-Israeli Air Force
+<!-- Israeli Air Force -->
 
-N/A
+<!-- N/A -->
 
-2011
+<!-- 2011 -->
 
-Staff Sgt.
+<!-- Staff Sgt. -->
 
-### Technical Translator
+<!-- ### Technical Translator -->
 
-Depot 22, Israeli Air Force
+<!-- Depot 22, Israeli Air Force -->
 
-N/A
+<!-- N/A -->
 
-2008 - 2011
+<!-- 2008 - 2011 -->
 
-### 
+<!-- ###  -->
 
-Technical Studies School, Israeli Air Force
+<!-- Technical Studies School, Israeli Air Force -->
 
-N/A
+<!-- N/A -->
 
-2008
+<!-- 2008 -->
 
 
 Scholarships and Awards {data-icon=star-o}
 --------------------------------------------------------------------------------
+
+### Negev Mid-Way Scholarship
+
+Kreitman School of Advanced Graduate Studies
+
+Be'er Sheva, Israel
+
+2020 - Present
 
 ### Full academic scholarship for graduate studies
 
@@ -473,7 +481,7 @@ N/A
 - Makowski, D., **Ben-Shachar M.S.**, & Ludecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541")`
 - Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`
 
-### Pre-Prints
+### Preprints
 
 N/A
 
