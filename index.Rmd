@@ -78,7 +78,7 @@ Currently a PhD student at Ben-Gurion University of the Negev. My research is fo
 I am an active R developer and science educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consolation in these areas to numerous researchers.
 
 
-Education {data-icon=graduation-cap data-concise=true}
+Education {data-icon=graduation-cap data-concise=true #education}
 --------------------------------------------------------------------------------
 
 ### Ph.D. in Psychology
@@ -389,7 +389,7 @@ MITAM Prep Course (Summer 2016)
 <!-- 2008 -->
 
 
-Scholarships and Awards {data-icon=star-o}
+Awards and Scholarships {data-icon=star-o #awards}
 --------------------------------------------------------------------------------
 
 ### Negev Mid-Way Scholarship
@@ -408,15 +408,15 @@ Be'er Sheva, Israel
 
 2015 - Present
 
-<!-- ### SIPS Commendation -->
+### SIPS Commendation
 
-<!-- Society for Improving Psychological Science (SIPS) -->
+Society for Improving Psychological Science (SIPS)
 
-<!-- N/A -->
+N/A
 
-<!-- 2020 -->
+2020
 
-<!-- Awarded to the `bayestestR` package for improving the training and research practices of psychological scientists. -->
+[Awarded to the `bayestestR` package](http://improvingpsych.org/mission/awards/) for improving the training and research practices of psychological scientists.
 
 ### M.H.R Publication Award
 
@@ -426,9 +426,7 @@ Be'er Sheva, Israel
 
 2020
 
-:::aside
-For *Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. `r DOI_link("10.1111/acer.14244")`*
-:::
+For *Ben-Shachar et al. (2020). `r DOI_link("10.1111/acer.14244")`*
 
 ### Erasmus+ EU Travel Grant
 
@@ -458,7 +456,7 @@ Be'er Sheva, Israel
 
 2014
 
-Scientific Publications and Presentations {data-icon=file}
+Scientific Publications and Presentations {data-icon=file #pubs}
 --------------------------------------------------------------------------------
 
 :::aside
