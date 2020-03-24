@@ -96,7 +96,9 @@ N/A
 
 2016 - Present
 
-- Active development of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing posterior distributions and Bayesian models (part of [easystats](https://github.com/easystats)).
+- Developer of [bayestestR](https://easystats.github.io/bayestestR/), a package for describingand testing posterior distributions and Bayesian models.
+- Maintainer of [effectsize](https://cran.r-project.org/package=effectsize) for 
+estimating indices of effect size and standardized parameters.  
 - [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
 
 ### Research Management
