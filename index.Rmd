@@ -37,16 +37,14 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 <i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il  
-<!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com -->
+<i class="fa fa-globe"></i> [Home Page](https://sites.google.com/view/mattansb) | <i class="fa fa-rss"></i> [Blog](https://shouldbewriting.netlify.com/)  
+<i class="fa fa-github"></i> [GitHub](https://github.com/mattansb)  
+<i class="fa fa-twitter"></i> [Twitter](https://twitter.com/mattansb) | <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)  
+<i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801) | <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)
+
+<!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com   -->
 <!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
 <!-- <i class="fa fa-home"></i> 70 Abba Hillel Rd., apt 6, Ramat-Gan   -->
-<i class="fa fa-globe"></i> [Home Page](https://sites.google.com/view/mattansb)  
-<i class="fa fa-rss"></i> [Should Be Writing Blog](https://shouldbewriting.netlify.com/)  
-<i class="fa fa-github"></i> [github.com/mattansb](https://github.com/mattansb)  
-<i class="fa fa-twitter"></i> [\@mattansb](https://twitter.com/mattansb)  
-<i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801)  
-<i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)  
-<i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)  
 
 Languages {#languages}
 --------------------------------------------------------------------------------
@@ -83,7 +81,7 @@ Education {data-icon=graduation-cap data-concise=true #education}
 
 ### Ph.D. in Psychology
 
-Ben-Gurion University of the Negev
+Ben-Gurion University
 
 Be'er Sheva, Israel
 
@@ -103,7 +101,7 @@ Be'er Sheva, Israel
 
 ### M.A. in Experimental Cognitive Psychology
 
-Ben-Gurion University of the Negev
+Ben-Gurion University
 
 Be'er Sheva, Israel
 
@@ -114,7 +112,7 @@ Be'er Sheva, Israel
 
 ### B.A. in Behavioral Sciences
 
-Ben-Gurion University of the Negev
+Ben-Gurion University
 
 Be'er Sheva, Israel
 
@@ -263,7 +261,7 @@ Research Topics {data-icon=flask #topics}
 
 ### Processing Speed
 
-Ben-Gurion University of the Negev
+Ben-Gurion University
 
 Be'er Sheva, Israel
 
@@ -285,7 +283,7 @@ Research focused on the effects of prenatal alcohol exposure on the ability to d
 
 ### Numerical Cognition
 
-Ben-Gurion University of the Negev
+Ben-Gurion University
 
 Be'er Sheva, Israel
 
@@ -332,10 +330,11 @@ N/A
 
  - Trends in Open Science (2 hour workshop; Dec 2018, May 2019, Nov 2019)  
  - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
+ - Pre-processing EEG data (12 hour workshop; Jan-Feb 2020)  
  <!-- - Introduction to Bayesian statistics (2 hour workshop; ??? 2020) -->
- <!-- - Pre-processing EEG data (12 hour workshop; ??? 2020) -->
  
-### Teaching Assistant
+ 
+### Graduate Teaching Assistant & Instructor
 
 Ben-Gurion University  
 
@@ -406,7 +405,7 @@ Be'er Sheva, Israel
 
 ### Full academic scholarship for graduate studies
 
-Faculty of Humanities and Social Sciences, Ben-Gurion University of the Negev
+Humanities and Social Sci Faculty, Ben-Gurion University
 
 Be'er Sheva, Israel
 
@@ -424,7 +423,7 @@ N/A
 
 ### M.H.R Publication Award
 
-Faculty of Humanities and Social Sciences, Ben-Gurion University of the Negev
+Humanities and Social Sci Faculty, Ben-Gurion University
 
 Be'er Sheva, Israel
 
@@ -454,7 +453,7 @@ Studied Linear Algebra for Neuroscience with Prof. Mike X. Cohen
 
 ### Award for Academic Distinction
 
-Department of Sociology and Anthropology, Ben-Gurion University of the Negev
+Dep. of Sociology and Anthropology, Ben-Gurion University
 
 Be'er Sheva, Israel
 

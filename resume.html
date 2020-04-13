@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Mattan S. Ben-Shachar" />
-    <meta name="date" content="2020-03-24" />
+    <meta name="date" content="2020-04-13" />
     <title>Mattan S. Ben-Shachar’s Resume</title>
 
     
         <link href="resume_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
     <link href="resume_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-    <script src="resume_files/paged-0.8/js/config.js"></script>
-    <script src="resume_files/paged-0.8/js/paged.js"></script>
-    <script src="resume_files/paged-0.8/js/hooks.js"></script>
+    <script src="resume_files/paged-0.9/js/config.js"></script>
+    <script src="resume_files/paged-0.9/js/paged.js"></script>
+    <script src="resume_files/paged-0.9/js/hooks.js"></script>
     
         <link rel="stylesheet" href="my_css.css" type="text/css" />
     
@@ -29,16 +29,10 @@
 <div id="contact" class="section level2">
 <h2>Contact Info</h2>
 <p><i class="fa fa-envelope"></i> <a href="mailto:matanshm@post.bgu.ac.il" class="email">matanshm@post.bgu.ac.il</a><br />
-<!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com -->
-<!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
-<!-- <i class="fa fa-home"></i> 70 Abba Hillel Rd., apt 6, Ramat-Gan   -->
-<i class="fa fa-globe"></i> <a href="https://sites.google.com/view/mattansb">Home Page</a><br />
-<i class="fa fa-rss"></i> <a href="https://shouldbewriting.netlify.com/">Should Be Writing Blog</a><br />
-<i class="fa fa-github"></i> <a href="https://github.com/mattansb">github.com/mattansb</a><br />
-<i class="fa fa-twitter"></i> <a href="https://twitter.com/mattansb">@mattansb</a><br />
-<!-- <i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801)   -->
-<i class="fa fa-graduation-cap"></i> <a href="https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&amp;hl">Google Scholar</a><br />
-<!-- <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)   --></p>
+<i class="fa fa-globe"></i> <a href="https://sites.google.com/view/mattansb">Home Page</a> | <i class="fa fa-rss"></i> <a href="https://shouldbewriting.netlify.com/">Blog</a><br />
+<i class="fa fa-github"></i> <a href="https://github.com/mattansb">GitHub</a><br />
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/mattansb">Twitter</a> | <i class="fa fa-share-alt"></i> <a href="https://www.researchgate.net/profile/Mattan_Ben_Shachar">ResearchGate</a><br />
+<i class="fa fa-id-badge"></i> <a href="https://orcid.org/0000-0002-4287-4801">ORCID</a> | <i class="fa fa-graduation-cap"></i> <a href="https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&amp;hl">Google Scholar</a></p>
 </div>
 <div id="skills" class="section level2">
 <h2>Skills</h2>
@@ -50,7 +44,7 @@
 <div id="disclaimer" class="section level2">
 <h2>Disclaimer</h2>
 <p>See <a href="https://mattansb.github.io/CV/">full CV</a>.</p>
-<p>Last updated on 2020-03-24.</p>
+<p>Last updated on 2020-04-13.</p>
 </div>
 </div>
 <div id="main" class="section level1">
@@ -102,19 +96,19 @@ estimating indices of effect size and standardized parameters.<br />
 <h2>Education</h2>
 <div id="ph.d.-in-psychology" class="section level3">
 <h3>Ph.D. in Psychology</h3>
-<p>Ben-Gurion University of the Negev</p>
+<p>Ben-Gurion University</p>
 <p>Be’er Sheva, Israel</p>
 <p>2017 - expected 2021</p>
 </div>
 <div id="m.a.-in-experimental-cognitive-psychology" class="section level3">
 <h3>M.A. in Experimental Cognitive Psychology</h3>
-<p>Ben-Gurion University of the Negev</p>
+<p>Ben-Gurion University</p>
 <p>Be’er Sheva, Israel</p>
 <p>2017</p>
 </div>
 <div id="b.a.-in-behavioral-sciences" class="section level3">
 <h3>B.A. in Behavioral Sciences</h3>
-<p>Ben-Gurion University of the Negev</p>
+<p>Ben-Gurion University</p>
 <p>Be’er Sheva, Israel</p>
 <p>2015</p>
 </div>
@@ -148,8 +142,11 @@ estimating indices of effect size and standardized parameters.<br />
     if (i === 0 && el.id === 'title') continue;
     el.className += ' main-block';
     if (el.dataset['concise']) el.className += ' concise';
-    s = el.dataset['icon'] || 'bookmark';
-    el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    // if there is no icon, add an icon:
+    if (el.firstElementChild.firstChild && el.firstElementChild.firstChild.nodeName !== 'I') {
+      s = el.dataset['icon'] || 'bookmark';
+      el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    }
   }
 
   // tweak class names of blocks in sections
