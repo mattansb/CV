@@ -157,15 +157,17 @@ Graduated *Magna Cum Laude*
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Data Analyst for the Social Sciences
+### Research Management and Data Analysis
 
 N/A
 
 N/A
 
-2016 - Present
+2015 - Present
 
-Consultation and data analysis for social sciences, primarily in R; Deeply rooted in theory and methodology, while also keeping in mind the practical needs of researchers and academics. Among other things, specialize in the following subjects:
+As part of [my research](#topics) I have lead and managed research projects, including teams of research assistants and graduate students, and collaborated with various international research groups. I have provided guidance throughout all stages of the research process and decision-guided statistical analyses.
+
+I have also provided consultation and data analysis services for the social sciences, primarily in R; I am deeply rooted in theory and methodology, while also mindful of the practical needs of researchers and academics. I specialize in the following methods:
 
 ::: concise
 - Generalized linear models (regression, AN(C)OVA)  
@@ -193,16 +195,6 @@ List of additional packages I've contributed to: [`afex`](https://cran.r-project
 [`correlation`](https://cran.r-project.org/package=correlation),
 [`parameters`](https://cran.r-project.org/package=parameters), [`modelbased`](https://cran.r-project.org/package=modelbased), `report`, [`see`](https://cran.r-project.org/package=see).
 :::
-
-### Research Management
-
-N/A
-
-N/A
-
-2013 - Present
-
-As part of [my research](#topics) I've had experience with planning and executing long-term research plans, working in- and managing teams, and conducting decision-guided statistical analyses.
 
 ### Event-related Brain Dynamics
 
@@ -269,7 +261,7 @@ N/A
 
 Focusing on individual differences in processing speed and its relation to higher cognitive abilities, using indirect measures of processing speed, such as: sensitivity to implicit temporal information, ERP latency, and EEG phase synchronicity.
 
-### FASD
+### Fetal Alcohol Spectrum Disorder
 
 University of Cape Town
 

@@ -72,15 +72,19 @@ I am an active R developer and science educator, and am very opinionated about d
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Data Analyst for the Social Sciences
+### Research Management and Data Analysis
 
 N/A
 
 N/A
 
-2016 - Present
+2015 - Present
 
-Consultation and data analysis for social sciences, primarily in R; Deeply rooted in theory and methodology, while also keeping in mind the practical needs of researchers and academics.
+As part of [my research](https://mattansb.github.io/CV/#topics) I have lead and managed research projects, including teams of research assistants and graduate students, and collaborated with various international research groups. I have provided guidance throughout all stages of the research process and decision-guided statistical analyses.
+
+I have also provided consultation and data analysis services for the social sciences, primarily in R; I am deeply rooted in theory and methodology, while also mindful of the practical needs of researchers and academics.
+
+*See full list of [academic publications](https://mattansb.github.io/CV/#pubs).*
 
 ### R / Shiny Developer
 
@@ -93,17 +97,8 @@ N/A
 - Developer of [bayestestR](https://easystats.github.io/bayestestR/), a package for describingand testing posterior distributions and Bayesian models.
 - Maintainer of [effectsize](https://cran.r-project.org/package=effectsize) for 
 estimating indices of effect size and standardized parameters.  
-- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
 
-### Research Management
-
-N/A
-
-N/A
-
-2013 - Present
-
-As part of [my research](https://mattansb.github.io/CV/#topics) I've had experience with planning and executing long-term research plans, working in- and managing teams, and conducting decision-guided statistical analyses.
+*See more on [GitHub](https://github.com/mattansb).*
 
 ### Teaching Experience
 
@@ -115,7 +110,7 @@ N/A
 
 Teaching and instructing has been focused on B.A. and M.A. level statistics, research methods and R.
 
-*For a list of teaching topics, see [full CV](https://mattansb.github.io/CV/#teaching).*
+*See full list of [courses](https://mattansb.github.io/CV/#teaching).*
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -127,6 +122,9 @@ Ben-Gurion University
 Be'er Sheva, Israel
 
 2017 - expected 2021
+
+**Thesis:** *The Electrophysiological Basis of Processing Speed.*  
+**Supervisor:** Prof. Andrea Berger  
 
 ### M.A. in Experimental Cognitive Psychology
 
