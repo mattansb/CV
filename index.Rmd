@@ -100,6 +100,7 @@ Be'er Sheva, Israel
 :::
 
 ### M.A. in Experimental Cognitive Psychology
+<!-- ### M.A. in Experimental Cognition? -->
 
 Ben-Gurion University
 
@@ -197,6 +198,8 @@ List of additional packages I've contributed to: [`afex`](https://cran.r-project
 :::
 
 ### Event-related Brain Dynamics
+<!-- talk about this as signal processing and big data -->
+<!-- give this a sexier name... -->
 
 N/A
 
@@ -515,6 +518,7 @@ N/A
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.
 <!-- - Shachar, G., Pinus M, K., Vardimon, O.E., **Ben-Shachar, M.S.**, & Kessler, Y. (*in preparation*). Analog Measures of Self-Criticism. -->
+<!-- - Einziger, T,. **Ben-Shachar, M.S.**, & Berger, A. (*in preparation*). Neural time course of the SSRT in sub-clinical ADHD adolescents. -->
 
 
 
