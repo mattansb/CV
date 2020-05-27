@@ -186,7 +186,7 @@ N/A
 
 2016 - Present
 
-- Developer of [bayestestR](https://easystats.github.io/bayestestR/), a package for describingand testing posterior distributions and Bayesian models.
+- Developer of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing and testing posterior distributions and Bayesian models.
 - Maintainer of [effectsize](https://cran.r-project.org/package=effectsize) for 
 estimating indices of effect size and standardized parameters.  
 - [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
@@ -194,7 +194,8 @@ estimating indices of effect size and standardized parameters.
 :::aside
 List of additional packages I've contributed to: [`afex`](https://cran.r-project.org/package=afex),
 [`correlation`](https://cran.r-project.org/package=correlation),
-[`parameters`](https://cran.r-project.org/package=parameters), [`modelbased`](https://cran.r-project.org/package=modelbased), `report`, [`see`](https://cran.r-project.org/package=see).
+[`parameters`](https://cran.r-project.org/package=parameters), [`modelbased`](https://cran.r-project.org/package=modelbased), `report`, [`see`](https://cran.r-project.org/package=see),
+[`semTools`](https://cran.r-project.org/package=semTools).
 :::
 
 ### Event-related Brain Dynamics
