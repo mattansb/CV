@@ -506,7 +506,7 @@ N/A
 
 N/A
 
-- Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*submitted*). Tactile Enumeration and Embodied Numerosity among the Deaf.
+- Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*under review*). Tactile Enumeration and Embodied Numerosity among the Deaf.
 
 ### Manuscripts In-Preparation
 
@@ -517,9 +517,9 @@ N/A
 N/A
 
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
-- Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.
-<!-- - Shachar, G., Pinus M, K., Vardimon, O.E., **Ben-Shachar, M.S.**, & Kessler, Y. (*in preparation*). Analog Measures of Self-Criticism. -->
-<!-- - Einziger, T,. **Ben-Shachar, M.S.**, & Berger, A. (*in preparation*). Neural time course of the SSRT in sub-clinical ADHD adolescents. -->
+- Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.  
+- Einzinger, T., **Ben-Shachar, M.S.**, Shmueli, M., Auerbach, J.G., Zilberman-Hayun, Y., Atzba-Poria, N., & Berger A. (*in preparation*). "My Brain Can't Stop": an ERP Study of Longitudinal Prediction of Inhibitory Control in Adolecnese.  
+- Shachar, G., Pinus, M., Vardimon, O.E., **Ben-Shachar, M.S.**, & Kessler, Y. (*in preparation*). Analog Measures of Self-Criticism.
 
 
 
