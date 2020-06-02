@@ -475,7 +475,7 @@ N/A
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (2020). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. *Alcoholism: Clinical and Experimental Research*. `r DOI_link("10.1111/acer.14244")`
 - Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (2019). Indices of Effect Existence and Significance in the Bayesian Framework. *Frontiers in Psychology*. `r DOI_link("10.3389/fpsyg.2019.02767")`
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (2019). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience*. `r DOI_link("10.1016/j.dcn.2019.100722")`
-- Makowski, D., **Ben-Shachar M.S.**, & Ludecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541")`
+- Makowski, D., **Ben-Shachar M.S.**, & Lüdecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541")`
 - Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`
 
 ### Preprints
@@ -506,7 +506,8 @@ N/A
 
 N/A
 
-- Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*under review*). Tactile Enumeration and Embodied Numerosity among the Deaf.
+- Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*under review*). Tactile Enumeration and Embodied Numerosity among the Deaf.  
+- Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (*under review*). Methods and Algorithms for Correlation Analysis in R.
 
 ### Manuscripts In-Preparation
 
@@ -519,7 +520,7 @@ N/A
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.  
 - Einzinger, T., **Ben-Shachar, M.S.**, Shmueli, M., Auerbach, J.G., Zilberman-Hayun, Y., Atzba-Poria, N., & Berger A. (*in preparation*). "My Brain Can't Stop": an ERP Study of Longitudinal Prediction of Inhibitory Control in Adolecnese.  
-- Shachar, G., Pinus, M., Vardimon, O.E., **Ben-Shachar, M.S.**, & Kessler, Y. (*in preparation*). Analog Measures of Self-Criticism.
+- Pinus, M., **Ben-Shachar, M.S.**, Vardimon, O.E., Kessler, Y., & Shachar, G. (*in preparation*). Circular Visual Analog Scale for Self-Criticism.
 
 
 
