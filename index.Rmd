@@ -499,6 +499,7 @@ N/A
 
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (2020). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 - Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (*under review*). Methods and Algorithms for Correlation Analysis in R.  
+- Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., & Makowski, D. (*submitted*). Extracting, Computing and Exploring the Parameters of Statistical Models using R.
 
 ### Manuscripts In-Preparation
 
