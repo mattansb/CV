@@ -472,11 +472,12 @@ N/A
 
 N/A
 
+- Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (2020). Methods and Algorithms for Correlation Analysis in R. *Journal of Open Source Software, 5*(51), 2306. `r DOI_link("10.21105/joss.02306", FALSE)`  
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*accpeted*). Tactile Enumeration and Embodied Numerosity among the Deaf. *Cognitive Science*.  
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (2020). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. *Alcoholism: Clinical and Experimental Research, 44*(1), 114-124. `r DOI_link("10.1111/acer.14244")`  
 - Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (2019). Indices of Effect Existence and Significance in the Bayesian Framework. *Frontiers in Psychology, 10*, 2767. `r DOI_link("10.3389/fpsyg.2019.02767")`
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (2019). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience, 40*, 100722. `r DOI_link("10.1016/j.dcn.2019.100722")`
-- Makowski, D., **Ben-Shachar M.S.**, & Lüdecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541")`
+- Makowski, D., **Ben-Shachar M.S.**, & Lüdecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541", FALSE)`
 - Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`
 
 ### Book Chapters
@@ -498,7 +499,6 @@ N/A
 N/A
 
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (2020). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
-- Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (*under review*). Methods and Algorithms for Correlation Analysis in R.  
 - Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., & Makowski, D. (*submitted*). Extracting, Computing and Exploring the Parameters of Statistical Models using R.
 
 ### Manuscripts In-Preparation
