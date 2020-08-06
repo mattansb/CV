@@ -472,8 +472,8 @@ N/A
 
 N/A
 
+- Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (2020). Tactile Enumeration and Embodied Numerosity among the Deaf. *Cognitive Science, 44*, e12880. `r DOI_link("10.1111/cogs.12880")`  
 - Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (2020). Methods and Algorithms for Correlation Analysis in R. *Journal of Open Source Software, 5*(51), 2306. `r DOI_link("10.21105/joss.02306", FALSE)`  
-- Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (*accpeted*). Tactile Enumeration and Embodied Numerosity among the Deaf. *Cognitive Science*.  
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (2020). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. *Alcoholism: Clinical and Experimental Research, 44*(1), 114-124. `r DOI_link("10.1111/acer.14244")`  
 - Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (2019). Indices of Effect Existence and Significance in the Bayesian Framework. *Frontiers in Psychology, 10*, 2767. `r DOI_link("10.3389/fpsyg.2019.02767")`
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (2019). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience, 40*, 100722. `r DOI_link("10.1016/j.dcn.2019.100722")`
