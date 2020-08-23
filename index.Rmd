@@ -213,6 +213,16 @@ Designing experiments and analyzing electroencephalography (EEG) / event-related
 - Written Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
 - Instructed workshops for pre-processing of experimental EEG.
 
+### MITAM Exam Reviewer
+
+National Institute for Testing and Evaluation
+
+N/A
+
+2020 - Present
+
+Developer and reviewer of the MITAM exam (entrance test for advanced degrees in psychology - equivalent to the GRE).
+
 ### Member of Editorial Board
 
 N/A
