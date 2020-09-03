@@ -55,7 +55,7 @@ Hebrew - native language
 Technical Skills
 --------------------------------------------------------------------------------
 
-**Programming:** R, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).  
+**Programming:** R, Python, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).  
 **Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.  
 
 Disclaimer {#disclaimer}
