@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 
 DOI_link <- function(doi, sci_hub = TRUE){
-  host <- if (sci_hub) "sci-hub.tw" else "doi.org"
+  host <- if (sci_hub) "sci-hub.st" else "doi.org"
   
   glue::glue("[DOI:{doi}](https://{host}/{doi})")
 }
