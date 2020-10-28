@@ -316,9 +316,9 @@ N/A
 Department of Psychology:  
 
 - Graduate level courses:  
-  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019)  
+  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2020; Fall 2019)  
   - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2020)  
-  - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2019; Spring 2020)  
+  - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; Spring 2019)  
   
 - Under-graduate level courses:  
   - Experimental Psychology (Fall 2018)  
@@ -331,7 +331,7 @@ N/A
 
 N/A
 
- - Trends in Open Science (2 hour workshop; Dec 2018, May 2019, Nov 2019)  
+ - Trends in Open Science (2 hour workshop; Nov 2019, May 2019, Dec 2018)  
  - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
  - Pre-processing EEG data (12 hour workshop; Jan-Feb 2020)  
  <!-- - Introduction to Bayesian statistics (2 hour workshop; ??? 2020) -->
@@ -347,13 +347,13 @@ N/A
 
 Department of Psychology:  
 
-- Experimental Psychology (Summer 2017; Fall 2017)  
-- Inferential Statistics (Spring 2017; Spring 2018)  
+- Experimental Psychology (Fall 2017; Summer 2017)  
+- Inferential Statistics (Spring 2018; Spring 2017)  
 - Introduction to Statistics (Fall 2015)  
 
 Department of Health Systems Management:  
 
-- Research Seminar (*for Graduate Students*) (Fall 2016; Fall 2017)  
+- Research Seminar (*for Graduate Students*) (Fall 2017; Fall 2016)  
   
 ### Instructor
 
@@ -516,6 +516,8 @@ N/A
 
 N/A
 
+
+- **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (*in preparation*). Size does matter: Estimation and Interpretation of Effect Size Indices and Standardized Parameters.
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.  
 - Einzinger, T., **Ben-Shachar, M.S.**, Shmueli, M., Auerbach, J.G., Zilberman-Hayun, Y., Atzba-Poria, N., & Berger A. (*in preparation*). "My Brain Can't Stop": an ERP Study of Longitudinal Prediction of Inhibitory Control in Adolecnese.  
