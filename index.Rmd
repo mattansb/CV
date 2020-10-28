@@ -506,6 +506,8 @@ N/A
 
 N/A
 
+
+- **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (*submitted*). Size does matter: Estimation and Interpretation of Effect Size Indices and Standardized Parameters.
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (2020). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
 ### Manuscripts In-Preparation
@@ -516,8 +518,6 @@ N/A
 
 N/A
 
-
-- **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (*in preparation*). Size does matter: Estimation and Interpretation of Effect Size Indices and Standardized Parameters.
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.  
 - Einzinger, T., **Ben-Shachar, M.S.**, Shmueli, M., Auerbach, J.G., Zilberman-Hayun, Y., Atzba-Poria, N., & Berger A. (*in preparation*). "My Brain Can't Stop": an ERP Study of Longitudinal Prediction of Inhibitory Control in Adolecnese.  
