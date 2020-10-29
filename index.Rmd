@@ -508,7 +508,7 @@ N/A
 
 
 - **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (*submitted*). Size does matter: Estimation and Interpretation of Effect Size Indices and Standardized Parameters.
-- **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (2020). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
+- **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
 ### Manuscripts In-Preparation
 
