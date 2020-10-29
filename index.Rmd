@@ -520,7 +520,7 @@ N/A
 
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.  
-- Einzinger, T., **Ben-Shachar, M.S.**, Shmueli, M., Auerbach, J.G., Zilberman-Hayun, Y., Atzba-Poria, N., & Berger A. (*in preparation*). "My Brain Can't Stop": an ERP Study of Longitudinal Prediction of Inhibitory Control in Adolecnese.  
+- Einzinger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger A. (*in preparation*). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence.  
 - Pinus, M., **Ben-Shachar, M.S.**, Vardimon, O.E., Kessler, Y., & Shachar, G. (*in preparation*). Circular Visual Analog Scale for Self-Criticism.
 
 
