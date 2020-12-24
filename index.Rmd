@@ -521,6 +521,7 @@ N/A
 
 N/A
 
+- **Ben-Shachar, M.S.** & Berger, A. (*in preparation*). Adaptation to Temporal Predictability is Related to Intelligence.  
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Pinus, M., **Ben-Shachar, M.S.**, Vardimon, O.E., Kessler, Y., & Shachar, G. (*in preparation*). Circular Visual Analog Scale for Self-Criticism.
 
