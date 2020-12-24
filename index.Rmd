@@ -186,13 +186,14 @@ N/A
 
 2016 - Present
 
-- Developer and maintainer of [effectsize](https://easystats.github.io/effectsize/) for 
+- Developer and maintainer of [*effectsize*](https://easystats.github.io/effectsize/) for 
 estimating indices of effect size and standardized parameters.  
-- Developer of [bayestestR](https://easystats.github.io/bayestestR/), a package for describing and testing posterior distributions and Bayesian models.
-- [cheatR](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
+- Developer of [*bayestestR*](https://easystats.github.io/bayestestR/), a package for describing and testing posterior distributions and Bayesian models.
+- Core developer of the [*easystats* eco-system of packages](https://easystats.github.io/easystats/) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline and harness the scary R statistics and their pesky models (e.g., [*insight*](https://cran.r-project.org/package=insight), [*parameters*](https://cran.r-project.org/package=parameters), [*performance*](https://cran.r-project.org/package=performance), [*correlation*](https://cran.r-project.org/package=correlation), [*modelbased*](https://cran.r-project.org/package=modelbased), [*report*](https://easystats.github.io/report/), [*see*](https://cran.r-project.org/package=see)).
+- [*cheatR*](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
 
 :::aside
-List of additional packages I've contributed to: [`afex`](https://cran.r-project.org/package=afex), [`ggeffects`](https://cran.r-project.org/package=ggeffects), [`semTools`](https://cran.r-project.org/package=semTools), [`insight`](https://cran.r-project.org/package=insight), [`parameters`](https://cran.r-project.org/package=parameters), [`performance`](https://cran.r-project.org/package=performance), [`correlation`](https://cran.r-project.org/package=correlation),  [`modelbased`](https://cran.r-project.org/package=modelbased), [`report`](https://easystats.github.io/report/), [`see`](https://cran.r-project.org/package=see).
+List of additional packages I've contributed to: [`afex`](https://cran.r-project.org/package=afex), [`ggeffects`](https://cran.r-project.org/package=ggeffects), [`semTools`](https://cran.r-project.org/package=semTools).
 :::
 
 ### Event-related Brain Dynamics
@@ -479,6 +480,8 @@ N/A
 
 N/A
 
+
+- **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters Aims of the Package. *Journal of Open Source Software, 5*(56), 2815. `r DOI_link("10.21105/joss.02815", FALSE)`  
 - Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., & Makowski, D. (2020). Extracting, Computing and Exploring the Parameters of Statistical Models using R. *Journal of Open Source Software, 5*(53), 2445. `r DOI_link("10.21105/joss.02445", FALSE)`
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (2020). Tactile Enumeration and Embodied Numerosity among the Deaf. *Cognitive Science, 44*, e12880. `r DOI_link("10.1111/cogs.12880")`  
 - Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (2020). Methods and Algorithms for Correlation Analysis in R. *Journal of Open Source Software, 5*(51), 2306. `r DOI_link("10.21105/joss.02306", FALSE)`  
@@ -506,8 +509,8 @@ N/A
 
 N/A
 
-
-- **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (*submitted*). Size does matter: Estimation and Interpretation of Effect Size Indices and Standardized Parameters.
+- Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.  
+- Einzinger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger A. (*in preparation*). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence.  
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
 ### Manuscripts In-Preparation
@@ -519,11 +522,7 @@ N/A
 N/A
 
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
-- Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.  
-- Einzinger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger A. (*in preparation*). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence.  
 - Pinus, M., **Ben-Shachar, M.S.**, Vardimon, O.E., Kessler, Y., & Shachar, G. (*in preparation*). Circular Visual Analog Scale for Self-Criticism.
-
-
 
 
 ### Talks
