@@ -332,10 +332,10 @@ N/A
 
 N/A
 
+ <!-- - Evaluating Evidence and Making Decisions using Bayesian Statistics. Workshop at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology. -->
  - Trends in Open Science (2 hour workshop; Nov 2019, May 2019, Dec 2018)  
  - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
  - Pre-processing EEG data (12 hour workshop; Jan-Feb 2020)  
- <!-- - Introduction to Bayesian statistics (2 hour workshop; ??? 2020) -->
  
  
 ### Graduate Teaching Assistant & Instructor
@@ -481,6 +481,7 @@ N/A
 N/A
 
 
+- Einzinger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger A. (*in press*). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence.  *Brain Sciences*.  
 - **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters Aims of the Package. *Journal of Open Source Software, 5*(56), 2815. `r DOI_link("10.21105/joss.02815", FALSE)`  
 - Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., & Makowski, D. (2020). Extracting, Computing and Exploring the Parameters of Statistical Models using R. *Journal of Open Source Software, 5*(53), 2445. `r DOI_link("10.21105/joss.02445", FALSE)`
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (2020). Tactile Enumeration and Embodied Numerosity among the Deaf. *Cognitive Science, 44*, e12880. `r DOI_link("10.1111/cogs.12880")`  
@@ -509,8 +510,8 @@ N/A
 
 N/A
 
-- Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*in preparation*). Learning an abstract general task structure in a rapidly changing task content.  
-- Einzinger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger A. (*in preparation*). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence.  
+- **Ben-Shachar, M.S.** & Berger, A. (*submitted*). Adaptation to Temporal Predictability is Related to Intelligence.  
+- Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*submitted*). Learning an abstract general task structure in a rapidly changing task content.  
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
 ### Manuscripts In-Preparation
@@ -521,7 +522,6 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M.S.** & Berger, A. (*in preparation*). Adaptation to Temporal Predictability is Related to Intelligence.  
 - Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Pinus, M., **Ben-Shachar, M.S.**, Vardimon, O.E., Kessler, Y., & Shachar, G. (*in preparation*). Circular Visual Analog Scale for Self-Criticism.
 
