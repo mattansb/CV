@@ -543,6 +543,7 @@ N/A
 
 N/A
 
+- **Ben-Shachar, M. S.** & Berger, A. (2021, February). *Adaptation to Temporal Predictability Is Related to Intelligence*. Poster presented at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.
 - **Ben-Shachar, M. S.**, Shmueli, M., Jacobson, J. L., Jacobson, S. W., & Berger, A. (2019, February). *Brain-level activity in response to perceived arithmetical errors reflects severity of Fetal alcohol spectrum disorders (FASD)*. Poster presented at the The 6th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
 - **Ben-Shachar, M. S.**, Jacobson, J. L., Jacobson, S. W., & Berger, A. (2018, May). *Neural Evidence for a Deficit in Numerosity Processing in Infants Prenatally Exposed to Alcohol*. Poster presented at the the 16th WAIMH World Congress, Rome, Italy.
 - **Ben-Shachar, M. S.**, Shotts-Peretz, D., & Berger, A. (2018, February). *Increased Acuity of the Analog Magnitude System is Related to Spontaneous Focusing on Numerosity in Children and Adults*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
