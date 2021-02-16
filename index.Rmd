@@ -230,7 +230,7 @@ N/A
 N/A
 
 - (2020 - Present) Review Editor for *Frontiers in Applied Mathematics and Statistics* and *Frontiers in Psychology*.  
-- Ad hoc reviewer: *Cerebral Cortex*, *Frontiers in Psychology*, and *Advances in Methods and Practices in Psychological Science*.
+- Ad hoc reviewer: *British Journal of Mathematical and Statistical Psychology*, *Cerebral Cortex*, *Frontiers in Psychology*, and *Advances in Methods and Practices in Psychological Science*.
 
 
 <!-- ### Research Assistant -->
@@ -300,10 +300,22 @@ Research automatic processing of quantities and numbers among adults and childre
 Teaching Experience {data-icon=chalkboard-teacher #teaching}
 --------------------------------------------------------------------------------
 
-:::aside
-Teaching has been focused on B.A. and M.A. level statistics, research methods and R.
+### Workshops
 
-*\* Denotes upcoming courses.*
+N/A
+
+N/A
+
+N/A
+
+- [*Evaluating Evidence and Making Decisions using Bayesian Statistics*](https://mattansb.github.io/bayesian-evidence-iscop-2021). Workshop at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.  
+
+Traveling workshops:
+
+::: concise
+- *Pre-Processing EEG Data* (12h; Oct-Nov 2020, Jan-Feb 2020)  
+- *Trends in Open Science* (2h; Nov 2019, May 2019, Dec 2018) 
+- [*ANOVA and Contrasts in R*](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2h; May 2018)  
 :::
 
 ### Lecturer & Teaching Fellow
@@ -318,25 +330,17 @@ Department of Psychology:
 
 - Graduate level courses:  
   - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2020; Fall 2019)  
-  - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2020)  
+  - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; Spring 2020)  
   - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; Spring 2019)  
   
 - Under-graduate level courses:  
-  - Experimental Psychology (Fall 2018)  
-
-### Workshops <!-- and Seminars -->
-
-Ben-Gurion University
-
-N/A
-
-N/A
-
- <!-- - Evaluating Evidence and Making Decisions using Bayesian Statistics. Workshop at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology. -->
- - Trends in Open Science (2 hour workshop; Nov 2019, May 2019, Dec 2018)  
- - [ANOVA and Contrasts in R](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2 hour workshop; May 2018)
- - Pre-processing EEG data (12 hour workshop; Jan-Feb 2020)  
+  - Experimental Psychology (Fall 2018)
  
+:::aside
+Teaching has been focused on B.A. and M.A. level statistics, research methods and R.
+
+*\* Denotes upcoming courses.*
+:::
  
 ### Graduate Teaching Assistant & Instructor
 
