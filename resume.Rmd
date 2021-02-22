@@ -29,8 +29,10 @@ Aside
 ================================================================================
 
 
-<!-- ![Mattan S. Ben-Shachar](headshots/BrainOrange.jpg){width=80%} -->
-![Mattan S. Ben-Shachar](headshots/coat.jpg){width=80%}
+<center>
+<!-- <img src="headshots/BrainOrange.jpg" style="width:80%; border-radius: 50%;"/> -->
+<img src="headshots/coat.jpg" style="width:80%; border-radius: 50%;"/>
+</center>
 
 
 Contact Info {#contact}
