@@ -514,6 +514,7 @@ N/A
 N/A
 
 - **Ben-Shachar, M.S.** & Berger, A. (*submitted*). Adaptation to Temporal Predictability is Related to Intelligence.  
+- Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (*submitted*). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study.  
 - Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*submitted*). Learning an abstract general task structure in a rapidly changing task content.  
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
@@ -525,7 +526,6 @@ N/A
 
 N/A
 
-- Shmueli, M., **Ben-Shachar, M.S.**, Berger, A., Jacobson, J.L., & Jacobson, S.W. (*in preparation*). Deficits in Automatic Processing of Symbolic Numbers in FASD.
 - Pinus, M., **Ben-Shachar, M.S.**, Vardimon, O.E., Kessler, Y., & Shachar, G. (*in preparation*). Circular Visual Analog Scale for Self-Criticism.
 
 
