@@ -56,7 +56,7 @@ Technical Skills
 --------------------------------------------------------------------------------
 
 **Programming:** R, Python, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).  
-**Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.  
+**Documentation:** Office Suites, (R)Markdown, Google Docs/Sheets.  
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -73,7 +73,7 @@ Mattan S. Ben-Shachar {#title}
 
 Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
 
-I am an active R developer and science educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consolation in these areas to numerous researchers.
+I am an active R developer and stats and methods educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consolation in these areas to numerous researchers and institutions.
 
 
 Education {data-icon=graduation-cap data-concise=true #education}
@@ -85,7 +85,7 @@ Ben-Gurion University
 
 Be'er Sheva, Israel
 
-2017 - expected 2021
+2017 - expected 2022
 
 **Thesis:** *The Electrophysiological Basis of Processing Speed.*  
 **Supervisor:** Prof. Andrea Berger  
@@ -172,10 +172,11 @@ I have also provided consultation and data analysis services for the social scie
 
 ::: concise
 - Generalized linear models (regression, AN(C)OVA)  
-- Linear mixed-effects models (LMM / HLM / MLM)   
+- Hierarchical linear mixed effects models (HLM, LMM)   
 - Bayesian modeling and inference  
-- Nonlinear models (NLM)
+- Nonlinear models (NLM)  
 - Structural equation modeling (SEM)  
+- Factor analysis and clustering  
 :::
 
 ### R / Shiny Developer
@@ -193,7 +194,7 @@ estimating indices of effect size and standardized parameters.
 - [*cheatR*](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
 
 :::aside
-List of additional packages I've contributed to: [`afex`](https://cran.r-project.org/package=afex), [`ggeffects`](https://cran.r-project.org/package=ggeffects), [`semTools`](https://cran.r-project.org/package=semTools).
+List of additional packages I've contributed to: [`afex`](https://cran.r-project.org/package=afex), [`brms`](https://cran.r-project.org/package=brms), [`ggeffects`](https://cran.r-project.org/package=ggeffects), [`semTools`](https://cran.r-project.org/package=semTools).
 :::
 
 ### Event-related Brain Dynamics
@@ -208,7 +209,7 @@ N/A
 
 Designing experiments and analyzing electroencephalography (EEG) / event-related potential (ERP) data using `eeglab`.
 
-- Written Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
+- Developed Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
 - Instructed workshops for pre-processing of experimental EEG.
 
 ### MITAM Exam Reviewer
@@ -308,7 +309,7 @@ N/A
 
 N/A
 
-- [*Evaluating Evidence and Making Decisions using Bayesian Statistics*](https://mattansb.github.io/bayesian-evidence-iscop-2021). Workshop at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.  
+- [*Evaluating Evidence and Making Decisions using Bayesian Statistics*](https://mattansb.github.io/bayesian-evidence). Workshop at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.  
 
 Traveling workshops:
 
@@ -324,7 +325,7 @@ Ben-Gurion University
 
 N/A
 
-N/A
+2015 - Present
 
 Department of Psychology:  
 
@@ -348,7 +349,7 @@ Ben-Gurion University
 
 N/A
 
-N/A
+2015 - 2018
 
 Department of Psychology:  
 
@@ -360,15 +361,15 @@ Department of Health Systems Management:
 
 - Research Seminar (*for Graduate Students*) (Fall 2017; Fall 2016)  
   
-### Instructor
+### Mitam Instructor
 
 Ofek Mitam
 
 N/A
 
-N/A
+2016
 
-MITAM Prep Course (Summer 2016)
+MITAM Prep Course
 
 <!-- Military Service {data-icon=fighter-jet} -->
 <!-- -------------------------------------------------------------------------------- -->
@@ -484,6 +485,8 @@ N/A
 
 N/A
 
+
+- Pereg, M., Harpaz, D., Sabah, K., **Ben-Shachar, M.S.**, Amir, I., Dreisbach, G., & Meiran. N. (*in press*). Learning the abstract general task structure in a rapidly changing task content. *Journal of Cognition*  
 - Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., Waggoner, P., & Makowski, D. (2021) performance: An R Package for Assessment, Comparison and Testing of Statistical Models. *Journal of Open Source Software, 6*(60), 3139 `r DOI_link("10.21105/joss.03139", FALSE)`  
 - Einziger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger, A. (2021). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence. *Brain Sciences*, *11*(1), 100. `r DOI_link("10.3390/brainsci11010100", FALSE)`
 - **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters Aims of the Package. *Journal of Open Source Software, 5*(56), 2815. `r DOI_link("10.21105/joss.02815", FALSE)`  
@@ -516,7 +519,6 @@ N/A
 
 - **Ben-Shachar, M.S.** & Berger, A. (*submitted*). Adaptation to Temporal Predictability is Related to Intelligence.  
 - Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (*submitted*). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study.  
-- Pereg, M., Harpaz, D., Sabah, K., Dreisbach, G., **Ben-Shachar, M.S.**, & Meiran. N. (*submitted*). Learning an abstract general task structure in a rapidly changing task content.  
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
 ### Manuscripts In-Preparation
