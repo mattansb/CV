@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 
 DOI_link <- function(doi, sci_hub = TRUE){
-  host <- if (sci_hub) "sci-hub.st" else "doi.org"
+  host <- if (sci_hub) "sci-hub.se" else "doi.org"
   
   glue::glue("[DOI:{doi}](https://{host}/{doi})")
 }
@@ -485,9 +485,8 @@ N/A
 
 N/A
 
-
-- Pereg, M., Harpaz, D., Sabah, K., **Ben-Shachar, M.S.**, Amir, I., Dreisbach, G., & Meiran. N. (*in press*). Learning the abstract general task structure in a rapidly changing task content. *Journal of Cognition*  
-- Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., Waggoner, P., & Makowski, D. (2021) performance: An R Package for Assessment, Comparison and Testing of Statistical Models. *Journal of Open Source Software, 6*(60), 3139 `r DOI_link("10.21105/joss.03139", FALSE)`  
+- Pereg, M., Harpaz, D., Sabah, K., **Ben-Shachar, M.S.**, Amir, I., Dreisbach, G., & Meiran. N. (2021). Learning the Abstract General Task Structure in a Rapidly Changing Task Content. *Journal of Cognition, 4*(1), 31. `r DOI_link("10.5334/joc.176", TRUE)`  
+- Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., Waggoner, P., & Makowski, D. (2021) performance: An R Package for Assessment, Comparison and Testing of Statistical Models. *Journal of Open Source Software, 6*(60), 3139. `r DOI_link("10.21105/joss.03139", FALSE)`  
 - Einziger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger, A. (2021). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence. *Brain Sciences*, *11*(1), 100. `r DOI_link("10.3390/brainsci11010100", FALSE)`
 - **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters Aims of the Package. *Journal of Open Source Software, 5*(56), 2815. `r DOI_link("10.21105/joss.02815", FALSE)`  
 - Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., & Makowski, D. (2020). Extracting, Computing and Exploring the Parameters of Statistical Models using R. *Journal of Open Source Software, 5*(53), 2445. `r DOI_link("10.21105/joss.02445", FALSE)`
