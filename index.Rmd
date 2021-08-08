@@ -330,9 +330,12 @@ N/A
 Department of Psychology:  
 
 - Graduate level courses:  
-  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2020; Fall 2019)  
-  - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; Spring 2020)  
-  - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; Spring 2019)  
+  - Hierarchical linear models (Spring 2022\*)  
+  - Machine learning for psychologists (Spring 2022\*)  
+  - Essential data science skills (Spring 2022\*)  
+  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021\*; 2020; 2019)  
+  - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; 2020)  
+  - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
   
 - Under-graduate level courses:  
   - Experimental Psychology (Fall 2018)
@@ -485,6 +488,8 @@ N/A
 
 N/A
 
+
+- Lüdecke, D., Patil, I., **Ben-Shachar, M.S.**, Wiernik, B.M., Waggoner, P., & Makowski, D. (2021). see: An R Package for Visualizing Statistical Models. *Journal of Open Source Software, 6*(64), 3393. `r DOI_link("10.21105/joss.03393", FALSE)`  
 - Pereg, M., Harpaz, D., Sabah, K., **Ben-Shachar, M.S.**, Amir, I., Dreisbach, G., & Meiran. N. (2021). Learning the Abstract General Task Structure in a Rapidly Changing Task Content. *Journal of Cognition, 4*(1), 31. `r DOI_link("10.5334/joc.176", FALSE)`  
 - Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., Waggoner, P., & Makowski, D. (2021) performance: An R Package for Assessment, Comparison and Testing of Statistical Models. *Journal of Open Source Software, 6*(60), 3139. `r DOI_link("10.21105/joss.03139", FALSE)`  
 - Einziger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger, A. (2021). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence. *Brain Sciences*, *11*(1), 100. `r DOI_link("10.3390/brainsci11010100", FALSE)`
@@ -516,7 +521,6 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M.S.** & Berger, A. (*submitted*). Adaptation to Temporal Predictability is Related to Intelligence.  
 - Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (*submitted*). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study.  
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
@@ -528,6 +532,7 @@ N/A
 
 N/A
 
+- **Ben-Shachar, M.S.** & Berger, A. (*in preparation*). Adaptation to Temporal Predictability is Related to Intelligence.  
 - Pinus, M., **Ben-Shachar, M.S.**, Vardimon, O.E., Kessler, Y., & Shachar, G. (*in preparation*). Circular Visual Analog Scale for Self-Criticism.
 
 
