@@ -72,13 +72,13 @@ Mattan S. Ben-Shachar {#title}
 
 Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
 
-I am an active R developer and science educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consolation in these areas to numerous researchers.
+I am an active R developer and science educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consultation in these areas to numerous researchers.
 
 
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Data Analyst and Statistical Consoltant 
+### Data Analyst and Statistical Consultant 
 
 N/A
 
