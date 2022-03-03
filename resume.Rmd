@@ -86,11 +86,7 @@ N/A
 
 Since 2016
 
-Provide freelance consultation and data analysis services for the social scientists. I am deeply rooted in theory and methodology as both an instructor and a **`R`** developer, while also mindful of the practical needs of researchers and academics.
-
-As part of [my own research](#topics) I have also lead and managed research projects, including teams of graduate students and research assistants, and collaborated with various international research groups. I have provided guidance throughout all stages of the research process and decision-guided statistical analyses.
-
-<!-- *See full list of [academic publications](https://mattansb.github.io/CV/#pubs).* -->
+Provide freelance consultation and data analysis services for the social scientists. I am deeply rooted in theory and methodology as both an instructor and a **`R`** developer, while also mindful of the practical needs of researchers and academics. I provide guidance throughout all stages of the research process and decision-guided statistical analyses.
 
 ### R Developer
 
