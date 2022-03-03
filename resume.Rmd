@@ -38,11 +38,15 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-<i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il  
+<!-- <i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il   -->
+<i class="fa fa-envelope"></i> mattan.s.b@gmail.com  
 <i class="fa fa-globe"></i> [Home Page](https://sites.google.com/view/mattansb) | <i class="fa fa-rss"></i> [Blog](https://shouldbewriting.netlify.com/)  
 <i class="fa fa-github"></i> [GitHub](https://github.com/mattansb) | <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mattan-s-ben-shachar)   
-<i class="fa fa-twitter"></i> [Twitter](https://twitter.com/mattansb) | <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)  
+<!-- <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/mattansb) | <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)   -->
 <i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801) | <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)
+
+<!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
+<!-- <i class="fa fa-home"></i> 5 Dunash st., apt 27, Ramat-Gan   -->
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -74,31 +78,31 @@ I am an active R developer and science educator, and am very opinionated about d
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Research Management and Data Analysis
+### Data Analyst and Statistical Consoltant 
 
 N/A
 
 N/A
 
-2015 - Present
+Since 2016
 
-As part of [my research](https://mattansb.github.io/CV/#topics) I have lead and managed research projects, including teams of research assistants and graduate students, and collaborated with various international research groups. I have provided guidance throughout all stages of the research process and decision-guided statistical analyses.
+Provide freelance consultation and data analysis services for the social scientists. I am deeply rooted in theory and methodology as both an instructor and a **`R`** developer, while also mindful of the practical needs of researchers and academics.
 
-I have also provided consultation and data analysis services for the social sciences, primarily in R; I am deeply rooted in theory and methodology, while also mindful of the practical needs of researchers and academics.
+As part of [my own research](#topics) I have also lead and managed research projects, including teams of graduate students and research assistants, and collaborated with various international research groups. I have provided guidance throughout all stages of the research process and decision-guided statistical analyses.
 
-*See full list of [academic publications](https://mattansb.github.io/CV/#pubs).*
+<!-- *See full list of [academic publications](https://mattansb.github.io/CV/#pubs).* -->
 
-### R / Shiny Developer
-
-N/A
+### R Developer
 
 N/A
 
-2016 - Present
+N/A
 
-- Developer of [bayestestR](https://easystats.github.io/bayestestR/), a package for describingand testing posterior distributions and Bayesian models.
-- Maintainer of [effectsize](https://cran.r-project.org/package=effectsize) for 
-estimating indices of effect size and standardized parameters.  
+Since 2016
+
+- Developer and maintainer of the [*effectsize*](https://easystats.github.io/effectsize/) package.
+- Developer of [*bayestestR*](https://easystats.github.io/bayestestR/), a package for describing and testing Bayesian posteriors.
+- Core developer of the [*easystats* eco-system of packages](https://easystats.github.io/easystats/) - a collection of R packages aimed at making stats with R more accessible.
 
 *See more on [GitHub](https://github.com/mattansb).*
 
@@ -123,7 +127,7 @@ Ben-Gurion University
 
 Be'er Sheva, Israel
 
-2017 - expected 2021
+2017 - 2022 [expected]
 
 **Thesis:** *The Electrophysiological Basis of Processing Speed.*  
 **Supervisor:** Prof. Andrea Berger  

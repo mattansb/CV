@@ -29,22 +29,22 @@ Aside
 ================================================================================
 
 <center>
-<img src="headshots/BrainOrange.jpg" style="width:80%; border-radius: 50%;"/>
-<!-- <img src="headshots/coat.jpg" style="width:80%; border-radius: 50%;"/> -->
+<!-- <img src="headshots/BrainOrange.jpg" style="width:80%; border-radius: 50%;"/> -->
+<img src="headshots/coat.jpg"        style="width:80%; border-radius: 50%;"/>
 </center>
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-<i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il  
+<!-- <i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il   -->
+<i class="fa fa-envelope"></i> mattan.s.b@gmail.com  
 <i class="fa fa-globe"></i> [Home Page](https://sites.google.com/view/mattansb) | <i class="fa fa-rss"></i> [Blog](https://shouldbewriting.netlify.com/)  
 <i class="fa fa-github"></i> [GitHub](https://github.com/mattansb) | <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mattan-s-ben-shachar)   
-<i class="fa fa-twitter"></i> [Twitter](https://twitter.com/mattansb) | <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)  
+<!-- <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/mattansb) | <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)   -->
 <i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801) | <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)
 
-<!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com   -->
 <!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
-<!-- <i class="fa fa-home"></i> 70 Abba Hillel Rd., apt 6, Ramat-Gan   -->
+<!-- <i class="fa fa-home"></i> 5 Dunash st., apt 27, Ramat-Gan   -->
 
 Languages {#languages}
 --------------------------------------------------------------------------------
@@ -73,7 +73,7 @@ Mattan S. Ben-Shachar {#title}
 
 Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
 
-I am an active R developer and stats and methods educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consolation in these areas to numerous researchers and institutions.
+I am an active R developer and stats and methods educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consolation in these areas to numerous researchers, universities and private institutions.
 
 
 Education {data-icon=graduation-cap data-concise=true #education}
@@ -85,7 +85,7 @@ Ben-Gurion University
 
 Be'er Sheva, Israel
 
-2017 - expected 2022
+2017 - 2022 [expected]
 
 **Thesis:** *The Electrophysiological Basis of Processing Speed.*  
 **Supervisor:** Prof. Andrea Berger  
@@ -157,48 +157,48 @@ Graduated *Magna Cum Laude*
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Research Management and Data Analysis
-
-<!-- TODO This needs to be expanded upon -->
+### Data Analyst and Statistical Consoltant 
 
 N/A
 
 N/A
 
-2015 - Present
+Since 2016
 
-As part of [my research](#topics) I have lead and managed research projects, including teams of research assistants and graduate students, and collaborated with various international research groups. I have provided guidance throughout all stages of the research process and decision-guided statistical analyses.
-
-I have also provided consultation and data analysis services for the social sciences, primarily in R; I am deeply rooted in theory and methodology, while also mindful of the practical needs of researchers and academics. I specialize in the following methods:
+Provide freelance consultation and data analysis services for the social scientists. I am deeply rooted in theory and methodology as both an instructor and a **`R`** developer, while also mindful of the practical needs of researchers and academics. I specialize in the following methods:
 
 ::: concise
 - Generalized linear models (regression, AN(C)OVA)  
-- Hierarchical linear mixed effects models (HLM, LMM)   
+- Generalized mixed effects models (HLM, LMM)   
+- Dealing with missing data
 - Bayesian modeling and inference  
 - Nonlinear models (NLM)  
 - Structural equation modeling (SEM)  
-- Factor analysis and clustering  
+- Factor analysis and clustering
 :::
 
-### R / Shiny Developer
+As part of [my own research](#topics) I have also lead and managed research projects, including teams of graduate students and research assistants, and collaborated with various international research groups. I have provided guidance throughout all stages of the research process and decision-guided statistical analyses.
 
-<!-- https://mattansb.r-universe.dev/ -->
-
-N/A
+### R Developer
 
 N/A
 
-2016 - Present
+N/A
+
+Since 2016
 
 - Developer and maintainer of [*effectsize*](https://easystats.github.io/effectsize/) for 
 estimating indices of effect size and standardized parameters.  
 - Developer of [*bayestestR*](https://easystats.github.io/bayestestR/), a package for describing and testing posterior distributions and Bayesian models.
-- Core developer of the [*easystats* eco-system of packages](https://easystats.github.io/easystats/) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline and harness the scary R statistics and their pesky models (e.g., [*insight*](https://cran.r-project.org/package=insight), [*parameters*](https://cran.r-project.org/package=parameters), [*performance*](https://cran.r-project.org/package=performance), [*correlation*](https://cran.r-project.org/package=correlation), [*modelbased*](https://cran.r-project.org/package=modelbased), [*report*](https://easystats.github.io/report/), [*see*](https://cran.r-project.org/package=see)).
+- Core developer of the [*easystats* eco-system of packages](https://easystats.github.io/easystats/) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline and harness the scary R statistics and their pesky models (e.g., [*parameters*](https://cran.r-project.org/package=parameters), [*performance*](https://cran.r-project.org/package=performance), and more).
 - [*cheatR*](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
+
+*See [mattansb.r-universe.dev](https://mattansb.r-universe.dev/).*
 
 :::aside
 List of additional packages I've contributed to: [`afex`](https://cran.r-project.org/package=afex), [`brms`](https://cran.r-project.org/package=brms), [`ggeffects`](https://cran.r-project.org/package=ggeffects), [`semTools`](https://cran.r-project.org/package=semTools).
 :::
+
 
 ### Event-related Brain Dynamics
 <!-- talk about this as signal processing and big data -->
@@ -208,7 +208,7 @@ N/A
 
 N/A
 
-2015 - Present
+Since 2015
 
 Designing experiments and analyzing electroencephalography (EEG) / event-related potential (ERP) data using `eeglab`.
 
@@ -349,7 +349,7 @@ Traveling workshops:
 - [*ANOVA and Contrasts in R*](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2h; May 2018)  
 :::
  
-### Graduate Teaching Assistant & Instructor
+### Teaching Assistant & Instructor
 
 Ben-Gurion University  
 
@@ -376,6 +376,9 @@ Department of Health Systems Management:
 <!-- 2016 -->
 
 <!-- MITAM Prep Course -->
+
+
+
 
 <!-- Military Service {data-icon=fighter-jet} -->
 <!-- -------------------------------------------------------------------------------- -->
@@ -416,7 +419,7 @@ Humanities and Social Sci Faculty, Ben-Gurion University
 
 Be'er Sheva, Israel
 
-2015 - Present
+2015 - 2022
 
 ### Negev Mid-Way Scholarship
 
@@ -424,7 +427,7 @@ Kreitman School of Advanced Graduate Studies
 
 Be'er Sheva, Israel
 
-2020 - 2022
+2020 - 2021
 
 ### SIPS Commendation
 
@@ -473,6 +476,8 @@ Dep. of Sociology and Anthropology, Ben-Gurion University
 Be'er Sheva, Israel
 
 2014
+
+\pagebreak
 
 Scientific Publications and Presentations {data-icon=file #pubs}
 --------------------------------------------------------------------------------
