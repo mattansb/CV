@@ -55,7 +55,7 @@ Hebrew - native language
 Technical Skills
 --------------------------------------------------------------------------------
 
-**Programming:** R, Python, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).  
+**Programming:** R, Python, Matlab, (See my [github profile](https://github.com/mattansb)).  
 **Documentation:** Office Suites, (R)Markdown, Google Docs/Sheets.  
 
 Disclaimer {#disclaimer}
@@ -177,7 +177,19 @@ Provide freelance consultation and data analysis services for the social scienti
 - Factor analysis and clustering
 :::
 
-As part of [my own research](#topics) I have also lead and managed research projects, including teams of graduate students and research assistants, and collaborated with various international research groups. I have provided guidance throughout all stages of the research process and decision-guided statistical analyses.
+As part of [my own research](#topics) I have lead and managed research projects, including teams of graduate students and research assistants, and collaborated with various international research groups. I provide guidance throughout all stages of the research process and decision-guided statistical analyses.
+
+### Teaching Experience
+
+N/A
+
+N/A
+
+Since 2015
+
+
+Teaching has been focused on B.A. and M.A. level statistics, research methods and R programming.
+See [*Teaching Experience*](#teaching) section.
 
 ### R Developer
 
@@ -315,10 +327,10 @@ N/A
 Department of Psychology:  
 
 - Graduate level courses:  
-  - Hierarchical linear models (Spring 2022\*)  
-  - Machine learning for psychologists (Spring 2022\*)  
-  - Essential data science skills (Spring 2022\*)  
-  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021\*; 2020; 2019)  
+  - Hierarchical linear models (Spring 2022)  
+  - Machine learning for psychologists (Spring 2022)  
+  - Essential data science skills (Spring 2022)  
+  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021; 2020; 2019)  
   - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; 2020)  
   - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
   
@@ -326,8 +338,6 @@ Department of Psychology:
   - Experimental Psychology (Fall 2018)
  
 :::aside
-Teaching has been focused on B.A. and M.A. level statistics, research methods and R.
-
 *\* Denotes upcoming courses.*
 :::
 

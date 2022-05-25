@@ -52,7 +52,7 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 
 **Languages**: English (native), Hebrew (native).  
-**Programming:** R, Python, Matlab, E-Prime (See my [github profile](https://github.com/mattansb)).  
+**Programming:** R, Python, Matlab (See my [github profile](https://github.com/mattansb)).  
 **Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.  
 **Data analysis**: Statistical modeling, inference and visualization of survey, behavioral, and EEG data. Proficient in generalized linear / nonlinear mixed models, structural equation modeling, and their Bayesian equivalents.  
 
@@ -110,7 +110,7 @@ N/A
 
 2015 - Present
 
-Teaching and instructing has been focused on B.A. and M.A. level statistics, research methods and R.
+Teaching and instructing has been focused on B.A. and M.A. level statistics, research methods and R programming.
 
 *See full list of [courses](https://mattansb.github.io/CV/#teaching).*
 
