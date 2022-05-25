@@ -43,7 +43,7 @@ Contact Info {#contact}
 <i class="fa fa-globe"></i> [Home Page](https://sites.google.com/view/mattansb) | <i class="fa fa-rss"></i> [Blog](https://shouldbewriting.netlify.com/)  
 <i class="fa fa-github"></i> [GitHub](https://github.com/mattansb) | <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mattan-s-ben-shachar)   
 <!-- <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/mattansb) | <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)   -->
-<i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801) | <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)
+<i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801) | <i class="fa fa-graduation-cap"></i> [G-Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)
 
 <!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
 <!-- <i class="fa fa-home"></i> 5 Dunash st., apt 27, Ramat-Gan   -->
@@ -108,7 +108,7 @@ N/A
 
 N/A
 
-2015 - Present
+Since 2015
 
 Teaching and instructing has been focused on B.A. and M.A. level statistics, research methods and R programming.
 
