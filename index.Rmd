@@ -37,8 +37,9 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 <!-- <i class="fa fa-envelope"></i> matanshm@post.bgu.ac.il   -->
-<i class="fa fa-envelope"></i> mattan.s.b@gmail.com  
-<i class="fa fa-globe"></i> [Home Page](https://sites.google.com/view/mattansb) | <i class="fa fa-rss"></i> [Blog](https://shouldbewriting.netlify.com/)  
+<!-- <i class="fa fa-envelope"></i> mattan.s.b@gmail.com   -->
+<i class="fa fa-envelope"></i> mattansb@msbstats.info  
+<i class="fa fa-globe"></i> [Home Page](https://home.msbstats.info) | <i class="fa fa-rss"></i> [Blog](https://blog.msbstats.info/)  
 <i class="fa fa-github"></i> [GitHub](https://github.com/mattansb) | <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mattan-s-ben-shachar)   
 <!-- <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/mattansb) | <i class="fa fa-share-alt"></i> [ResearchGate](https://www.researchgate.net/profile/Mattan_Ben_Shachar)   -->
 <i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801) | <i class="fa fa-graduation-cap"></i> [G-Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl)
