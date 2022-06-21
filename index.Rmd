@@ -319,28 +319,44 @@ Teaching Experience {data-icon=chalkboard-teacher #teaching}
 
 ### Lecturer & Teaching Fellow
 
-Ben-Gurion University
+N/A
 
 N/A
 
-Since 2015
+Since 2018
 
-Department of Psychology:  
-
-- Graduate level courses:  
-  - Hierarchical linear models (Spring 2022)  
-  - Machine learning for psychologists (Spring 2022)  
-  - Essential data science skills (Spring 2022)  
-  - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021; 2020; 2019)  
-  - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; 2020)  
-  - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
-  
-- Under-graduate level courses:  
-  - Experimental Psychology (Fall 2018)
- 
 :::aside
 *\* Denotes upcoming courses.*
 :::
+
+#### School of Psychological Sciences, Tel-Aviv University
+
+Graduate level courses:  
+- Machine Learning (Spring 2023\*)  
+- Hierarchical Linear Models (Spring 2023\*)  
+
+
+#### Department of Psychology, Ben-Gurion University
+
+Graduate level courses:  
+- Hierarchical Linear Models (Spring 2022)  
+- Machine Learning for Psychologists (Spring 2022)  
+- Essential Data Science Skills (Spring 2022)  
+- [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021; 2020; 2019)  
+- [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; 2020)  
+- [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
+  
+Under-graduate level courses:  
+- Regression (Fall 2022\*)  
+- Experimental Psychology (Fall 2018)
+
+#### Statistics and Data Program, Ben-Gurion University of the Negev
+
+Under-graduate level courses:  
+- Introduction to Data Science (Spring 2023\*)  
+- Bayesian Statistics and Modeling (Spring 2023\*)  
+
+
 
 ### Workshops
 
