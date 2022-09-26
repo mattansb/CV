@@ -70,9 +70,9 @@ Main
 Mattan S. Ben-Shachar {#title}
 --------------------------------------------------------------------------------
 
-I'm a freelance data analyst and  statistical consultant in service of the social sciences. I recently completed my PhD in neurocognitive psychology (pending approval) at Ben-Gurion University of the Negev, where I researched individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
+I am a freelance data analyst and  statistical consultant in service of the social sciences. I recently completed my PhD in neurocognitive psychology (pending approval) at Ben-Gurion University of the Negev, researching individual differences in processing speed using electroencephalography (EEG).
 
-I am also an active R developer and statistical educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consultation in these areas to numerous researchers.
+I am also an active `R` developer and statistical educator, and have provided support and consultation in these areas to numerous researchers, across several institutions. I am very opinionated about data analysis, inferential statistics and reproducible research, and am always happy to discuss these and related topics and to share from my expertise.
 
 
 Professional Experience {data-icon=laptop}
@@ -86,7 +86,7 @@ N/A
 
 Since 2016
 
-I provide freelance consultation and data analysis services for the social scientists. I am deeply rooted in theory and methodology as both an instructor and a **`R`** developer, while also mindful of the practical needs of researchers and academics. I provide guidance throughout all stages of the research process and decision-guided statistical analyses.
+I provide freelance consultation and data analysis services for the social sciences. I am deeply rooted in theory and methodology as both an instructor and an **`R`** developer, while also mindful of the practical needs of researchers and academics. I provide guidance throughout all stages of the research process and decision-guided statistical analyses.
 
 ### Statistics Lecturer
 
@@ -96,7 +96,7 @@ N/A
 
 Since 2015
 
-Teaching and instructing has been focused on bachelor- and graduate-level statistics, research methods and R programming.
+My teaching and instructing are focused on bachelor- and graduate-level statistics, research methods, and R programming.
 
 *See full list of [courses](https://mattansb.github.io/CV/#teaching).*
 
