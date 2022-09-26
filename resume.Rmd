@@ -54,7 +54,7 @@ Skills {#skills}
 **Languages**: English (native), Hebrew (native).  
 **Programming:** R, Python, Matlab (See my [github profile](https://github.com/mattansb)).  
 **Documentation:** Office Suites, Google Docs/Sheets, (R)Markdown.  
-**Data analysis**: Statistical modeling, inference and visualization of survey, behavioral, and EEG data. Proficient in generalized linear / nonlinear mixed models, structural equation modeling, and their Bayesian equivalents.  
+**Statistical analysis**: Statistical modeling, inference and visualization of survey, behavioral, and EEG data. Proficient in generalized linear / nonlinear mixed models, structural equation modeling, and their Bayesian equivalents.  
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -70,9 +70,9 @@ Main
 Mattan S. Ben-Shachar {#title}
 --------------------------------------------------------------------------------
 
-Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
+I'm a freelance data analyst and  statistical consultant in service of the social sciences. I recently completed my PhD in neurocognitive psychology (pending approval) at Ben-Gurion University of the Negev, where I researched individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
 
-I am an active R developer and science educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consultation in these areas to numerous researchers.
+I am also an active R developer and statistical educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consultation in these areas to numerous researchers.
 
 
 Professional Experience {data-icon=laptop}
@@ -86,7 +86,19 @@ N/A
 
 Since 2016
 
-Provide freelance consultation and data analysis services for the social scientists. I am deeply rooted in theory and methodology as both an instructor and a **`R`** developer, while also mindful of the practical needs of researchers and academics. I provide guidance throughout all stages of the research process and decision-guided statistical analyses.
+I provide freelance consultation and data analysis services for the social scientists. I am deeply rooted in theory and methodology as both an instructor and a **`R`** developer, while also mindful of the practical needs of researchers and academics. I provide guidance throughout all stages of the research process and decision-guided statistical analyses.
+
+### Statistics Lecturer
+
+N/A
+
+N/A
+
+Since 2015
+
+Teaching and instructing has been focused on bachelor- and graduate-level statistics, research methods and R programming.
+
+*See full list of [courses](https://mattansb.github.io/CV/#teaching).*
 
 ### R Developer
 
@@ -102,18 +114,6 @@ Since 2016
 
 *See more on [GitHub](https://github.com/mattansb).*
 
-### Teaching Experience
-
-N/A
-
-N/A
-
-Since 2015
-
-Teaching and instructing has been focused on B.A. and M.A. level statistics, research methods and R programming.
-
-*See full list of [courses](https://mattansb.github.io/CV/#teaching).*
-
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -123,9 +123,9 @@ Ben-Gurion University
 
 Be'er Sheva, Israel
 
-2017 - 2022 [expected]
+2023 [pending approval]
 
-**Thesis:** *The Electrophysiological Basis of Processing Speed.*  
+**Thesis:** *The Electrophysiological Basis of Processing Speed*  
 **Supervisor:** Prof. Andrea Berger  
 
 ### M.A. in Experimental Cognitive Psychology

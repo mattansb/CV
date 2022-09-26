@@ -57,7 +57,7 @@ Technical Skills
 --------------------------------------------------------------------------------
 
 **Programming:** R, Python, Matlab, (See my [github profile](https://github.com/mattansb)).  
-**Documentation:** Office Suites, (R)Markdown, Google Docs/Sheets.  
+**Documentation:** Office Suites, (R)Markdown/Quatro, Google Docs/Sheets.  
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -72,10 +72,9 @@ Main
 Mattan S. Ben-Shachar {#title}
 --------------------------------------------------------------------------------
 
-Currently a PhD student at Ben-Gurion University of the Negev. My research is focused on measuring individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
+I'm a freelance data analyst and  statistical consultant in service of the social sciences. I recently completed my PhD in neurocognitive psychology (pending approval) at Ben-Gurion University of the Negev, where I researched individual differences in processing speed using electroencephalography (EEG) - a high temporal functional brain imaging technique.
 
-I am an active R developer and stats and methods educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consultation in these areas to numerous researchers, universities and private institutions.
-
+I am also an active R developer and statistical educator, and am very opinionated about data analysis, inferential statistics and reproducible research. I have provided support and consultation in these areas to numerous researchers.
 
 Education {data-icon=graduation-cap data-concise=true #education}
 --------------------------------------------------------------------------------
@@ -86,9 +85,9 @@ Ben-Gurion University
 
 Be'er Sheva, Israel
 
-2017 - 2022 [expected]
+2023 [pending approval]
 
-**Thesis:** *The Electrophysiological Basis of Processing Speed.*  
+**Thesis:** *The Electrophysiological Basis of Processing Speed*  
 **Supervisor:** Prof. Andrea Berger  
 
 <!-- **Courses:**   -->
@@ -158,7 +157,7 @@ Graduated *Magna Cum Laude*
 Professional Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Data Analyst and Statistical Consultant 
+### Statistical Consultant and Analyst
 
 N/A
 
@@ -171,16 +170,16 @@ Provide freelance consultation and data analysis services for the social scienti
 ::: concise
 - Generalized linear models (regression, AN(C)OVA)  
 - Generalized mixed effects models (HLM, LMM)   
-- Dealing with missing data
-- Bayesian modeling and inference  
-- Nonlinear models (NLM)  
+- Missing data analysis and treatment  
 - Structural equation modeling (SEM)  
 - Factor analysis and clustering
+- Bayesian modeling and inference  
+- Nonlinear models (NLM)  
 :::
 
-As part of [my own research](#topics) I have lead and managed research projects, including teams of graduate students and research assistants, and collaborated with various international research groups. I provide guidance throughout all stages of the research process and decision-guided statistical analyses.
+As part of my own research I have lead and managed research projects, including teams of graduate students and research assistants, and collaborated with various international research groups. I provide guidance throughout all stages of the research process and decision-guided statistical analyses.
 
-### Teaching Experience
+### Statistics Lecturer
 
 N/A
 
@@ -188,9 +187,7 @@ N/A
 
 Since 2015
 
-
-Teaching has been focused on B.A. and M.A. level statistics, research methods and R programming.
-See [*Teaching Experience*](#teaching) section.
+Teaching and instructing has been focused on bachelor- and graduate-level statistics, research methods and R programming. See [*Teaching Experience*](#teaching) section.
 
 ### R Developer
 
@@ -213,7 +210,7 @@ List of additional packages I've contributed to: [`afex`](https://cran.r-project
 :::
 
 
-### Event-related Brain Dynamics
+### Neurophosiological Signal Processing
 <!-- talk about this as signal processing and big data -->
 <!-- give this a sexier name... -->
 
@@ -223,7 +220,7 @@ N/A
 
 Since 2015
 
-Designing experiments and analyzing electroencephalography (EEG) / event-related potential (ERP) data using `eeglab`.
+Designing experiments and analyzing electroencephalography (EEG) data of event-related brain dynamics using `eeglab`.
 
 - Developed Matlab toolboxes for artifact removal ([TBT](https://github.com/mattansb/TBT), an eeglab plugin) and for plotting and extracting measurements for processed EEG/ERP/wavelet data ([EPP-TB](https://github.com/mattansb/EPP-TB)).
 - Instructed workshops for pre-processing of experimental EEG.
@@ -339,15 +336,15 @@ Graduate level courses:
 #### Department of Psychology, Ben-Gurion University
 
 Graduate level courses:  
-- Hierarchical Linear Models (Spring 2022)  
-- Machine Learning for Psychologists (Spring 2022)  
-- Essential Data Science Skills (Spring 2022)  
+- Hierarchical Linear Models (Spring 2022; Spring 2023\*)  
+- Machine Learning for Psychologists (Spring 2022; Spring 2023\*)  
+- Essential Data Science Skills (Spring 2022; Spring 2023\*)  
 - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021; 2020; 2019)  
 - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; 2020)  
 - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
   
 Under-graduate level courses:  
-- Regression (Fall 2022\*)  
+- Regression (Fall 2022)  
 - Experimental Psychology (Fall 2018)
 
 #### Statistics and Data Program, Ben-Gurion University of the Negev
@@ -356,7 +353,10 @@ Under-graduate level courses:
 - Introduction to Data Science (Spring 2023\*)  
 - Bayesian Statistics and Modeling (Spring 2023\*)  
 
+#### School of Cognitive Sciences, Ben-Gurion University of the Negev
 
+Under-graduate level courses:  
+- Inferential Statistics (Fall 2022)  
 
 ### Workshops
 
@@ -372,6 +372,7 @@ Traveling workshops:
 
 ::: concise
 - *Pre-Processing EEG Data* (12h; Oct-Nov 2020, Jan-Feb 2020)  
+- *Intro to the R Programming Language* (7h; Jan 2021)  
 - *Trends in Open Science* (2h; Nov 2019, May 2019, Dec 2018) 
 - [*ANOVA and Contrasts in R*](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2h; May 2018)  
 :::
@@ -384,13 +385,18 @@ N/A
 
 2015 - 2018
 
-Department of Psychology:  
+#### Department of Psychology, Ben-Gurion University
+
+Under-graduate level courses:  
 
 - Experimental Psychology (Fall 2017; Summer 2017)  
 - Inferential Statistics (Spring 2018; Spring 2017)  
 - Introduction to Statistics (Fall 2015)  
 
-Department of Health Systems Management:  
+
+#### Department of Health Systems Management
+
+Graduate level courses:  
 
 - Research Seminar (*for Graduate Students*) (Fall 2017; Fall 2016)  
   
@@ -557,17 +563,6 @@ N/A
 N/A
 
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
-
-### Manuscripts In-Preparation
-
-N/A
-
-N/A
-
-N/A
-
-- **Ben-Shachar, M.S.** & Berger, A. (*in preparation*). Adaptation to Temporal Predictability is Related to Intelligence.  
-- Pinus, M., **Ben-Shachar, M.S.**, Vardimon, O.E., Kessler, Y., & Shachar, G. (*in preparation*). Circular Visual Analog Scale for Self-Criticism.
 
 
 ### Talks
