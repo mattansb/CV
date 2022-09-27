@@ -187,7 +187,7 @@ N/A
 
 Since 2015
 
-My teaching and instructing are focused on bachelor- and graduate-level statistics, research methods, and R programming. See [*Teaching Experience*](#teaching) section.
+My teaching and instructing are focused on undergraduate- and graduate-level statistics, research methods, and R programming. Over the last `r as.integer(ceiling(difftime(Sys.Date(), as.Date("2015-09-30"), unit="weeks")/52.25))` years I have taught 920 undergraduate students and 570 graduate students across over a dozen courses. See [*Teaching Experience*](#teaching) section.
 
 ### R Developer
 
