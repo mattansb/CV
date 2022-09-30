@@ -29,8 +29,7 @@ Aside
 ================================================================================
 
 <center>
-<!-- <img src="headshots/BrainOrange.jpg" style="width:80%; border-radius: 50%;"/> -->
-<img src="headshots/coat.jpg"        style="width:80%; border-radius: 50%;"/>
+<img src="headshots/FINALPP.png" style="width:80%; border-radius: 50%;"/>
 </center>
 
 Contact Info {#contact}
