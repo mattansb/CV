@@ -530,7 +530,7 @@ N/A
 
 N/A
 
-- Patil I., Makowski, D., **Ben-Shachar, M.S.**, Wiernik, B.M., Bacher, E., Lüdecke, D. (2022). datawizard: An R Package for Easy Data Preparation and Statistical Transformations. Journal of Open Source Software, 7(78), 4684. `r DOI_link("10.21105/joss.04684", FALSE)`  
+- Patil I., Makowski, D., **Ben-Shachar, M.S.**, Wiernik, B.M., Bacher, E., Lüdecke, D. (2022). datawizard: An R Package for Easy Data Preparation and Statistical Transformations. *Journal of Open Source Software, 7*(78), 4684. `r DOI_link("10.21105/joss.04684", FALSE)`  
 - Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (2022). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study. *Alcoholism: Clinical and Experimental Research*. `r DOI_link("10.1111/acer.14823")`  
 - Lüdecke, D., Patil, I., **Ben-Shachar, M.S.**, Wiernik, B.M., Waggoner, P., & Makowski, D. (2021). see: An R Package for Visualizing Statistical Models. *Journal of Open Source Software, 6*(64), 3393. `r DOI_link("10.21105/joss.03393", FALSE)`  
 - Pereg, M., Harpaz, D., Sabah, K., **Ben-Shachar, M.S.**, Amir, I., Dreisbach, G., & Meiran. N. (2021). Learning the Abstract General Task Structure in a Rapidly Changing Task Content. *Journal of Cognition, 4*(1), 31. `r DOI_link("10.5334/joc.176", FALSE)`  
@@ -543,8 +543,17 @@ N/A
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (2020). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. *Alcoholism: Clinical and Experimental Research, 44*(1), 114-124. `r DOI_link("10.1111/acer.14244")`  
 - Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (2019). Indices of Effect Existence and Significance in the Bayesian Framework. *Frontiers in Psychology, 10*, 2767. `r DOI_link("10.3389/fpsyg.2019.02767")`
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (2019). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience, 40*, 100722. `r DOI_link("10.1016/j.dcn.2019.100722")`
+
+### Peer Reviewed Publications (cont.)
+
+N/A
+
+N/A
+
+N/A
+
 - Makowski, D., **Ben-Shachar M.S.**, & Lüdecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541", FALSE)`
-- Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`
+- Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`  
 
 ### Book Chapters
 
