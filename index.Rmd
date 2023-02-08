@@ -1,6 +1,6 @@
 ---
 title: "Mattan S. Ben-Shachar's CV"
-author: Mattan S. Ben-Shachar
+author: Mattan S. Ben-Shachar, PhD
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -68,10 +68,10 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Mattan S. Ben-Shachar {#title}
+Mattan S. Ben-Shachar, PhD {#title}
 --------------------------------------------------------------------------------
 
-I am a freelance research analyst and statistical consultant in service of the social sciences. I recently completed my PhD in neurocognitive psychology (pending approval) at Ben-Gurion University of the Negev, researching individual differences in processing speed using electroencephalography (EEG).
+I am a freelance research analyst and statistical consultant in service of the social sciences. I recently completed my PhD in neurocognitive psychology at Ben-Gurion University of the Negev, researching individual differences in processing speed using electroencephalography (EEG).
 
 I am also an active `R` developer and statistical educator, and have provided support and consultation in these areas to numerous researchers, across several institutions. I am very opinionated about data analysis, inferential statistics and reproducible research, and am always happy to discuss these and related topics and to share from my expertise.
 
@@ -84,9 +84,9 @@ Ben-Gurion University
 
 Be'er Sheva, Israel
 
-2023 [pending approval]
+2023
 
-**Thesis:** *The Electrophysiological Basis of Processing Speed*  
+**Thesis:** [*The Electrophysiological Basis of Processing Speed* <i class="fa fa-download"></i>](https://drive.google.com/uc?export=download&id=10NbOvivBrRQiCiioiR4g4X3xk3Msp0G_)  
 **Supervisor:** Prof. Andrea Berger  
 
 <!-- **Courses:**   -->
@@ -330,8 +330,8 @@ Since 2018
 #### School of Psychological Sciences, Tel-Aviv University
 
 Graduate level courses:  
-- Machine Learning (Spring 2023\*)  
-- Hierarchical Linear Models (Spring 2023\*)  
+- Data Science Lab for Psychologists (Spring 2023\*)  
+- Hierarchical Models (Spring 2023\*)  
 
 
 #### Department of Psychology, Ben-Gurion University
@@ -345,7 +345,7 @@ Graduate level courses:
 - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
   
 Under-graduate level courses:  
-- Regression (Fall 2022)  
+- Regression and Multi-Variables Analysis (Fall 2022; Fall 2023\*)  
 - Experimental Psychology (Fall 2018)
 
 #### Statistics and Data Program, Ben-Gurion University of the Negev
