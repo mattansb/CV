@@ -530,7 +530,7 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M.S.**, & Berger, A. (2023). Are Visual-Spatial Abilities Related to the Speed of Mental Rotation? `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`  
+- **Ben-Shachar, M.S.**, & Berger, A. (2023). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`  
 - Patil I., Makowski, D., **Ben-Shachar, M.S.**, Wiernik, B.M., Bacher, E., Lüdecke, D. (2022). datawizard: An R Package for Easy Data Preparation and Statistical Transformations. *Journal of Open Source Software, 7*(78), 4684. `r DOI_link("10.21105/joss.04684", FALSE)`  
 - Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (2022). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study. *Alcoholism: Clinical and Experimental Research*. `r DOI_link("10.1111/acer.14823")`  
 - Lüdecke, D., Patil, I., **Ben-Shachar, M.S.**, Wiernik, B.M., Waggoner, P., & Makowski, D. (2021). see: An R Package for Visualizing Statistical Models. *Journal of Open Source Software, 6*(64), 3393. `r DOI_link("10.21105/joss.03393", FALSE)`  
@@ -595,7 +595,7 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M. S.** & Berger, A. (2023, February). *Are Visual-Spatial Abilities Related to the Speed of Mental Rotation?*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.  
+- **Ben-Shachar, M. S.** & Berger, A. (2023, February). *Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.  
 - **Ben-Shachar, M. S.** & Berger, A. (2022, February). *Processing Speed: General Trait or Domain Specific? Mental Rotation as a case study*. Poster presented at the The 9th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.  
 - **Ben-Shachar, M. S.** & Berger, A. (2021, February). *Adaptation to Temporal Predictability Is Related to Intelligence*. Poster presented at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.
 - **Ben-Shachar, M. S.**, Shmueli, M., Jacobson, J. L., Jacobson, S. W., & Berger, A. (2019, February). *Brain-level activity in response to perceived arithmetical errors reflects severity of Fetal alcohol spectrum disorders (FASD)*. Poster presented at the The 6th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
