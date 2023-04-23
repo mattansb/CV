@@ -55,7 +55,8 @@ Hebrew - native language
 Technical Skills
 --------------------------------------------------------------------------------
 
-**Programming:** R, Python, Matlab, (See my [github profile](https://github.com/mattansb)).  
+**Programming:** R, Matlab, SQL, Stan, Python, Git(Hub) (See my [github profile](https://github.com/mattansb)).  
+
 **Documentation:** Office Suites, (R)Markdown/Quatro, Google Docs/Sheets.  
 
 Disclaimer {#disclaimer}
@@ -330,16 +331,16 @@ Since 2018
 #### School of Psychological Sciences, Tel-Aviv University
 
 Graduate level courses:  
-- Data Science Lab for Psychologists (Spring 2023\*)  
-- Hierarchical Models (Spring 2023\*)  
+- Data Science Lab for Psychologists (Spring 2023)  
+- Hierarchical Models (Spring 2023)  
 
 
 #### Department of Psychology, Ben-Gurion University
 
 Graduate level courses:  
-- Hierarchical Linear Models (Spring 2022; Spring 2023\*)  
-- Machine Learning for Psychologists (Spring 2022; Spring 2023\*)  
-- Essential Data Science Skills (Spring 2022; Spring 2023\*)  
+- Hierarchical Linear Models (Spring 2022; Spring 2023)  
+- Machine Learning for Psychologists (Spring 2022; Spring 2023)  
+- Essential Data Science Skills (Spring 2022; Spring 2023)  
 - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021; 2020; 2019)  
 - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; 2020)  
 - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
@@ -351,8 +352,8 @@ Under-graduate level courses:
 #### Statistics and Data Program, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
-- Introduction to Data Science (Spring 2023\*)  
-- Bayesian Statistics and Modeling (Spring 2023\*)  
+- Introduction to Data Science (Spring 2023)  
+- Bayesian Statistics and Modeling (Spring 2023)  
 
 #### School of Cognitive Sciences, Ben-Gurion University of the Negev
 
