@@ -331,16 +331,16 @@ Since 2018
 #### School of Psychological Sciences, Tel-Aviv University
 
 Graduate level courses:  
-- Data Science Lab for Psychologists (Spring 2023)  
-- Hierarchical Models (Spring 2023)  
+- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2023)  
+- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2023)  
 
 
 #### Department of Psychology, Ben-Gurion University
 
 Graduate level courses:  
-- Hierarchical Linear Models (Spring 2022; Spring 2023)  
-- Machine Learning for Psychologists (Spring 2022; Spring 2023)  
-- Essential Data Science Skills (Spring 2022; Spring 2023)  
+- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2022; 2023; 2024\*)  
+- [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2022; 2023; 2024\*)  
+- Essential Data Science Skills (Spring 2022; 2023; 2024\*)  
 - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021; 2020; 2019)  
 - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; 2020)  
 - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
@@ -352,8 +352,8 @@ Under-graduate level courses:
 #### Statistics and Data Program, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
-- Introduction to Data Science (Spring 2023)  
-- Bayesian Statistics and Modeling (Spring 2023)  
+- Introduction to Data Science (Spring 2023; 2024\*)  
+- Bayesian Statistics and Modeling (Spring 2023; 2024\*)  
 
 #### School of Cognitive Sciences, Ben-Gurion University of the Negev
 
@@ -390,7 +390,6 @@ N/A
 #### Department of Psychology, Ben-Gurion University
 
 Under-graduate level courses:  
-
 - Experimental Psychology (Fall 2017; Summer 2017)  
 - Inferential Statistics (Spring 2018; Spring 2017)  
 - Introduction to Statistics (Fall 2015)  
@@ -399,7 +398,6 @@ Under-graduate level courses:
 #### Department of Health Systems Management
 
 Graduate level courses:  
-
 - Research Seminar (*for Graduate Students*) (Fall 2017; Fall 2016)  
   
 <!-- ### Mitam Instructor -->
@@ -531,6 +529,7 @@ N/A
 
 N/A
 
+- Einziger, T., Devor, T., **Ben-Shachar, M.S.**, Arazi, A., Dinstein, I., Klein, C., Auerbach, J.G., & Berger, A. (accepted). Increased neural variability in adolescents with ADHD symptomatology: Evidence from a single-trial EEG study. *Cortex*.  
 - **Ben-Shachar, M.S.**, Patil, I., Thériault, R., Wiernik, B.M., Lüdecke, D. (2023). Phi, Fei, Fo, Fum: Effect Sizes for Categorical Data That Use the Chi‑Squared Statistic. *Mathematics, 11*, 1982. `r DOI_link("10.3390/math11091982", FALSE)`  
 - **Ben-Shachar, M.S.**, & Berger, A. (2023). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`  
 - Patil I., Makowski, D., **Ben-Shachar, M.S.**, Wiernik, B.M., Bacher, E., Lüdecke, D. (2022). datawizard: An R Package for Easy Data Preparation and Statistical Transformations. *Journal of Open Source Software, 7*(78), 4684. `r DOI_link("10.21105/joss.04684", FALSE)`  
@@ -544,7 +543,6 @@ N/A
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (2020). Tactile Enumeration and Embodied Numerosity among the Deaf. *Cognitive Science, 44*, e12880. `r DOI_link("10.1111/cogs.12880")`  
 - Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (2020). Methods and Algorithms for Correlation Analysis in R. *Journal of Open Source Software, 5*(51), 2306. `r DOI_link("10.21105/joss.02306", FALSE)`  
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (2020). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. *Alcoholism: Clinical and Experimental Research, 44*(1), 114-124. `r DOI_link("10.1111/acer.14244")`  
-- Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (2019). Indices of Effect Existence and Significance in the Bayesian Framework. *Frontiers in Psychology, 10*, 2767. `r DOI_link("10.3389/fpsyg.2019.02767")`  
 
 ### Peer Reviewed Publications (cont.)
 
@@ -554,6 +552,7 @@ N/A
 
 N/A
 
+- Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (2019). Indices of Effect Existence and Significance in the Bayesian Framework. *Frontiers in Psychology, 10*, 2767. `r DOI_link("10.3389/fpsyg.2019.02767")`  
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (2019). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience, 40*, 100722. `r DOI_link("10.1016/j.dcn.2019.100722")`  
 - Makowski, D., **Ben-Shachar M.S.**, & Lüdecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541", FALSE)`
 - Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`  
