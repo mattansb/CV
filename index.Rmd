@@ -197,11 +197,13 @@ N/A
 
 Since 2016
 
-- Developer and maintainer of [*effectsize*](https://easystats.github.io/effectsize/) for 
+Core developer of the [*easystats* eco-system of packages](https://easystats.github.io/easystats/) --
+an [award-winning](#awards) collection of R packages,
+which aims to provide a unifying and consistent framework to tame, discipline and harness the scary R statistics and their pesky models (e.g., [*parameters*](https://cran.r-project.org/package=parameters), [*performance*](https://cran.r-project.org/package=performance), and more).
+
+- Developer and maintainer of [***effectsize***](https://easystats.github.io/effectsize/) for 
 estimating indices of effect size and standardized parameters.  
-- Developer of [*bayestestR*](https://easystats.github.io/bayestestR/), a package for describing and testing posterior distributions and Bayesian models.
-- Core developer of the [*easystats* eco-system of packages](https://easystats.github.io/easystats/) - a collection of R packages, which aims to provide a unifying and consistent framework to tame, discipline and harness the scary R statistics and their pesky models (e.g., [*parameters*](https://cran.r-project.org/package=parameters), [*performance*](https://cran.r-project.org/package=performance), and more).
-- [*cheatR*](https://github.com/mattansb/cheatR), a mini package for measuring similarity between documents. Designed to catch students who hand in class-mates' work as their own. Also available as a [Shiny App](https://almogsi.shinyapps.io/cheatR/); Read the [blog post](https://shouldbewriting.netlify.com/posts/2018-07-29-cheatr/).  
+- Developer of [***bayestestR***](https://easystats.github.io/bayestestR/), a package for describing and testing posterior distributions and Bayesian models.
 
 *See [mattansb.r-universe.dev](https://mattansb.r-universe.dev/).*
 
@@ -445,6 +447,16 @@ Graduate level courses:
 
 Awards and Scholarships {data-icon=star-o #awards}
 --------------------------------------------------------------------------------
+
+### SIPS Mission Award
+
+Society for Improving Psychological Science (SIPS)
+
+N/A
+
+2023
+
+[Awarded to the `easystats` project](http://improvingpsych.org/mission/awards/) for improving the training and research practices of psychological scientists.
 
 ### Full academic scholarship for graduate studies
 

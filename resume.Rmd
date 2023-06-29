@@ -111,9 +111,12 @@ N/A
 
 Since 2016
 
+Core developer of the [*easystats* eco-system of packages](https://easystats.github.io/easystats/) --
+an [award-winning](https://mattansb.github.io/CV/#awards) collection of R packages,
+ aimed at making stats with R more accessible.
+
 - Developer and maintainer of the [*effectsize*](https://easystats.github.io/effectsize/) package.
 - Developer of [*bayestestR*](https://easystats.github.io/bayestestR/), a package for describing and testing Bayesian posteriors.
-- Core developer of the [*easystats* eco-system of packages](https://easystats.github.io/easystats/) - a collection of R packages aimed at making stats with R more accessible.
 
 *See more on [GitHub](https://github.com/mattansb).*
 
