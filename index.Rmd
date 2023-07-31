@@ -541,11 +541,11 @@ N/A
 
 N/A
 
-- Einziger, T., Devor, T., **Ben-Shachar, M.S.**, Arazi, A., Dinstein, I., Klein, C., Auerbach, J.G., & Berger, A. (accepted). Increased neural variability in adolescents with ADHD symptomatology: Evidence from a single-trial EEG study. *Cortex*.  
+- Einziger, T., Devor, T., **Ben-Shachar, M.S.**, Arazi, A., Dinstein, I., Klein, C., Auerbach, J.G., & Berger, A. (accepted). Increased neural variability in adolescents with ADHD symptomatology: Evidence from a single-trial EEG study. *Cortex*, *167*, 25-40. `r DOI_link("10.1016/j.cortex.2023.06.007")`    
 - **Ben-Shachar, M.S.**, Patil, I., Thériault, R., Wiernik, B.M., Lüdecke, D. (2023). Phi, Fei, Fo, Fum: Effect Sizes for Categorical Data That Use the Chi‑Squared Statistic. *Mathematics, 11*, 1982. `r DOI_link("10.3390/math11091982", FALSE)`  
 - **Ben-Shachar, M.S.**, & Berger, A. (2023). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`  
 - Patil I., Makowski, D., **Ben-Shachar, M.S.**, Wiernik, B.M., Bacher, E., Lüdecke, D. (2022). datawizard: An R Package for Easy Data Preparation and Statistical Transformations. *Journal of Open Source Software, 7*(78), 4684. `r DOI_link("10.21105/joss.04684", FALSE)`  
-- Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (2022). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study. *Alcoholism: Clinical and Experimental Research*. `r DOI_link("10.1111/acer.14823")`  
+- Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (2022). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study. *Alcoholism: Clinical and Experimental Research*, *46*(6), 961-978. `r DOI_link("10.1111/acer.14823")`  
 - Lüdecke, D., Patil, I., **Ben-Shachar, M.S.**, Wiernik, B.M., Waggoner, P., & Makowski, D. (2021). see: An R Package for Visualizing Statistical Models. *Journal of Open Source Software, 6*(64), 3393. `r DOI_link("10.21105/joss.03393", FALSE)`  
 - Pereg, M., Harpaz, D., Sabah, K., **Ben-Shachar, M.S.**, Amir, I., Dreisbach, G., & Meiran. N. (2021). Learning the Abstract General Task Structure in a Rapidly Changing Task Content. *Journal of Cognition, 4*(1), 31. `r DOI_link("10.5334/joc.176", FALSE)`  
 - Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., Waggoner, P., & Makowski, D. (2021) performance: An R Package for Assessment, Comparison and Testing of Statistical Models. *Journal of Open Source Software, 6*(60), 3139. `r DOI_link("10.21105/joss.03139", FALSE)`  
@@ -598,6 +598,7 @@ N/A
 
 N/A
 
+- **Ben-Shachar, M. S.** & Berger, A. (2022, December). *A Bayesian Introduction to Probabilitese: The Language of Inference*. Psychology graduate seminar, Bar-Ilan University, Israel.  
 - **Ben-Shachar, M. S.** & Berger, A. (2019, May). *Impaired detection of erroneous arithmetic equations in adolescents with prenatal alcohol exposure: An EEG study* In Child Development. Symposium conducted at the Israeli Human Neuroimaging Conference, Jerusalem, Israel.
 
 ### Poster Presentations
