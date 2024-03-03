@@ -332,29 +332,29 @@ Since 2018
 #### School of Psychological Sciences, Tel-Aviv University
 
 Graduate level courses:  
-- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2023)  
-- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2023)  
+- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2023--2024)  
+- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2023--2024)  
 
 
 #### Department of Psychology, Ben-Gurion University
 
 Graduate level courses:  
-- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2022; 2023; 2024\*)  
-- [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2022; 2023; 2024\*)  
-- Essential Data Science Skills (Spring 2022; 2023; 2024\*)  
-- [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021; 2020; 2019)  
-- [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021; 2020)  
-- [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020; 2019)  
+- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2022--2023)  
+- [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2022--2024)  
+- Essential Data Science Skills (2022--2024)  
+- [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021--2019)  
+- [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021--2020)  
+- [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020--2019)  
   
 Under-graduate level courses:  
-- Regression and Multi-Variables Analysis (Fall 2022; Fall 2023\*)  
+- Regression and Multi-Variables Analysis (Fall 2022--2023)  
 - Experimental Psychology (Fall 2018)
 
 #### Statistics and Data Program, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
-- Introduction to Data Science (Spring 2023; 2024\*)  
-- Bayesian Statistics and Modeling (Spring 2023; 2024\*)  
+- Introduction to Data Science (Spring 2023--2024)  
+- Bayesian Statistics and Modeling (Spring 2023--2024)  
 
 #### School of Cognitive Sciences, Ben-Gurion University of the Negev
 
@@ -392,14 +392,14 @@ N/A
 
 Under-graduate level courses:  
 - Experimental Psychology (Fall 2017; Summer 2017)  
-- Inferential Statistics (Spring 2018; Spring 2017)  
+- Inferential Statistics (Spring 2017--2018)  
 - Introduction to Statistics (Fall 2015)  
 
 
 #### Department of Health Systems Management
 
 Graduate level courses:  
-- Research Seminar (*for Graduate Students*) (Fall 2017; Fall 2016)  
+- Research Seminar (*for Graduate Students*) (Fall 2016--2017)  
   
 <!-- ### Mitam Instructor -->
 
@@ -540,10 +540,11 @@ N/A
 
 N/A
 
+- **Ben-Shachar, M.S.**, & Berger, A. (2024). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`
+- Thériault, R., **Ben-Shachar, M.S.**, Patil, I., Lüdecke, D., Wiernik, B. M., & Makowski, D. (2024). Check your outliers! An introduction to identifying statistical outliers in R with easystats. `r DOI_link("10.31234/osf.io/bu6nt", FALSE)`  
 - Nahum, M., Sinvani, R.T., Afek, A., Ben Avraham, R., Jordan, J.T., **Ben Shachar, M.S.**, Ben Yehuda, A., Berezin Cohen, N., Davidov, A., & Gilboa, Y. (2023). Inhibitory control and mood in relation to psychological resilience: an ecological momentary assessment study. *Scientific Reports, 13*(1), 1-10.  
 - Einziger, T., Devor, T., **Ben-Shachar, M.S.**, Arazi, A., Dinstein, I., Klein, C., Auerbach, J.G., & Berger, A. (accepted). Increased neural variability in adolescents with ADHD symptomatology: Evidence from a single-trial EEG study. *Cortex*, *167*, 25-40. `r DOI_link("10.1016/j.cortex.2023.06.007")`    
 - **Ben-Shachar, M.S.**, Patil, I., Thériault, R., Wiernik, B.M., Lüdecke, D. (2023). Phi, Fei, Fo, Fum: Effect Sizes for Categorical Data That Use the Chi‑Squared Statistic. *Mathematics, 11*, 1982. `r DOI_link("10.3390/math11091982", FALSE)`  
-- **Ben-Shachar, M.S.**, & Berger, A. (2023). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`  
 - Patil I., Makowski, D., **Ben-Shachar, M.S.**, Wiernik, B.M., Bacher, E., Lüdecke, D. (2022). datawizard: An R Package for Easy Data Preparation and Statistical Transformations. *Journal of Open Source Software, 7*(78), 4684. `r DOI_link("10.21105/joss.04684", FALSE)`  
 - Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (2022). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study. *Alcoholism: Clinical and Experimental Research*, *46*(6), 961-978. `r DOI_link("10.1111/acer.14823")`  
 - Lüdecke, D., Patil, I., **Ben-Shachar, M.S.**, Wiernik, B.M., Waggoner, P., & Makowski, D. (2021). see: An R Package for Visualizing Statistical Models. *Journal of Open Source Software, 6*(64), 3393. `r DOI_link("10.21105/joss.03393", FALSE)`  
@@ -553,7 +554,6 @@ N/A
 - **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters Aims of the Package. *Journal of Open Source Software, 5*(56), 2815. `r DOI_link("10.21105/joss.02815", FALSE)`  
 - Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., & Makowski, D. (2020). Extracting, Computing and Exploring the Parameters of Statistical Models using R. *Journal of Open Source Software, 5*(53), 2445. `r DOI_link("10.21105/joss.02445", FALSE)`
 - Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (2020). Tactile Enumeration and Embodied Numerosity among the Deaf. *Cognitive Science, 44*, e12880. `r DOI_link("10.1111/cogs.12880")`  
-- Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (2020). Methods and Algorithms for Correlation Analysis in R. *Journal of Open Source Software, 5*(51), 2306. `r DOI_link("10.21105/joss.02306", FALSE)`  
 
 ### Peer Reviewed Publications (cont.)
 
@@ -563,13 +563,14 @@ N/A
 
 N/A
 
+- Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (2020). Methods and Algorithms for Correlation Analysis in R. *Journal of Open Source Software, 5*(51), 2306. `r DOI_link("10.21105/joss.02306", FALSE)`  
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (2020). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. *Alcoholism: Clinical and Experimental Research, 44*(1), 114-124. `r DOI_link("10.1111/acer.14244")`  
 - Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (2019). Indices of Effect Existence and Significance in the Bayesian Framework. *Frontiers in Psychology, 10*, 2767. `r DOI_link("10.3389/fpsyg.2019.02767")`  
 - Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (2019). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience, 40*, 100722. `r DOI_link("10.1016/j.dcn.2019.100722")`  
 - Makowski, D., **Ben-Shachar M.S.**, & Lüdecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541", FALSE)`
 - Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`  
 
-### Book Chapters
+### Books and Book Chapters
 
 N/A
 
@@ -577,6 +578,7 @@ N/A
 
 N/A
 
+- Jané, M., Xiao, Q., Yeung, S., **Ben-Shachar, M.S.**, ... & Feldman, G. (2024). *Guide to Effect Sizes and Confidence Intervals*. [https://matthewbjane.quarto.pub/](https://matthewbjane.quarto.pub/)
 - **Ben-Shachar, M.S.**, & Berger, A. (2018). An Introduction to Attention and Its Implication for Numerical Cognition. In A. Henik & W. Fias (Eds.), *Heterogeneity of Function in Numerical Cognition* (pp. 93-110). Academic Press. `r DOI_link("10.1016/B978-0-12-811529-9.00005-4")`  
 
 ### Preprints and Submitted Manuscripts
@@ -598,7 +600,7 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M. S.** & Berger, A. (2022, December). *A Bayesian Introduction to Probabilitese: The Language of Inference*. Psychology graduate seminar, Bar-Ilan University, Israel.  
+- **Ben-Shachar, M. S.** (2022, December). *A Bayesian Introduction to Probabilitese: The Language of Inference*. Psychology graduate seminar, Bar-Ilan University, Israel.  
 - **Ben-Shachar, M. S.** & Berger, A. (2019, May). *Impaired detection of erroneous arithmetic equations in adolescents with prenatal alcohol exposure: An EEG study* In Child Development. Symposium conducted at the Israeli Human Neuroimaging Conference, Jerusalem, Israel.
 
 ### Poster Presentations
