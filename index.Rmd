@@ -589,6 +589,8 @@ N/A
 
 N/A
 
+
+- Hochman, S.\*, **Ben-Shachar, M.S.**\*, Cohen Kadosh, R., & Henik, A. (*submitted*). A Novel Task for Measuring Spontaneous Focus on Numerosity Among Adults.  
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
 
