@@ -16,13 +16,6 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 # https://dktanwar.github.io/CV/ds.html
 # https://fontawesome.com/v4.7.0/icons/
 # https://github.com/jienagu/Jiena_McLellan_CV
-
-
-DOI_link <- function(doi, sci_hub = TRUE){
-  host <- if (sci_hub) "sci-hub.tw" else "doi.org"
-  
-  glue::glue("[DOI:{doi}](https://{host}/{doi})")
-}
 ```
 
 Aside

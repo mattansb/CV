@@ -204,14 +204,14 @@ which aims to provide a unifying and consistent framework to tame, discipline an
 estimating indices of effect size and standardized parameters.  
 - Developer of [***bayestestR***](https://easystats.github.io/bayestestR/), a package for describing and testing posterior distributions and Bayesian models.
 
-*See [mattansb.r-universe.dev](https://mattansb.r-universe.dev/).*
+*See my full [github profile](https://github.com/mattansb).*
 
 :::aside
 List of additional packages I have contributed to: [`afex`](https://cran.r-project.org/package=afex), [`brms`](https://cran.r-project.org/package=brms), [`ggeffects`](https://cran.r-project.org/package=ggeffects), [`semTools`](https://cran.r-project.org/package=semTools).
 :::
 
 
-### Neurocognitive Psychology Researcher
+### Neurocognitive Researcher
 
 N/A
 
@@ -523,10 +523,12 @@ Be'er Sheva, Israel
 
 \pagebreak
 
-Scientific Publications and Presentations {data-icon=file #pubs}
+Selected Publications {data-icon=file #pubs}
 --------------------------------------------------------------------------------
 
 :::aside
+For a full list of publications, see my [ORCID](https://orcid.org/0000-0002-4287-4801) or [Google Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ&hl) profiles. Contact me a PDF of any of my publications.
+
 In many of these works I was involved in the capacity of a statistical consultant or research analyst.
 
 *\* Denotes equal contribution.*
@@ -542,33 +544,11 @@ N/A
 
 - **Ben-Shachar, M.S.**, & Berger, A. (2024). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. _Journal of Experimental Psychology: Human Perception and Performance._ `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`
 - Thériault, R., **Ben-Shachar, M.S.**, Patil, I., Lüdecke, D., Wiernik, B. M., & Makowski, D. (2024). Check your outliers! An introduction to identifying statistical outliers in R with easystats. `r DOI_link("10.31234/osf.io/bu6nt", FALSE)`  
-- Nahum, M., Sinvani, R.T., Afek, A., Ben Avraham, R., Jordan, J.T., **Ben Shachar, M.S.**, Ben Yehuda, A., Berezin Cohen, N., Davidov, A., & Gilboa, Y. (2023). Inhibitory control and mood in relation to psychological resilience: an ecological momentary assessment study. *Scientific Reports, 13*(1), 1-10.  
-- Einziger, T., Devor, T., **Ben-Shachar, M.S.**, Arazi, A., Dinstein, I., Klein, C., Auerbach, J.G., & Berger, A. (accepted). Increased neural variability in adolescents with ADHD symptomatology: Evidence from a single-trial EEG study. *Cortex*, *167*, 25-40. `r DOI_link("10.1016/j.cortex.2023.06.007")`    
 - **Ben-Shachar, M.S.**, Patil, I., Thériault, R., Wiernik, B.M., Lüdecke, D. (2023). Phi, Fei, Fo, Fum: Effect Sizes for Categorical Data That Use the Chi‑Squared Statistic. *Mathematics, 11*, 1982. `r DOI_link("10.3390/math11091982", FALSE)`  
-- Patil I., Makowski, D., **Ben-Shachar, M.S.**, Wiernik, B.M., Bacher, E., Lüdecke, D. (2022). datawizard: An R Package for Easy Data Preparation and Statistical Transformations. *Journal of Open Source Software, 7*(78), 4684. `r DOI_link("10.21105/joss.04684", FALSE)`  
-- Shmueli, M., **Ben-Shachar, M.S.**, Jacobson, S.W., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Berger, A. (2022). Magnitude comparison and automaticity in number processing in adolescents with prenatal alcohol exposure: An event-related potentials study. *Alcoholism: Clinical and Experimental Research*, *46*(6), 961-978. `r DOI_link("10.1111/acer.14823")`  
-- Lüdecke, D., Patil, I., **Ben-Shachar, M.S.**, Wiernik, B.M., Waggoner, P., & Makowski, D. (2021). see: An R Package for Visualizing Statistical Models. *Journal of Open Source Software, 6*(64), 3393. `r DOI_link("10.21105/joss.03393", FALSE)`  
-- Pereg, M., Harpaz, D., Sabah, K., **Ben-Shachar, M.S.**, Amir, I., Dreisbach, G., & Meiran. N. (2021). Learning the Abstract General Task Structure in a Rapidly Changing Task Content. *Journal of Cognition, 4*(1), 31. `r DOI_link("10.5334/joc.176", FALSE)`  
-- Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., Waggoner, P., & Makowski, D. (2021) performance: An R Package for Assessment, Comparison and Testing of Statistical Models. *Journal of Open Source Software, 6*(60), 3139. `r DOI_link("10.21105/joss.03139", FALSE)`  
-- Einziger, T., **Ben-Shachar, M.S.**, Devor, T., Shmueli, M., Auerbach, J.G., & Berger, A. (2021). "My Brain Can Stop": An ERP Study of Longitudinal Prediction of Inhibitory Control in Adolescence. *Brain Sciences*, *11*(1), 100. `r DOI_link("10.3390/brainsci11010100", FALSE)`
 - **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters Aims of the Package. *Journal of Open Source Software, 5*(56), 2815. `r DOI_link("10.21105/joss.02815", FALSE)`  
-- Lüdecke, D., **Ben-Shachar, M.S.**, Patil, I., & Makowski, D. (2020). Extracting, Computing and Exploring the Parameters of Statistical Models using R. *Journal of Open Source Software, 5*(53), 2445. `r DOI_link("10.21105/joss.02445", FALSE)`
-- Hochman, S., Cohen, Z.Z., **Ben-Shachar, M.S.**, & Henik, A. (2020). Tactile Enumeration and Embodied Numerosity among the Deaf. *Cognitive Science, 44*, e12880. `r DOI_link("10.1111/cogs.12880")`  
-
-### Peer Reviewed Publications (cont.)
-
-N/A
-
-N/A
-
-N/A
-
-- Makowski, D., **Ben-Shachar, M.S.**, Patil, I., & Lüdecke, D. (2020). Methods and Algorithms for Correlation Analysis in R. *Journal of Open Source Software, 5*(51), 2306. `r DOI_link("10.21105/joss.02306", FALSE)`  
 - **Ben-Shachar, M.S.**, Shmueli M., Meintjes, E.M., Molteno, C.D., Jacobson, J.L., Jacobson, S.W., & Berger A. (2020). Prenatal alcohol exposure alters error detection during simple arithmetic processing: An Electroencephalography study. *Alcoholism: Clinical and Experimental Research, 44*(1), 114-124. `r DOI_link("10.1111/acer.14244")`  
 - Makowski, D., **Ben-Shachar, M.S.**, Chen, S.A., & Lüdecke, D. (2019). Indices of Effect Existence and Significance in the Bayesian Framework. *Frontiers in Psychology, 10*, 2767. `r DOI_link("10.3389/fpsyg.2019.02767")`  
-- Berger, A., Shmueli, M., Lisson, S., **Ben-Shachar, M.S.**, Lindinger, N.M., Lewis, C.E., Dodge, N. C., Molteno, C.D., Meintjes, E.M., Jacobson, J.L., & Jacobson, S.W. (2019). Deficits in arithmetic error detection in infants with prenatal alcohol exposure: an ERP study. *Developmental Cognitive Neuroscience, 40*, 100722. `r DOI_link("10.1016/j.dcn.2019.100722")`  
-- Makowski, D., **Ben-Shachar M.S.**, & Lüdecke, D. (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. *Journal of Open Source Software, 4*(40), 1537. `r DOI_link("10.21105/joss.01541", FALSE)`
-- Lavro, D., **Ben-Shachar, M.S.**, Saville, C.W., Klein, C., & Berger, A. (2018). Testing the bottleneck account for post-error slowing beyond the post-error response. *Biological psychology, 138*, 81-90. `r DOI_link("10.1016/j.biopsycho.2018.08.010")`  
+
 
 ### Books and Book Chapters
 
@@ -581,7 +561,7 @@ N/A
 - Jané, M., Xiao, Q., Yeung, S., **Ben-Shachar, M.S.**, ... & Feldman, G. (2024). *Guide to Effect Sizes and Confidence Intervals*. [https://matthewbjane.quarto.pub/](https://matthewbjane.quarto.pub/)
 - **Ben-Shachar, M.S.**, & Berger, A. (2018). An Introduction to Attention and Its Implication for Numerical Cognition. In A. Henik & W. Fias (Eds.), *Heterogeneity of Function in Numerical Cognition* (pp. 93-110). Academic Press. `r DOI_link("10.1016/B978-0-12-811529-9.00005-4")`  
 
-### Preprints and Submitted Manuscripts
+### Misc.
 
 N/A
 
@@ -589,35 +569,34 @@ N/A
 
 N/A
 
-
-- Hochman, S.\*, **Ben-Shachar, M.S.**\*, Cohen Kadosh, R., & Henik, A. (*submitted*). A Novel Task for Measuring Spontaneous Focus on Numerosity Among Adults.  
+<!-- - Hochman, S.\*, **Ben-Shachar, M.S.**\*, Cohen Kadosh, R., & Henik, A. (*submitted*). A Novel Task for Measuring Spontaneous Focus on Numerosity Among Adults.   -->
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
 
-### Talks
+<!-- ### Talks -->
 
-N/A
+<!-- N/A -->
 
-N/A
+<!-- N/A -->
 
-N/A
+<!-- N/A -->
 
-- **Ben-Shachar, M. S.** (2022, December). *A Bayesian Introduction to Probabilitese: The Language of Inference*. Psychology graduate seminar, Bar-Ilan University, Israel.  
-- **Ben-Shachar, M. S.** & Berger, A. (2019, May). *Impaired detection of erroneous arithmetic equations in adolescents with prenatal alcohol exposure: An EEG study* In Child Development. Symposium conducted at the Israeli Human Neuroimaging Conference, Jerusalem, Israel.
+<!-- - **Ben-Shachar, M. S.** (2022, December). *A Bayesian Introduction to Probabilitese: The Language of Inference*. Psychology graduate seminar, Bar-Ilan University, Israel.   -->
+<!-- - **Ben-Shachar, M. S.** & Berger, A. (2019, May). *Impaired detection of erroneous arithmetic equations in adolescents with prenatal alcohol exposure: An EEG study* In Child Development. Symposium conducted at the Israeli Human Neuroimaging Conference, Jerusalem, Israel. -->
 
-### Poster Presentations
+<!-- ### Poster Presentations -->
 
-N/A
+<!-- N/A -->
 
-N/A
+<!-- N/A -->
 
-N/A
+<!-- N/A -->
 
-- **Ben-Shachar, M. S.** & Berger, A. (2023, February). *Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.  
-- **Ben-Shachar, M. S.** & Berger, A. (2022, February). *Processing Speed: General Trait or Domain Specific? Mental Rotation as a case study*. Poster presented at the The 9th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.  
-- **Ben-Shachar, M. S.** & Berger, A. (2021, February). *Adaptation to Temporal Predictability Is Related to Intelligence*. Poster presented at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.
-- **Ben-Shachar, M. S.**, Shmueli, M., Jacobson, J. L., Jacobson, S. W., & Berger, A. (2019, February). *Brain-level activity in response to perceived arithmetical errors reflects severity of Fetal alcohol spectrum disorders (FASD)*. Poster presented at the The 6th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
-- **Ben-Shachar, M. S.**, Jacobson, J. L., Jacobson, S. W., & Berger, A. (2018, May). *Neural Evidence for a Deficit in Numerosity Processing in Infants Prenatally Exposed to Alcohol*. Poster presented at the the 16th WAIMH World Congress, Rome, Italy.
-- **Ben-Shachar, M. S.**, Shotts-Peretz, D., & Berger, A. (2018, February). *Increased Acuity of the Analog Magnitude System is Related to Spontaneous Focusing on Numerosity in Children and Adults*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
-- **Ben-Shachar, M. S.**, Lisson, S., Shotts-Peretz, D., & Berger, A. (2018, January). *Spontaneous Focusing on Numerosity is Related to Increased Acuity of the Analog Magnitude System*. Poster presented at the The 7th International Meeting of the Integrated Brain and Behavior Research Center, Haifa, Israel.
-- **Ben-Shachar, M. S.**, Berger, A., Mesika, D., Lewis, C. E., Lindinger, N. M., Dodge, N. C., . Jacobson, S. W. (2017, February). *Electrophysiological Evidence for the Role of Processing Speed in Visual Recognition Tasks*. Poster presented at the The 4th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.
+<!-- - **Ben-Shachar, M. S.** & Berger, A. (2023, February). *Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.   -->
+<!-- - **Ben-Shachar, M. S.** & Berger, A. (2022, February). *Processing Speed: General Trait or Domain Specific? Mental Rotation as a case study*. Poster presented at the The 9th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.   -->
+<!-- - **Ben-Shachar, M. S.** & Berger, A. (2021, February). *Adaptation to Temporal Predictability Is Related to Intelligence*. Poster presented at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel. -->
+<!-- - **Ben-Shachar, M. S.**, Shmueli, M., Jacobson, J. L., Jacobson, S. W., & Berger, A. (2019, February). *Brain-level activity in response to perceived arithmetical errors reflects severity of Fetal alcohol spectrum disorders (FASD)*. Poster presented at the The 6th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel. -->
+<!-- - **Ben-Shachar, M. S.**, Jacobson, J. L., Jacobson, S. W., & Berger, A. (2018, May). *Neural Evidence for a Deficit in Numerosity Processing in Infants Prenatally Exposed to Alcohol*. Poster presented at the the 16th WAIMH World Congress, Rome, Italy. -->
+<!-- - **Ben-Shachar, M. S.**, Shotts-Peretz, D., & Berger, A. (2018, February). *Increased Acuity of the Analog Magnitude System is Related to Spontaneous Focusing on Numerosity in Children and Adults*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel. -->
+<!-- - **Ben-Shachar, M. S.**, Lisson, S., Shotts-Peretz, D., & Berger, A. (2018, January). *Spontaneous Focusing on Numerosity is Related to Increased Acuity of the Analog Magnitude System*. Poster presented at the The 7th International Meeting of the Integrated Brain and Behavior Research Center, Haifa, Israel. -->
+<!-- - **Ben-Shachar, M. S.**, Berger, A., Mesika, D., Lewis, C. E., Lindinger, N. M., Dodge, N. C., . Jacobson, S. W. (2017, February). *Electrophysiological Evidence for the Role of Processing Speed in Visual Recognition Tasks*. Poster presented at the The 4th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel. -->
