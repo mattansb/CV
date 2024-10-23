@@ -16,6 +16,19 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 # https://dktanwar.github.io/CV/ds.html
 # https://fontawesome.com/v4.7.0/icons/
 # https://github.com/jienagu/Jiena_McLellan_CV
+
+count_students <- readxl::read_xlsx("count_students.xlsx")
+
+n_students <- count_students |> 
+  dplyr::summarise(
+    n = sum(מספר), 
+    .by = תואר
+  ) |> 
+  dplyr::pull(n, name = תואר)
+
+# length(unique(count_students$קורס))
+
+years_teaching <- difftime(Sys.Date(), as.Date("2015-09-30")) / lubridate::dyears()
 ```
 
 Aside
@@ -93,7 +106,7 @@ N/A
 
 Since 2015
 
-My teaching and instructing are focused on bachelor- and graduate-level statistics, research methods, and R programming.
+My teaching and instructing are focused on undergraduate- and graduate-level statistics, research methods, and R programming. Taught over `r scales::comma(sum(n_students), 10)` students across over a dozen different courses.
 
 *See full list of [courses](https://mattansb.github.io/CV/#teaching).*
 

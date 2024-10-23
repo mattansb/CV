@@ -23,6 +23,19 @@ DOI_link <- function(doi, sci_hub = TRUE){
   
   glue::glue("[DOI:{doi}](https://{host}/{doi})")
 }
+
+count_students <- readxl::read_xlsx("count_students.xlsx")
+
+n_students <- count_students |> 
+  dplyr::summarise(
+    n = sum(מספר), 
+    .by = תואר
+  ) |> 
+  dplyr::pull(n, name = תואר)
+
+# length(unique(count_students$קורס))
+
+years_teaching <- difftime(Sys.Date(), as.Date("2015-09-30")) / lubridate::dyears()
 ```
 
 Aside
@@ -187,7 +200,7 @@ N/A
 
 Since 2015
 
-My teaching and instructing are focused on undergraduate- and graduate-level statistics, research methods, and R programming. Over the last `r as.integer(ceiling(difftime(Sys.Date(), as.Date("2015-09-30"), unit="weeks")/52.25))` years I have taught 920 undergraduate students and 570 graduate students across over a dozen courses. See [*Teaching Experience*](#teaching) section.
+My teaching and instructing are focused on undergraduate- and graduate-level statistics, research methods, and R programming. Over the last `r scales::comma(years_teaching)` years I have taught over `r scales::comma(n_students["1"], 10)` undergraduate students and over `r scales::comma(n_students["2"], 10)` graduate students across over a dozen courses. See [*Teaching Experience*](#teaching) section.
 
 ### R Developer {#R-dev}
 
@@ -343,9 +356,9 @@ Graduate level courses:
 - [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2022--2023)  
 - [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2022--2024)  
 - Essential Data Science Skills (2022--2024)  
-- [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2021--2019)  
-- [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2021--2020)  
-- [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2020--2019)  
+- [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019--2021)  
+- [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2020--2021)  
+- [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2019)  
   
 Under-graduate level courses:  
 - Regression and Multi-Variables Analysis (Fall 2022--2023)  
@@ -360,7 +373,7 @@ Under-graduate level courses:
 #### School of Cognitive Sciences, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
-- Inferential Statistics (Fall 2022)  
+- Inferential Statistics for Cognitive Sciences (Fall 2022)  
 
 ### Workshops
 
