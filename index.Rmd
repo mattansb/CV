@@ -383,6 +383,7 @@ N/A
 
 N/A
 
+- *Bayesian Statistics: So Much More Than Just the Bayes factor.* (2 days; Aug 2024)  
 - [*Evaluating Evidence and Making Decisions using Bayesian Statistics*](https://mattansb.github.io/bayesian-evidence). Workshop at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.  
 
 Traveling workshops:
