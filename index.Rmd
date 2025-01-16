@@ -49,14 +49,15 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 <i class="fa fa-envelope"></i> mattansb@msbstats.info  
-<i class="fa fa-globe"></i> [Home Page](https://home.msbstats.info) | <i class="fa fa-rss"></i> [Blog](https://blog.msbstats.info/)  
-<i class="fa fa-github"></i> [GitHub](https://github.com/mattansb) | <i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mattan-s-ben-shachar)   
-<i class="fa fa-twitter"></i> [Twitter](https://twitter.com/mattansb) | <i class="fa fa-cloud"></i> [BlueSky](https://bsky.app/profile/mattansb.bsky.social)  
-<i class="fa fa-id-badge"></i> [ORCID](https://orcid.org/0000-0002-4287-4801) |
-<i class="fa fa-graduation-cap"></i> [G-Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ)  
-
 <!-- <i class="fa fa-phone"></i> +972 50-837-1566   -->
 <!-- <i class="fa fa-home"></i> 5 Dunash st., apt 27, Ramat-Gan   -->
+<i class="fa fa-globe"></i> [Home Page](https://home.msbstats.info) | 
+<i class="fa fa-rss"></i> [Blog](https://blog.msbstats.info/)  
+<i class="fa fa-brands fa-bluesky"></i> [BlueSky](https://bsky.app/profile/mattansb.bsky.social) |
+<i class="fa fa-brands fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mattan-s-ben-shachar)  
+<i class="fa fa-brands fa-github"></i> [GitHub](https://github.com/mattansb)  
+<i class="fa fa-brands fa-orcid"></i> [ORCID](https://orcid.org/0000-0002-4287-4801) |
+<i class="fa fa-brands fa-google-scholar"></i> [G-Scholar](https://scholar.google.co.il/citations?user=Vrbic5QAAAAJ)  
 
 Languages {#languages}
 --------------------------------------------------------------------------------
@@ -346,16 +347,16 @@ Since 2018
 #### School of Psychological Sciences, Tel-Aviv University
 
 Graduate level courses:  
-- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2023--2024)  
-- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2023--2024)  
+- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Annually, since 2023)  
+- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Annually, since 2023)  
 
 
 #### Department of Psychology, Ben-Gurion University
 
 Graduate level courses:  
-- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Spring 2022--2023)  
-- [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Spring 2022--2024)  
-- Essential Data Science Skills (2022--2024)  
+- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Biannually, since 2022)  
+- [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Annually, since 2022)  
+- Essential Data Science Skills (Annually, since 2022)  
 - [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019--2021)  
 - [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2020--2021)  
 - [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2019)  
@@ -367,8 +368,8 @@ Under-graduate level courses:
 #### Statistics and Data Program, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
-- Introduction to Data Science (Spring 2023--2024)  
-- Bayesian Statistics and Modeling (Spring 2023--2024)  
+- Introduction to Data Science (Annually, since 2023)  
+- Bayesian Statistics and Modeling (Annually, since 2023)  
 
 #### School of Cognitive Sciences, Ben-Gurion University of the Negev
 
