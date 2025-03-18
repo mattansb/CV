@@ -33,7 +33,15 @@ n_students <- count_students |>
   ) |> 
   dplyr::pull(n, name = תואר)
 
-# length(unique(count_students$קורס))
+n_courses <- count_students |> 
+  # dplyr::group_by(מוסד) |> 
+  dplyr::distinct(קורס) |> 
+  dplyr::count() |> 
+  dplyr::pull() |> 
+  sum()
+
+dozen_courses <- floor(n_courses / 12)
+dozen_courses_txt <- ifelse(dozen_courses == 1, "a", insight::format_number(dozen_courses))
 
 years_teaching <- difftime(Sys.Date(), as.Date("2015-09-30")) / lubridate::dyears()
 ```
@@ -201,7 +209,7 @@ N/A
 
 Since 2015
 
-My teaching and instructing are focused on undergraduate- and graduate-level statistics, research methods, and R programming. Over the last `r scales::comma(years_teaching)` years I have taught over `r scales::comma(n_students["1"], 10)` undergraduate students and over `r scales::comma(n_students["2"], 10)` graduate students across over a dozen courses. See [*Teaching Experience*](#teaching) section.
+My teaching and instructing are focused on undergraduate- and graduate-level statistics, research methods, and R programming. Over the last `r scales::comma(years_teaching)` years I have taught over `r scales::comma(n_students["1"], 10)` undergraduate students and over `r scales::comma(n_students["2"], 10)` graduate students across over `r dozen_courses_txt` dozen courses. See [*Teaching Experience*](#teaching) section.
 
 ### R Developer {#R-dev}
 
