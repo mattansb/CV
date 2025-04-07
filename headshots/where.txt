@@ -1,13 +1,14 @@
-moodle bgu
-moodle tau
+- [x] main site
+- [] CV / resume
+- [x] msbstats.info
+- [x] post.bgu.ac.il
+- [x] mytau.tau.ac.il
+- [x] moodle tau
+- [x] moodle bgu
 
-msbstats.info
-post.bgu.ac.il
-tau.mail
+- [x] GitHub
+- [x] stanformus
 
-GitHub
-stanformus
-
-twitter/X
-bluesky
-linkedin
+- [x] twitter/X
+- [x] bluesky
+- [x] linkedin

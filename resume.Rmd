@@ -45,7 +45,7 @@ Aside
 
 
 <center>
-<img src="headshots/JSF_9523.png" style="width:100%; border-radius: 50%;"/>
+<img src="headshots/segel-zutar/square.jpg" style="width:100%; border-radius: 50%;"/>
 </center>
 
 
