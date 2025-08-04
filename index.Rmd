@@ -24,11 +24,12 @@ DOI_link <- function(doi, sci_hub = TRUE){
   glue::glue("[DOI:{doi}](https://{host}/{doi})")
 }
 
-count_students <- readxl::read_xlsx("count_students.xlsx")
+count_students <- readxl::read_xlsx("count_students.xlsx") |> 
+  tidyr::drop_na(מספר)
 
 n_students <- count_students |> 
   dplyr::summarise(
-    n = sum(מספר), 
+    n = sum(מספר),
     .by = תואר
   ) |> 
   dplyr::pull(n, name = תואר)
@@ -355,34 +356,33 @@ Since 2018
 #### School of Psychological Sciences, Tel-Aviv University
 
 Graduate level courses:  
-- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Annually, since 2023)  
-- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Annually, since 2023)  
+- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (since 2023)  
+- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (since 2023)  
 
 
 #### Department of Psychology, Ben-Gurion University
 
 Graduate level courses:  
-- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (Biannually, since 2022)  
-- [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (Annually, since 2022)  
-- Essential Data Science Skills (Annually, since 2022)  
-- [Practical applications in R](https://github.com/mattansb/Advanced-Research-Methods-foR-Psychologists) (Fall 2019--2021)  
-- [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (Spring 2020--2021)  
-- [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (Spring 2019)  
+- Advanced Research Methods for Psychologists (since 2026)
+- [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (since 2022)  
+- Essential Data Science Skills (since 2022)  
+- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (since 2022, biannually)  
+- Structural equation modelling (2026)
   
 Under-graduate level courses:  
-- Regression and Multi-Variables Analysis (Fall 2022--2023)  
-- Experimental Psychology (Fall 2018)
+- Regression and Multi-Variables Analysis (2022--2023)  
+- Experimental Psychology (2018)
 
 #### Statistics and Data Program, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
-- Introduction to Data Science (Annually, since 2023)  
-- Bayesian Statistics and Modeling (Annually, since 2023)  
+- Bayesian Statistics and Modeling (since 2023)  
+- Introduction to Data Science (2023--2025)  
 
 #### School of Cognitive Sciences, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
-- Inferential Statistics for Cognitive Sciences (Fall 2022)  
+- Inferential Statistics for Cognitive Sciences (2022)  
 
 ### Workshops
 
@@ -392,18 +392,14 @@ N/A
 
 N/A
 
-- *Bayesian Statistics: So Much More Than Just the Bayes factor.* (2 days; Aug 2024)  
+- *Advance R Tools for Research.* (2 days; Sep 2025)  
+- *Bayesian Statistics: So Much More Than Just the Bayes factor.* (2 days; Aug 2024; Mar 2025)  
 - [*Evaluating Evidence and Making Decisions using Bayesian Statistics*](https://mattansb.github.io/bayesian-evidence). Workshop at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.  
-
-Traveling workshops:
-
-::: concise
-- *Pre-Processing EEG Data* (12h; Oct-Nov 2020, Jan-Feb 2020)  
-- *Intro to the R Programming Language* (7h; Jan 2021)  
-- *Trends in Open Science* (2h; Nov 2019, May 2019, Dec 2018) 
+<!-- - *Pre-Processing EEG Data* (12h; Oct-Nov 2020, Jan-Feb 2020)   -->
+- *Intro to the R Programming Language* (7h; Jan 2021, Feb 2023)  
+- *Trends in Open Science* (2h; Dec 2018, May 2019, Nov 2019) 
 - [*ANOVA and Contrasts in R*](https://github.com/mattansb/ANOVA-and-Contrasts-in-R) (2h; May 2018)  
-:::
- 
+
 ### Teaching Assistant & Instructor
 
 Ben-Gurion University  
@@ -414,27 +410,21 @@ N/A
 
 #### Department of Psychology, Ben-Gurion University
 
+Graduate level courses:  
+- [Practical applications in R](https://github.com/mattansb/Practical-Applications-in-R-for-Psychologists) (2019--2021)  
+- [Structural equation modelling in R](https://github.com/mattansb/Structural-Equation-Modeling-foR-Psychologists) (2020--2021)  
+- [Analysis of factorial designs in R](https://github.com/mattansb/Analysis-of-Factorial-Designs-foR-Psychologists) (2019)  
+
 Under-graduate level courses:  
-- Experimental Psychology (Fall 2017; Summer 2017)  
-- Inferential Statistics (Spring 2017--2018)  
-- Introduction to Statistics (Fall 2015)  
+- Experimental Psychology (Fall + Summer 2017)  
+- Inferential Statistics (2017--2018)  
+- Introduction to Statistics (2015)  
 
 
 #### Department of Health Systems Management
 
 Graduate level courses:  
-- Research Seminar (*for Graduate Students*) (Fall 2016--2017)  
-  
-<!-- ### Mitam Instructor -->
-
-<!-- Ofek Mitam -->
-
-<!-- N/A -->
-
-<!-- 2016 -->
-
-<!-- MITAM Prep Course -->
-
+- Research Seminar (*for Graduate Students*) (2016--2017)  
 
 
 
