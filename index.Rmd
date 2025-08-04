@@ -363,7 +363,7 @@ Graduate level courses:
 #### Department of Psychology, Ben-Gurion University
 
 Graduate level courses:  
-- Advanced Research Methods for Psychologists (since 2026)
+- Advanced Research Methods for Psychologists (since 2026)  
 - [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (since 2022)  
 - Essential Data Science Skills (since 2022)  
 - [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (since 2022, biannually)  
