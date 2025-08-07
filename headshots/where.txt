@@ -5,6 +5,7 @@
 - [x] mytau.tau.ac.il
 - [x] moodle tau
 - [x] moodle bgu
+- [x] scholar
 
 - [x] GitHub
 - [x] stanformus
