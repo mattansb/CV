@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 
 DOI_link <- function(doi, sci_hub = TRUE){
-  host <- if (sci_hub) "sci-hub.se" else "doi.org"
+  host <- if (sci_hub) "sci-hub.st" else "doi.org"
   
   glue::glue("[DOI:{doi}](https://{host}/{doi})")
 }
@@ -376,6 +376,7 @@ Under-graduate level courses:
 #### Statistics and Data Program, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
+- Guided Research (since 2026)  
 - Bayesian Statistics and Modeling (since 2023)  
 - Introduction to Data Science (2023--2025)  
 
@@ -558,7 +559,8 @@ N/A
 
 N/A
 
-- **Ben-Shachar, M.S.**, & Berger, A. (2024). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. _Journal of Experimental Psychology: Human Perception and Performance._ `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`
+- Hochman, S.\*, **Ben-Shachar, M.S.**\*, Kadosh, R.C., & Henik, A. (2026). A novel task for measuring numerical bias among adults. _Cognition, 271_, 106439. `r DOI_link("10.1016/j.cognition.2026.106439", FALSE)`  
+- **Ben-Shachar, M.S.**, & Berger, A. (2024). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. _Journal of Experimental Psychology: Human Perception and Performance._ `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`  
 - Thériault, R., **Ben-Shachar, M.S.**, Patil, I., Lüdecke, D., Wiernik, B. M., & Makowski, D. (2024). Check your outliers! An introduction to identifying statistical outliers in R with easystats. `r DOI_link("10.31234/osf.io/bu6nt", FALSE)`  
 - **Ben-Shachar, M.S.**, Patil, I., Thériault, R., Wiernik, B.M., Lüdecke, D. (2023). Phi, Fei, Fo, Fum: Effect Sizes for Categorical Data That Use the Chi‑Squared Statistic. *Mathematics, 11*, 1982. `r DOI_link("10.3390/math11091982", FALSE)`  
 - **Ben-Shachar, M.S.**, Lüdecke, D., & Makowski, D. (2020). effectsize: Estimation of Effect Size Indices and Standardized Parameters Aims of the Package. *Journal of Open Source Software, 5*(56), 2815. `r DOI_link("10.21105/joss.02815", FALSE)`  
