@@ -2,6 +2,7 @@
 - [x] CV / resume
 - [x] msbstats.info
 - [x] post.bgu.ac.il
+- [x] https://www.bgu.ac.il/people/matanshm/
 - [x] mytau.tau.ac.il
 - [x] moodle tau
 - [x] moodle bgu
