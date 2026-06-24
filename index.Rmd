@@ -34,13 +34,7 @@ n_students <- count_students |>
   ) |> 
   dplyr::pull(n, name = תואר)
 
-n_courses <- count_students |> 
-  # dplyr::group_by(מוסד) |> 
-  dplyr::distinct(קורס) |> 
-  dplyr::count() |> 
-  dplyr::pull() |> 
-  sum()
-
+n_courses <- dplyr::n_distinct(count_students$קורס)
 dozen_courses <- floor(n_courses / 12)
 dozen_courses_txt <- ifelse(dozen_courses == 1, "a", insight::format_number(dozen_courses))
 
@@ -77,9 +71,9 @@ Hebrew - native language
 Technical Skills
 --------------------------------------------------------------------------------
 
-**Programming:** R, Matlab, SQL, Stan, Python, Git(Hub) (See my [github profile](https://github.com/mattansb)).  
+**Programming:** R, Python, SQL, Stan, Matlab, Git(Hub) (See my [github profile](https://github.com/mattansb)).  
 
-**Documentation:** Office Suites, (R)Markdown/Quatro, Google Docs/Sheets.  
+**Documentation:** Quatro/(R)Markdown, Office Suites, Google Docs/Sheets.  
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -195,7 +189,8 @@ I am deeply rooted in theoretical and applied statistics, and am committed to th
 - Generalized mixed effects models (HLM, LMM)   
 - Missing data analysis and treatment  
 - Structural equation modeling (SEM)  
-- Factor analysis and clustering
+- Machine learning  
+- Factor analysis and clustering  
 - Bayesian modeling and inference  
 - Nonlinear models (NLM)  
 :::
@@ -210,7 +205,10 @@ N/A
 
 Since 2015
 
-My teaching and instructing are focused on undergraduate- and graduate-level statistics, research methods, and R programming. Over the last `r scales::comma(years_teaching)` years I have taught over `r scales::comma(n_students["1"], 10)` undergraduate students and over `r scales::comma(n_students["2"], 10)` graduate students across over `r dozen_courses_txt` dozen courses. See [*Teaching Experience*](#teaching) section.
+My teaching and instructing are focused on undergraduate- and graduate-level statistics, research methods, and R programming.
+Over the last `r scales::comma(years_teaching)` years I have taught over `r scales::comma(n_students["1"], 50)` undergraduate students
+and over `r scales::comma(n_students["2"], 50)` graduate students across over `r dozen_courses_txt` dozen courses.
+See [*Teaching Experience*](#teaching) section.
 
 ### R Developer {#R-dev}
 
@@ -231,7 +229,11 @@ estimating indices of effect size and standardized parameters.
 *See my full [github profile](https://github.com/mattansb).*
 
 :::aside
-List of additional packages I have contributed to: [`afex`](https://cran.r-project.org/package=afex), [`brms`](https://cran.r-project.org/package=brms), [`ggeffects`](https://cran.r-project.org/package=ggeffects), [`semTools`](https://cran.r-project.org/package=semTools).
+List of additional packages I have contributed to: 
+[`afex`](https://cran.r-project.org/package=afex),
+[`brms`](https://cran.r-project.org/package=brms),
+[`ggeffects`](https://cran.r-project.org/package=ggeffects),
+[`semTools`](https://cran.r-project.org/package=semTools).
 :::
 
 
@@ -256,20 +258,9 @@ National Institute for Testing and Evaluation
 
 N/A
 
-Since 2020
+2020--2026
 
 I am a developer and reviewer of the MITAM exam (entrance test for advanced degrees in psychology - equivalent to the GRE).
-
-<!-- ### Member of Editorial Board -->
-
-<!-- N/A -->
-
-<!-- N/A -->
-
-<!-- N/A -->
-
-<!-- - (2020 - Present) Review Editor for *Frontiers in Applied Mathematics and Statistics* and *Frontiers in Psychology*.   -->
-<!-- - Ad hoc reviewer: *British Journal of Mathematical and Statistical Psychology*, *Cerebral Cortex*, *Frontiers in Psychology*, and *Advances in Methods and Practices in Psychological Science*. -->
 
 
 <!-- ### Research Assistant -->
@@ -349,9 +340,14 @@ N/A
 
 Since 2018
 
-:::aside
-*\* Denotes upcoming courses.*
-:::
+<!-- :::aside -->
+<!-- *\* Denotes upcoming courses.* -->
+<!-- ::: -->
+
+#### Sagol School of Neuroscience, Tel-Aviv University
+
+Graduate level courses:  
+- Intro to Statistics for Neuroscience (since 2026)
 
 #### School of Psychological Sciences, Tel-Aviv University
 
@@ -366,7 +362,7 @@ Graduate level courses:
 - Advanced Research Methods for Psychologists (since 2026)  
 - [Machine Learning for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (since 2022)  
 - Essential Data Science Skills (since 2022)  
-- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (since 2022, biannually)  
+- [Hierarchical Linear Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (since 2022)  
 - Structural equation modelling (2026)
   
 Under-graduate level courses:  
@@ -559,6 +555,7 @@ N/A
 
 N/A
 
+- Lüdecke, D., Makowski, A.C., Klein, J., **Ben-Shachar, M.S.**, & Makowski, D. (2026). Choosing informative priors in Bayesian regression models: a simulation study and tutorial using Stan and R. *Frontiers in Psychology, 17*, 1856582. `r DOI_link("10.3389/fpsyg.2026.1856582", FALSE)`  
 - Hochman, S.\*, **Ben-Shachar, M.S.**\*, Kadosh, R.C., & Henik, A. (2026). A novel task for measuring numerical bias among adults. _Cognition, 271_, 106439. `r DOI_link("10.1016/j.cognition.2026.106439", FALSE)`  
 - **Ben-Shachar, M.S.**, & Berger, A. (2024). Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation. _Journal of Experimental Psychology: Human Perception and Performance._ `r DOI_link("10.31234/osf.io/gkzxf", FALSE)`  
 - Thériault, R., **Ben-Shachar, M.S.**, Patil, I., Lüdecke, D., Wiernik, B. M., & Makowski, D. (2024). Check your outliers! An introduction to identifying statistical outliers in R with easystats. `r DOI_link("10.31234/osf.io/bu6nt", FALSE)`  
@@ -587,34 +584,6 @@ N/A
 
 N/A
 
-<!-- - Hochman, S.\*, **Ben-Shachar, M.S.**\*, Cohen Kadosh, R., & Henik, A. (*submitted*). A Novel Task for Measuring Spontaneous Focus on Numerosity Among Adults.   -->
 - **Ben-Shachar, M.S.**\*, Lisson, S.\*, Shotts-Peretz, D., Hannula-Sormunen, M., & Berger, A. (*preprint*). Spontaneous Focusing on Numerosity Linked to Quantity Discrimination in Children and Adults. `r DOI_link("10.31234/osf.io/mt3n9", FALSE)`  
 
 
-<!-- ### Talks -->
-
-<!-- N/A -->
-
-<!-- N/A -->
-
-<!-- N/A -->
-
-<!-- - **Ben-Shachar, M. S.** (2022, December). *A Bayesian Introduction to Probabilitese: The Language of Inference*. Psychology graduate seminar, Bar-Ilan University, Israel.   -->
-<!-- - **Ben-Shachar, M. S.** & Berger, A. (2019, May). *Impaired detection of erroneous arithmetic equations in adolescents with prenatal alcohol exposure: An EEG study* In Child Development. Symposium conducted at the Israeli Human Neuroimaging Conference, Jerusalem, Israel. -->
-
-<!-- ### Poster Presentations -->
-
-<!-- N/A -->
-
-<!-- N/A -->
-
-<!-- N/A -->
-
-<!-- - **Ben-Shachar, M. S.** & Berger, A. (2023, February). *Visual-Spatial Abilities Are NOT Related to the Speed of Mental Rotation*. Poster presented at the The 10th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel.   -->
-<!-- - **Ben-Shachar, M. S.** & Berger, A. (2022, February). *Processing Speed: General Trait or Domain Specific? Mental Rotation as a case study*. Poster presented at the The 9th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel.   -->
-<!-- - **Ben-Shachar, M. S.** & Berger, A. (2021, February). *Adaptation to Temporal Predictability Is Related to Intelligence*. Poster presented at the The 8th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Israel. -->
-<!-- - **Ben-Shachar, M. S.**, Shmueli, M., Jacobson, J. L., Jacobson, S. W., & Berger, A. (2019, February). *Brain-level activity in response to perceived arithmetical errors reflects severity of Fetal alcohol spectrum disorders (FASD)*. Poster presented at the The 6th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel. -->
-<!-- - **Ben-Shachar, M. S.**, Jacobson, J. L., Jacobson, S. W., & Berger, A. (2018, May). *Neural Evidence for a Deficit in Numerosity Processing in Infants Prenatally Exposed to Alcohol*. Poster presented at the the 16th WAIMH World Congress, Rome, Italy. -->
-<!-- - **Ben-Shachar, M. S.**, Shotts-Peretz, D., & Berger, A. (2018, February). *Increased Acuity of the Analog Magnitude System is Related to Spontaneous Focusing on Numerosity in Children and Adults*. Poster presented at the The 5th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel. -->
-<!-- - **Ben-Shachar, M. S.**, Lisson, S., Shotts-Peretz, D., & Berger, A. (2018, January). *Spontaneous Focusing on Numerosity is Related to Increased Acuity of the Analog Magnitude System*. Poster presented at the The 7th International Meeting of the Integrated Brain and Behavior Research Center, Haifa, Israel. -->
-<!-- - **Ben-Shachar, M. S.**, Berger, A., Mesika, D., Lewis, C. E., Lindinger, N. M., Dodge, N. C., . Jacobson, S. W. (2017, February). *Electrophysiological Evidence for the Role of Processing Speed in Visual Recognition Tasks*. Poster presented at the The 4th Conference on Cognitive Research of the Israeli Society for Cognitive Psychology, Akko, Israel. -->
