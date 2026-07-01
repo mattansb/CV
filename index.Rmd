@@ -344,18 +344,6 @@ Since 2018
 <!-- *\* Denotes upcoming courses.* -->
 <!-- ::: -->
 
-#### Sagol School of Neuroscience, Tel-Aviv University
-
-Graduate level courses:  
-- Intro to Statistics for Neuroscience (since 2026)
-
-#### School of Psychological Sciences, Tel-Aviv University
-
-Graduate level courses:  
-- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (since 2023)  
-- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (since 2023)  
-
-
 #### Department of Psychology, Ben-Gurion University
 
 Graduate level courses:  
@@ -369,17 +357,34 @@ Under-graduate level courses:
 - Regression and Multi-Variables Analysis (2022--2023)  
 - Experimental Psychology (2018)
 
-#### Statistics and Data Program, Ben-Gurion University of the Negev
+
+#### School of Statistics<!-- and Data Analysis -->, Ben-Gurion University of the Negev
+
 
 Under-graduate level courses:  
-- Guided Research (since 2026)  
 - Bayesian Statistics and Modeling (since 2023)  
+- Guided Research (since 2026)  
 - Introduction to Data Science (2023--2025)  
+
+
+#### School of Psychological Sciences, Tel-Aviv University
+
+Graduate level courses:  
+- [Data Science Lab for Psychologists](https://github.com/mattansb/Machine-Learning-foR-Psychologists) (since 2023)  
+- [Hierarchical Models](https://github.com/mattansb/Hierarchical-Linear-Models-foR-Psychologists) (since 2023)  
+
+
+#### Sagol School of Neuroscience, Tel-Aviv University
+
+Graduate level courses:  
+- Intro to Statistics for Neuroscience (since 2026)
+
 
 #### School of Cognitive Sciences, Ben-Gurion University of the Negev
 
 Under-graduate level courses:  
 - Inferential Statistics for Cognitive Sciences (2022)  
+
 
 ### Workshops
 
